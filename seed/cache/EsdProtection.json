@@ -1,0 +1,4720 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "75 PIECES SM/TH ASSORTED ICS KIT",
+   "DetailedDescription": "Integrated Circuit Kit Assorted ICs 75 Pieces (15 Values - 5 Each) Surface Mount, Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 497,
+   "Name": "STMicroelectronics"
+  },
+  "ManufacturerProductNumber": "497-STANDARD-KIT",
+  "UnitPrice": 46.77,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/stmicroelectronics/497-STANDARD-KIT/14555146",
+  "DatasheetUrl": "",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6131/MFG_497-STANDARD-KIT.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "497-STANDARD-KIT-ND",
+    "PackageType": {
+     "Id": 262,
+     "Name": "Book"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 46.77,
+      "TotalPrice": 46.77
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 497,
+     "Name": "STMicroelectronics"
+    },
+    "QuantityAvailableforPackageType": 2,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2,
+  "ProductStatus": {
+   "Id": 2,
+   "Status": "Discontinued at DigiKey"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 223,
+    "ParameterText": "Kit Type",
+    "ParameterType": "String",
+    "ValueId": "508602",
+    "ValueText": "Assorted ICs"
+   },
+   {
+    "ParameterId": 168,
+    "ParameterText": "Quantity",
+    "ParameterType": "String",
+    "ValueId": "277034",
+    "ValueText": "75 Pieces (15 Values - 5 Each)"
+   },
+   {
+    "ParameterId": 296,
+    "ParameterText": "Kit Contents",
+    "ParameterType": "String",
+    "ValueId": "508601",
+    "ValueText": "LM358DT, USBDF01W5, LMV321RILT, 2STR2160, ULN2803A, TS391RILT, 520, LDL1117S33R, M24256-DFMN6TP, P6KE150A, BAT54SFILM, ESDAXLC6-1BT2Y, T1635-600G-TR, ULN2003D1013TR, TS3021ILT, USBLC6-2SC6"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409429",
+    "ValueText": "Surface Mount, Through Hole"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 31,
+   "ParentId": 0,
+   "Name": "Kits",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/196/030/76650-0029_tmb.jpg",
+   "SeoDescription": "Kit products are assortments of similar items that are varied in some respect, intended to provide convenient availability of such products for development, repair, or evaluation purposes. Examples include wire of a common gauge in various colors, timing crystals of different frequencies, resistors or inductors of assorted values, fuses of different sizes and current ratings, heat shrinkable tubing of different sizes, LEDs in varying colors, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 658,
+     "ParentId": 31,
+     "Name": "Integrated Circuits (ICs) Kits",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/102/040/497-17565-KIT_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pre-packaged sets of surface mount and through-hole integrated circuits (ICs) for evaluation, demonstration and experimentation. Cardboard and plastic kit boxes include digital isolators, high-side drivers, logic, memory, microcontrollers, RF, switches, multiplexors, demultiplexers, transceivers, and translators. Kits are available according to the number of values and the quantity of each value required.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "1",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "497-Standard-Kit"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "6A@8/20US 13V 78W@8/20US 9V 5V S",
+   "DetailedDescription": "13V Clamp 6A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6"
+  },
+  "Manufacturer": {
+   "Id": 5399,
+   "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+  },
+  "ManufacturerProductNumber": "USBLC6-2SC6",
+  "UnitPrice": 0.18,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/USBLC6-2SC6/28143029",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7833/USBLC6-2SC6%20SOT-23-6L.PDF",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7731/MFG_USBLC6-2SC6-SOT-23-6L.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "5399-USBLC6-2SC6TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.03551,
+      "TotalPrice": 106.53
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.02962,
+      "TotalPrice": 266.58
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 5399,
+     "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "5399-USBLC6-2SC6CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.18,
+      "TotalPrice": 0.18
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.11,
+      "TotalPrice": 1.1
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0782,
+      "TotalPrice": 3.91
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0678,
+      "TotalPrice": 6.78
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.04926,
+      "TotalPrice": 24.63
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 5399,
+     "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+    },
+    "QuantityAvailableforPackageType": 1941,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "5399-USBLC6-2SC6DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.18,
+      "TotalPrice": 0.18
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.11,
+      "TotalPrice": 1.1
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0782,
+      "TotalPrice": 3.91
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0678,
+      "TotalPrice": 6.78
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.04926,
+      "TotalPrice": 24.63
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 5399,
+     "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+    },
+    "QuantityAvailableforPackageType": 1941,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "2",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "253213",
+    "ValueText": "6.5V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "92529",
+    "ValueText": "13V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "266265",
+    "ValueText": "6A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "280207",
+    "ValueText": "78W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345291",
+    "ValueText": "Ethernet, USB"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "36535",
+    "ValueText": "0.8pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "6",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "5399-USBLC6-2SC6DKR",
+   "5399-USBLC6-2SC6CT",
+   "5399-USBLC6-2SC6TR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5.5VWM 6SON",
+   "DetailedDescription": "Clamp Ipp Tvs Diode Surface Mount 6-SON (1.45x1)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "TPD2E001DRYR",
+  "UnitPrice": 0.88,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TPD2E001DRYR/1629058",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4104/296%7E4207181%7EDRY%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-21884-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.20858,
+      "TotalPrice": 1042.9
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.1843,
+      "TotalPrice": 2764.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 10000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 5000,
+    "StandardPackage": 5000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-21884-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.94,
+      "TotalPrice": 0.94
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.581,
+      "TotalPrice": 5.81
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.426,
+      "TotalPrice": 21.3
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3757,
+      "TotalPrice": 37.57
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.28718,
+      "TotalPrice": 143.59
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 13528,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-21884-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.88,
+      "TotalPrice": 0.88
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.548,
+      "TotalPrice": 5.48
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4018,
+      "TotalPrice": 20.09
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3544,
+      "TotalPrice": 35.44
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.27092,
+      "TotalPrice": 135.46
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 13528,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 13528,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "2",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "233089",
+    "ValueText": "5.5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "80315",
+    "ValueText": "11V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345107",
+    "ValueText": "Ethernet"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "267416",
+    "ValueText": "6-UFDFN"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "267301",
+    "ValueText": "6-SON (1.45x1)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 56429,
+   "Name": "TPD2E001"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "296-21884-2",
+   "-TPD2E001DRYRG4",
+   "296-21884-1",
+   "-296-21884-1",
+   "-TPD2E001DRYR-NDR",
+   "-TPD2E001DRYRG4-NDR",
+   "-296-21884-1-ND",
+   "296-21884-6"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5.5VWM SOT5",
+   "DetailedDescription": "Clamp Ipp Tvs Diode Surface Mount SOT-5"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "TPD2E001DRLR",
+  "UnitPrice": 0.94,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TPD2E001DRLR/1629057",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4270/296%7E4205622-2%7EDRL%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-21883-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.21438,
+      "TotalPrice": 857.52
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.1887,
+      "TotalPrice": 2264.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 6525,
+    "MinimumOrderQuantity": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-21883-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.94,
+      "TotalPrice": 0.94
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.581,
+      "TotalPrice": 5.81
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.426,
+      "TotalPrice": 21.3
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3757,
+      "TotalPrice": 37.57
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.28718,
+      "TotalPrice": 143.59
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 6556,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-21883-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.94,
+      "TotalPrice": 0.94
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.581,
+      "TotalPrice": 5.81
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.426,
+      "TotalPrice": 21.3
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3757,
+      "TotalPrice": 37.57
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.28718,
+      "TotalPrice": 143.59
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 6556,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 6556,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "2",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "233089",
+    "ValueText": "5.5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "80315",
+    "ValueText": "11V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345107",
+    "ValueText": "Ethernet"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405539",
+    "ValueText": "SOT-553"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405520",
+    "ValueText": "SOT-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 56429,
+   "Name": "TPD2E001"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "-296-21883-1-ND",
+   "-TPD2E001DRLR-NDR",
+   "296-21883-6",
+   "296-21883-2",
+   "296-21883-1",
+   "-296-21883-1",
+   "-TPD2E001DRLRG4",
+   "-TPD2E001DRLRG4-NDR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5.5VWM 6SON",
+   "DetailedDescription": "Clamp Ipp Tvs Diode Surface Mount 6-SON (3x3)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "TPD2E001DRSR",
+  "UnitPrice": 0.88,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TPD2E001DRSR/1739879",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6222/296%7E4206219%7EDRS%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-22850-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.24399,
+      "TotalPrice": 243.99
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.20976,
+      "TotalPrice": 629.28
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 3000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1000,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-22850-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.88,
+      "TotalPrice": 0.88
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.548,
+      "TotalPrice": 5.48
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4018,
+      "TotalPrice": 20.09
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3544,
+      "TotalPrice": 35.44
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.27092,
+      "TotalPrice": 135.46
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 3547,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-22850-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.88,
+      "TotalPrice": 0.88
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.548,
+      "TotalPrice": 5.48
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4018,
+      "TotalPrice": 20.09
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3544,
+      "TotalPrice": 35.44
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.27092,
+      "TotalPrice": 135.46
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 3547,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 3547,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "2",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "233089",
+    "ValueText": "5.5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "80315",
+    "ValueText": "11V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345107",
+    "ValueText": "Ethernet"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "267669",
+    "ValueText": "6-WDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "267308",
+    "ValueText": "6-SON (3x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 56429,
+   "Name": "TPD2E001"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "2  (1 Year)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "-296-22850-1-ND",
+   "296-22850-2-NDR",
+   "TEXTISTPD2E001DRSR",
+   "296-22850-1",
+   "296-22850-1-NDR",
+   "-TPD2E001DRSR-NDR",
+   "296-22850-6-NDR",
+   "296-22850-2",
+   "-296-22850-1-NDR",
+   "296-22850-6",
+   "2156-TPD2E001DRSR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5.5VWM 6SON",
+   "DetailedDescription": "Clamp Ipp Tvs Diode Surface Mount 6-SON (3x3)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "TPD2E001DRST-NM",
+  "UnitPrice": 2.68,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TPD2E001DRST-NM/2782286",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6222/296%7E4206219%7EDRS%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-29887-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.03424,
+      "TotalPrice": 258.56
+     },
+     {
+      "BreakQuantity": 750,
+      "UnitPrice": 0.89957,
+      "TotalPrice": 674.6775
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 500,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 250,
+    "StandardPackage": 250,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-29887-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.68,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.724,
+      "TotalPrice": 17.24
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.3116,
+      "TotalPrice": 65.58
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.1784,
+      "TotalPrice": 117.84
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 715,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-29887-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.68,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.724,
+      "TotalPrice": 17.24
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.3116,
+      "TotalPrice": 65.58
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.1784,
+      "TotalPrice": 117.84
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 715,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 715,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "2",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "233089",
+    "ValueText": "5.5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "80315",
+    "ValueText": "11V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345107",
+    "ValueText": "Ethernet"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "267669",
+    "ValueText": "6-WDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "267308",
+    "ValueText": "6-SON (3x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 56429,
+   "Name": "TPD2E001"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "2  (1 Year)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "-296-29887-1-ND",
+   "296-29887-1",
+   "2156-TPD2E001DRST-NM",
+   "296-29887-2",
+   "-TPD2E001DRST",
+   "TPD2E001DRSTNM",
+   "-296-29887-1",
+   "TEXTISTPD2E001DRST-NM",
+   "296-29887-6",
+   "-TPD2E001DRST-NM-NDR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 17.5VC SOT23-6",
+   "DetailedDescription": "17.5V Clamp 12A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6"
+  },
+  "Manufacturer": {
+   "Id": 600,
+   "Name": "Semtech Corporation"
+  },
+  "ManufacturerProductNumber": "SRV05-4.TCT",
+  "UnitPrice": 1.81,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/semtech-corporation/SRV05-4-TCT/1000944",
+  "DatasheetUrl": "https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MCn6/BeAzV1kgq8LEQB.FR71VkMB1v3NUxVrSyFjXw9p4pnk",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2614/600%7ESOT23-6%7E%7E6.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "SRV05-4TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.48741,
+      "TotalPrice": 1462.23
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.43679,
+      "TotalPrice": 3931.11
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 600,
+     "Name": "Semtech Corporation"
+    },
+    "QuantityAvailableforPackageType": 147000,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.81,
+      "TotalPrice": 1.81
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.15,
+      "TotalPrice": 11.5
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.8626,
+      "TotalPrice": 43.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7697,
+      "TotalPrice": 76.97
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.60658,
+      "TotalPrice": 303.29
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 600,
+     "Name": "Semtech Corporation"
+    },
+    "QuantityAvailableforPackageType": 147215,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.81,
+      "TotalPrice": 1.81
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.15,
+      "TotalPrice": 11.5
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.8626,
+      "TotalPrice": 43.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7697,
+      "TotalPrice": 76.97
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.60658,
+      "TotalPrice": 303.29
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 600,
+     "Name": "Semtech Corporation"
+    },
+    "QuantityAvailableforPackageType": 147215,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 147215,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "109853",
+    "ValueText": "17.5V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "86833",
+    "ValueText": "12A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "182825",
+    "ValueText": "300W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "350483",
+    "ValueText": "General Purpose"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "202425",
+    "ValueText": "3pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242921",
+    "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 76799,
+   "Name": "SRV05"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 46542,
+   "Name": "RailClamp\u00ae, SR"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "SRV05-4TR",
+   "Q4266112",
+   "SRV05-4CT",
+   "SRV05-4DKR",
+   "SRV054TCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 6VWM 15VC SOT23-6",
+   "DetailedDescription": "15V Clamp 10A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6"
+  },
+  "Manufacturer": {
+   "Id": 18,
+   "Name": "Littelfuse Inc."
+  },
+  "ManufacturerProductNumber": "SRV05-4HTG-D",
+  "UnitPrice": 1.51,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/littelfuse-inc/SRV05-4HTG-D/10230852",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-tvs-diode-array-srv05-4htg-d-datasheet?assetguid=d716fc4c-0484-4b67-97d8-cf719554d89a",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6166/18%7ESOT23-6%7EH%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "SRV05-4HTG-DTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.32509,
+      "TotalPrice": 975.27
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.31416,
+      "TotalPrice": 2827.44
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 18,
+     "Name": "Littelfuse Inc."
+    },
+    "QuantityAvailableforPackageType": 57000,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4HTG-DCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.51,
+      "TotalPrice": 1.51
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.953,
+      "TotalPrice": 9.53
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.7092,
+      "TotalPrice": 35.46
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6303,
+      "TotalPrice": 63.03
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.49152,
+      "TotalPrice": 245.76
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 18,
+     "Name": "Littelfuse Inc."
+    },
+    "QuantityAvailableforPackageType": 59206,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4HTG-DDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.51,
+      "TotalPrice": 1.51
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.953,
+      "TotalPrice": 9.53
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.7092,
+      "TotalPrice": 35.46
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6303,
+      "TotalPrice": 63.03
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.49152,
+      "TotalPrice": 245.76
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 18,
+     "Name": "Littelfuse Inc."
+    },
+    "QuantityAvailableforPackageType": 59206,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 59206,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "267455",
+    "ValueText": "6V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "103542",
+    "ValueText": "15V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "72453",
+    "ValueText": "10A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "100697",
+    "ValueText": "150W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345107",
+    "ValueText": "Ethernet"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "120799",
+    "ValueText": "1pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212479",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "29",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42999,
+   "Name": "SRV05, SPA\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "SRV05-4HTG-DTR",
+   "SRV05-4HTG-DDKR",
+   "SRV05-4HTG-DCT",
+   "-SRV05-4HTG-D"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 17.5VC SOT23-6",
+   "DetailedDescription": "17.5V Clamp 5A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6"
+  },
+  "Manufacturer": {
+   "Id": 1655,
+   "Name": "SMC Diode Solutions"
+  },
+  "ManufacturerProductNumber": "SRV05-4A",
+  "UnitPrice": 0.61,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/smc-diode-solutions/SRV05-4A/6022743",
+  "DatasheetUrl": "https://www.smc-diodes.com/propdf/SRV05-4A%20N1763%20REV.A.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4955/1655%3BSOT23%3B%3B6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1655-SRV05-4ATR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.13702,
+      "TotalPrice": 411.06
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.1186,
+      "TotalPrice": 1067.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1655,
+     "Name": "SMC Diode Solutions"
+    },
+    "QuantityAvailableforPackageType": 48000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1655-SRV05-4ACT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.61,
+      "TotalPrice": 0.61
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.375,
+      "TotalPrice": 3.75
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.2726,
+      "TotalPrice": 13.63
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2392,
+      "TotalPrice": 23.92
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.18026,
+      "TotalPrice": 90.13
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1655,
+     "Name": "SMC Diode Solutions"
+    },
+    "QuantityAvailableforPackageType": 50533,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1655-SRV05-4ADKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.61,
+      "TotalPrice": 0.61
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.375,
+      "TotalPrice": 3.75
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.2726,
+      "TotalPrice": 13.63
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2392,
+      "TotalPrice": 23.92
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.18026,
+      "TotalPrice": 90.13
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1655,
+     "Name": "SMC Diode Solutions"
+    },
+    "QuantityAvailableforPackageType": 50533,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 50533,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "109853",
+    "ValueText": "17.5V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "247716",
+    "ValueText": "5A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345107",
+    "ValueText": "Ethernet"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "173063",
+    "ValueText": "3.2pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242921",
+    "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 76799,
+   "Name": "SRV05"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "24",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "1655-1653-6",
+   "1655-1653-6-ND",
+   "SRV05-4ATR",
+   "1655-1653-2",
+   "1655-SRV05-4ATR",
+   "1655-SRV05-4ACT",
+   "1655-1653-2-ND",
+   "1655-1653-1",
+   "1655-SRV05-4ADKR",
+   "1655-1653-1-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 15VC SOT23-6",
+   "DetailedDescription": "15V Clamp 30A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "CDSOT23-SRV05-4",
+  "UnitPrice": 1.88,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/CDSOT23-SRV05-4/1630593",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SRV05-4.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4848/118_SOT-23-6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CDSOT23-SRV05-4TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.50326,
+      "TotalPrice": 1509.78
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.45068,
+      "TotalPrice": 4056.12
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 45000,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CDSOT23-SRV05-4CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.88,
+      "TotalPrice": 1.88
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.192,
+      "TotalPrice": 11.92
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.893,
+      "TotalPrice": 44.65
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7965,
+      "TotalPrice": 79.65
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.62702,
+      "TotalPrice": 313.51
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 47644,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CDSOT23-SRV05-4DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.88,
+      "TotalPrice": 1.88
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.192,
+      "TotalPrice": 11.92
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.893,
+      "TotalPrice": 44.65
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7965,
+      "TotalPrice": 79.65
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.62702,
+      "TotalPrice": 313.51
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 47644,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 47644,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "103542",
+    "ValueText": "15V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "183495",
+    "ValueText": "30A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "237376",
+    "ValueText": "500W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "345107",
+    "ValueText": "Ethernet"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242933",
+    "ValueText": "-55\u00b0C ~ 150\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 120981,
+   "Name": "CDSOT23"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "CDSOT23SRV054",
+   "CDSOT23-SRV05-4DKR",
+   "CDSOT23-SRV05-4CT",
+   "CDSOT23-SRV05-4TR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 17.5VC SOT23-6L",
+   "DetailedDescription": "17.5V Clamp 12A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6L"
+  },
+  "Manufacturer": {
+   "Id": 353,
+   "Name": "MCC (Micro Commercial Components)"
+  },
+  "ManufacturerProductNumber": "SRV05-4L-TP",
+  "UnitPrice": 0.81,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/SRV05-4L-TP/2233919",
+  "DatasheetUrl": "https://www.mccsemi.com/pdf/Products/SRV05-4L(SOT23-6L).pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6153/353%7ESOT23-6L%7E%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "SRV05-4L-TPMSTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.18563,
+      "TotalPrice": 556.89
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.16149,
+      "TotalPrice": 1453.41
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 39000,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4L-TPMSCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.81,
+      "TotalPrice": 0.81
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.499,
+      "TotalPrice": 4.99
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3634,
+      "TotalPrice": 18.17
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3196,
+      "TotalPrice": 31.96
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2423,
+      "TotalPrice": 121.15
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 41322,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4L-TPMSDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.81,
+      "TotalPrice": 0.81
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.499,
+      "TotalPrice": 4.99
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3634,
+      "TotalPrice": 18.17
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3196,
+      "TotalPrice": 31.96
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2423,
+      "TotalPrice": 121.15
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 41322,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 41322,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6163116372001",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "109853",
+    "ValueText": "17.5V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "86833",
+    "ValueText": "12A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "193240",
+    "ValueText": "350W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "350483",
+    "ValueText": "General Purpose"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "55525",
+    "ValueText": "1.5pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242933",
+    "ValueText": "-55\u00b0C ~ 150\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405436",
+    "ValueText": "SOT-23-6L"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 76799,
+   "Name": "SRV05"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "28",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "SRV05-4L-TPMSDKR",
+   "SRV054LTP",
+   "SRV05-4L-TPMSCT",
+   "SRV05-4L-TPMSTR",
+   "Q8121267"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 17.5VC 6TSOP",
+   "DetailedDescription": "17.5V Clamp 5A (8/20\u00b5s) Ipp Tvs Diode Surface Mount 6-TSOP"
+  },
+  "Manufacturer": {
+   "Id": 488,
+   "Name": "onsemi"
+  },
+  "ManufacturerProductNumber": "SRV05-4MR6T1G",
+  "UnitPrice": 3.34,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/onsemi/SRV05-4MR6T1G/2652020",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/390/SRV05-4MR6.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7179/MFG_488%7E318G-02%7EDT%2CSN%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "488-SRV05-4MR6T1GTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 1.0094,
+      "TotalPrice": 3028.2
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.95613,
+      "TotalPrice": 5736.78
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 488,
+     "Name": "onsemi"
+    },
+    "QuantityAvailableforPackageType": 11000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "488-SRV05-4MR6T1GCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.34,
+      "TotalPrice": 3.34
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.171,
+      "TotalPrice": 21.71
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.6658,
+      "TotalPrice": 83.29
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.503,
+      "TotalPrice": 150.3
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.21752,
+      "TotalPrice": 608.76
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 488,
+     "Name": "onsemi"
+    },
+    "QuantityAvailableforPackageType": 11681,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "488-SRV05-4MR6T1GDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.34,
+      "TotalPrice": 3.34
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.171,
+      "TotalPrice": 21.71
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.6658,
+      "TotalPrice": 83.29
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.503,
+      "TotalPrice": 150.3
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.21752,
+      "TotalPrice": 608.76
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 488,
+     "Name": "onsemi"
+    },
+    "QuantityAvailableforPackageType": 11681,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 11681,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "109853",
+    "ValueText": "17.5V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "247716",
+    "ValueText": "5A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "182825",
+    "ValueText": "300W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "350483",
+    "ValueText": "General Purpose"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "202425",
+    "ValueText": "3pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242921",
+    "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405435",
+    "ValueText": "SOT-23-6 Thin, TSOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "267366",
+    "ValueText": "6-TSOP"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 76799,
+   "Name": "SRV05"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "34",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "488-SRV05-4MR6T1GTR",
+   "488-SRV05-4MR6T1GCT",
+   "2832-SRV05-4MR6T1G",
+   "SRV05-4MR6T1G-ND",
+   "2156-SRV05-4MR6T1G-OS",
+   "ONSONSSRV05-4MR6T1G",
+   "488-SRV05-4MR6T1GDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 17.5VC SOT23-6",
+   "DetailedDescription": "17.5V Clamp 12A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6"
+  },
+  "Manufacturer": {
+   "Id": 600,
+   "Name": "Semtech Corporation"
+  },
+  "ManufacturerProductNumber": "SRV05-4ATCT",
+  "UnitPrice": 1.81,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/semtech-corporation/SRV05-4ATCT/2603596",
+  "DatasheetUrl": "https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MCi6/289yktamU4fuDMSI.KWBgcIWh_8e89mFRhvq88rNJmI",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2614/600%7ESOT23-6%7E%7E6.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "SRV05-4ATCTTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.48741,
+      "TotalPrice": 1462.23
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.43679,
+      "TotalPrice": 3931.11
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 600,
+     "Name": "Semtech Corporation"
+    },
+    "QuantityAvailableforPackageType": 9000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4ATCTCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.81,
+      "TotalPrice": 1.81
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.15,
+      "TotalPrice": 11.5
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.8626,
+      "TotalPrice": 43.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7697,
+      "TotalPrice": 76.97
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.60658,
+      "TotalPrice": 303.29
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 600,
+     "Name": "Semtech Corporation"
+    },
+    "QuantityAvailableforPackageType": 10327,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SRV05-4ATCTDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.81,
+      "TotalPrice": 1.81
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.15,
+      "TotalPrice": 11.5
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.8626,
+      "TotalPrice": 43.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7697,
+      "TotalPrice": 76.97
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.60658,
+      "TotalPrice": 303.29
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 600,
+     "Name": "Semtech Corporation"
+    },
+    "QuantityAvailableforPackageType": 10327,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 10327,
+  "ProductStatus": {
+   "Id": 7,
+   "Status": "Not For New Designs"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "109853",
+    "ValueText": "17.5V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "86833",
+    "ValueText": "12A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "182825",
+    "ValueText": "300W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "350483",
+    "ValueText": "General Purpose"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "202425",
+    "ValueText": "3pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242921",
+    "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 76799,
+   "Name": "SRV05"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 46542,
+   "Name": "RailClamp\u00ae, SR"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "SRV05-4ACT",
+   "SRV05-4ATCTCT",
+   "SRV05-4A.TCT",
+   "SRV05-4ATR",
+   "SRV05-4ACT-ND",
+   "SRV05-4ATR-ND",
+   "SRV05-4ADKR-ND",
+   "SRV05-4ATCTDKR",
+   "SRV054ATCT",
+   "SRV05-4ATCTTR",
+   "SRV05-4ADKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 12VC SOT23-6L",
+   "DetailedDescription": "12V Clamp 6A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6L"
+  },
+  "Manufacturer": {
+   "Id": 353,
+   "Name": "MCC (Micro Commercial Components)"
+  },
+  "ManufacturerProductNumber": "SRV05-4D-TP",
+  "UnitPrice": 0.7,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/SRV05-4D-TP/15652820",
+  "DatasheetUrl": "https://www.mccsemi.com/pdf/Products/SRV05-4D(SOT23-6L).pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6153/353%7ESOT23-6L%7E%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "353-SRV05-4D-TPTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.15907,
+      "TotalPrice": 477.21
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.13801,
+      "TotalPrice": 1242.09
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "353-SRV05-4D-TPCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.7,
+      "TotalPrice": 0.7
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.432,
+      "TotalPrice": 4.32
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3142,
+      "TotalPrice": 15.71
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2759,
+      "TotalPrice": 27.59
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2085,
+      "TotalPrice": 104.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 3119,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "353-SRV05-4D-TPDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.7,
+      "TotalPrice": 0.7
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.432,
+      "TotalPrice": 4.32
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3142,
+      "TotalPrice": 15.71
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2759,
+      "TotalPrice": 27.59
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2085,
+      "TotalPrice": 104.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 3119,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 3119,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "281265",
+    "ValueText": "7V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "87718",
+    "ValueText": "12V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "266265",
+    "ValueText": "6A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "275684",
+    "ValueText": "72W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "350483",
+    "ValueText": "General Purpose"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "48688",
+    "ValueText": "1.2pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242921",
+    "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405436",
+    "ValueText": "SOT-23-6L"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 76799,
+   "Name": "SRV05"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "353-SRV05-4D-TPDKR",
+   "353-SRV05-4D-TPCT",
+   "353-SRV05-4D-TPTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TVS DIODE 5VWM 18VC SOT23-6L",
+   "DetailedDescription": "18V Clamp 17A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6L"
+  },
+  "Manufacturer": {
+   "Id": 353,
+   "Name": "MCC (Micro Commercial Components)"
+  },
+  "ManufacturerProductNumber": "SRV05-4C-TP",
+  "UnitPrice": 0.39,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/SRV05-4C-TP/14311755",
+  "DatasheetUrl": "https://www.mccsemi.com/pdf/Products/SRV05-4C(SOT23-6L).pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6153/353%7ESOT23-6L%7E%7E6.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "353-SRV05-4C-TPTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.08187,
+      "TotalPrice": 245.61
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.06972,
+      "TotalPrice": 627.48
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "353-SRV05-4C-TPCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.39,
+      "TotalPrice": 0.39
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.238,
+      "TotalPrice": 2.38
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.1708,
+      "TotalPrice": 8.54
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.149,
+      "TotalPrice": 14.9
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.11032,
+      "TotalPrice": 55.16
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 2285,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "353-SRV05-4C-TPDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.39,
+      "TotalPrice": 0.39
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.238,
+      "TotalPrice": 2.38
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.1708,
+      "TotalPrice": 8.54
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.149,
+      "TotalPrice": 14.9
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.11032,
+      "TotalPrice": 55.16
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 353,
+     "Name": "MCC (Micro Commercial Components)"
+    },
+    "QuantityAvailableforPackageType": 2285,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 2285,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "116509",
+    "ValueText": "18V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "112163",
+    "ValueText": "17A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "182825",
+    "ValueText": "300W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "350483",
+    "ValueText": "General Purpose"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "31285",
+    "ValueText": "0.6pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "242921",
+    "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405436",
+    "ValueText": "SOT-23-6L"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 76799,
+   "Name": "SRV05"
+  },
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "24",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8541.10.0080"
+  },
+  "OtherNames": [
+   "353-SRV05-4C-TPTR",
+   "353-SRV05-4C-TPDKR",
+   "353-SRV05-4C-TPCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "4A@8/20US 55W@8/20US 13V 8.5V 5V",
+   "DetailedDescription": "17V Clamp 4A (8/20\u00b5s) Ipp Tvs Diode Surface Mount SOT-23-6"
+  },
+  "Manufacturer": {
+   "Id": 5399,
+   "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+  },
+  "ManufacturerProductNumber": "SRV05-4-SL",
+  "UnitPrice": 0.17,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/SRV05-4-SL/29286967",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8922/5399_SRV05-4-SL%20SOT-23-6L.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8906/MFG_SRV05-4-SL-SOT-23-6L.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "5399-SRV05-4-SLTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.03331,
+      "TotalPrice": 99.93
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.02774,
+      "TotalPrice": 249.66
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 5399,
+     "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "5399-SRV05-4-SLCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.17,
+      "TotalPrice": 0.17
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.104,
+      "TotalPrice": 1.04
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0738,
+      "TotalPrice": 3.69
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0639,
+      "TotalPrice": 6.39
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.04632,
+      "TotalPrice": 23.16
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 5399,
+     "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+    },
+    "QuantityAvailableforPackageType": 2966,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "5399-SRV05-4-SLDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.17,
+      "TotalPrice": 0.17
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.104,
+      "TotalPrice": 1.04
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0738,
+      "TotalPrice": 3.69
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0639,
+      "TotalPrice": 6.39
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.04632,
+      "TotalPrice": 23.16
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 5399,
+     "Name": "Shenzhen Slkormicro Semicon Co., Ltd."
+    },
+    "QuantityAvailableforPackageType": 2966,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "408274",
+    "ValueText": "Steering (Rail to Rail)"
+   },
+   {
+    "ParameterId": 1729,
+    "ParameterText": "Unidirectional Channels",
+    "ParameterType": "Double",
+    "ValueId": "4",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 761,
+    "ParameterText": "Voltage - Reverse Standoff (Typ)",
+    "ParameterType": "String",
+    "ValueId": "249183",
+    "ValueText": "5V (Max)"
+   },
+   {
+    "ParameterId": 1731,
+    "ParameterText": "Voltage - Breakdown (Min)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1732,
+    "ParameterText": "Voltage - Clamping (Max) @ Ipp",
+    "ParameterType": "String",
+    "ValueId": "112605",
+    "ValueText": "17V"
+   },
+   {
+    "ParameterId": 714,
+    "ParameterText": "Current - Peak Pulse (10/1000\u00b5s)",
+    "ParameterType": "String",
+    "ValueId": "227195",
+    "ValueText": "4A (8/20\u00b5s)"
+   },
+   {
+    "ParameterId": 1733,
+    "ParameterText": "Power - Peak Pulse",
+    "ParameterType": "String",
+    "ValueId": "243968",
+    "ValueText": "55W"
+   },
+   {
+    "ParameterId": 1734,
+    "ParameterText": "Power Line Protection",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 405,
+    "ParameterText": "Applications",
+    "ParameterType": "String",
+    "ValueId": "342186",
+    "ValueText": "DVI, Ethernet, USB"
+   },
+   {
+    "ParameterId": 566,
+    "ParameterText": "Capacitance @ Frequency",
+    "ParameterType": "String",
+    "ValueId": "31285",
+    "ValueText": "0.6pF @ 1MHz"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212478",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405431",
+    "ValueText": "SOT-23-6"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 9,
+   "ParentId": 0,
+   "Name": "Circuit Protection",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/180/750/FHAC0001ZXJ_tmb.jpg",
+   "SeoDescription": "Circuit protection devices include products used to protect electrical circuits from damage caused by hazards such as static discharge (such as Transient Voltage Suppression diodes and gas discharge tubes) as well as products designed to reduce the risk of fire caused by electrical overload or circuit failure, such as fuses and circuit breakers. Related accessories designed for use with such products are also included, such as fuse holders, fuse pullers, and mounting bases for circuit breakers.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2040,
+     "ParentId": 9,
+     "Name": "Transient Voltage Suppressors (TVS)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/256/835/DO-214AA_SMB_tmb%2864x64%29.jpg",
+     "SeoDescription": "TVS, or Transient Voltage Suppressors are devices designed to limit or prevent temporary surges or spikes within a specific voltage level.",
+     "ChildCategories": [
+      {
+       "CategoryId": 144,
+       "ParentId": 2040,
+       "Name": "TVS Diodes",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/332/776/112%3BDO214AA%28SMBJ%29%3B%3B2_tmb%2864x64%29.jpg",
+       "SeoDescription": "TVS Diodes are a semiconductor device designed to limit or stop surges in a specific voltage level. The items in this family are designed using diodes (a component that conducts in just one direction). TVS is an acronym for Transient Voltage Suppression (Suppressor). The types are steering (rail to rail) or Zener with the characteristics of unidirectional channels, bidirectional channels, voltage \u2013 reverse standoff, voltage \u2013 breakdown, voltage \u2013 clamping, current \u2013 peak pulse, power \u2013 peak pulse, and power line protection.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "6",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.30.0000"
+  },
+  "OtherNames": [
+   "5399-SRV05-4-SLDKR",
+   "5399-SRV05-4-SLTR",
+   "5399-SRV05-4-SLCT"
+  ]
+ }
+]

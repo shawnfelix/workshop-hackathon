@@ -1,0 +1,4471 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 600MA SOT-25",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25"
+  },
+  "Manufacturer": {
+   "Id": 31,
+   "Name": "Diodes Incorporated"
+  },
+  "ManufacturerProductNumber": "AP2112K-3.3TRG1",
+  "UnitPrice": 0.28,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746",
+  "DatasheetUrl": "https://www.diodes.com/assets/Datasheets/AP2112.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6285/31%7ESOT25%7EDA%2CHR%2CHT%2CW%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "AP2112K-3.3TRG1DITR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.11317,
+      "TotalPrice": 339.51
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.10792,
+      "TotalPrice": 971.28
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 31,
+     "Name": "Diodes Incorporated"
+    },
+    "QuantityAvailableforPackageType": 146799,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "AP2112K-3.3TRG1DICT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.28,
+      "TotalPrice": 0.28
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.191,
+      "TotalPrice": 1.91
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1692,
+      "TotalPrice": 4.23
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.1558,
+      "TotalPrice": 7.79
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.1447,
+      "TotalPrice": 14.47
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 31,
+     "Name": "Diodes Incorporated"
+    },
+    "QuantityAvailableforPackageType": 146799,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "AP2112K-3.3TRG1DIDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.28,
+      "TotalPrice": 0.28
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.191,
+      "TotalPrice": 1.91
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1692,
+      "TotalPrice": 4.23
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.1558,
+      "TotalPrice": 7.79
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.1447,
+      "TotalPrice": 14.47
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 31,
+     "Name": "Diodes Incorporated"
+    },
+    "QuantityAvailableforPackageType": 146799,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 146799,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6049156741001",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "25120",
+    "ValueText": "0.4V @ 600mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "255853",
+    "ValueText": "600mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "80 \u00b5A",
+    "ValueText": "80 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "262806",
+    "ValueText": "65dB (100Hz ~ 1kHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382816",
+    "ValueText": "Over Current, Over Temperature"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405455",
+    "ValueText": "SOT-25"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 274251,
+   "Name": "AP2112"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "24",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "AP2112K-3.3TRG1DI",
+   "AP2112K-3.3TRG1DITR",
+   "AP2112K-3.3TRG1DICT",
+   "AP2112K-3.3TRG1DI-ND",
+   "AP2112K-3.3TRG1DIDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 200MA SOT23",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 200mA SOT-23"
+  },
+  "Manufacturer": {
+   "Id": 893,
+   "Name": "Torex Semiconductor Ltd"
+  },
+  "ManufacturerProductNumber": "XC6206P332MR-G",
+  "UnitPrice": 0.62,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/torex-semiconductor-ltd/XC6206P332MR-G/7386004",
+  "DatasheetUrl": "https://product.torexsemi.com/system/files/series/xc6206.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5719/893%7ESOT23-3%7EMR%7E3.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "893-XC6206P332MR-GTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.29178,
+      "TotalPrice": 875.34
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.28422,
+      "TotalPrice": 1705.32
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.28043,
+      "TotalPrice": 2523.87
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.27623,
+      "TotalPrice": 4143.45
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.27378,
+      "TotalPrice": 5749.38
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.27143,
+      "TotalPrice": 8142.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 893,
+     "Name": "Torex Semiconductor Ltd"
+    },
+    "QuantityAvailableforPackageType": 9000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "893-XC6206P332MR-GCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.62,
+      "TotalPrice": 0.62
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.435,
+      "TotalPrice": 4.35
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3896,
+      "TotalPrice": 9.74
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3397,
+      "TotalPrice": 33.97
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.31596,
+      "TotalPrice": 78.99
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.30164,
+      "TotalPrice": 150.82
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.28984,
+      "TotalPrice": 289.84
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 893,
+     "Name": "Torex Semiconductor Ltd"
+    },
+    "QuantityAvailableforPackageType": 10895,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "893-XC6206P332MR-GDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.62,
+      "TotalPrice": 0.62
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.435,
+      "TotalPrice": 4.35
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3896,
+      "TotalPrice": 9.74
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3397,
+      "TotalPrice": 33.97
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.31596,
+      "TotalPrice": 78.99
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.30164,
+      "TotalPrice": 150.82
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.28984,
+      "TotalPrice": 289.84
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 893,
+     "Name": "Torex Semiconductor Ltd"
+    },
+    "QuantityAvailableforPackageType": 10895,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 10895,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "31017",
+    "ValueText": "0.68V @ 100mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "140417",
+    "ValueText": "200mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "3 \u00b5A",
+    "ValueText": "3 \u00b5A"
+   },
+   {
+    "ParameterId": 2196,
+    "ParameterText": "Current - Supply (Max)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "3 \u00b5A",
+    "ValueText": "3 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382873",
+    "ValueText": "Over Current, Short Circuit"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "413318",
+    "ValueText": "TO-236-3, SC-59, SOT-23-3"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405399",
+    "ValueText": "SOT-23"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 256565,
+   "Name": "XC6206"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "893-XC6206P332MR-GTR",
+   "XC6206P332MR-G-ND",
+   "893-XC6206P332MR-GDKR",
+   "893-XC6206P332MR-GCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 100MA SOT23",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 100mA SOT-23"
+  },
+  "Manufacturer": {
+   "Id": 4518,
+   "Name": "UMW"
+  },
+  "ManufacturerProductNumber": "XC6206P332MR",
+  "UnitPrice": 0.1,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/umw/XC6206P332MR/17635277",
+  "DatasheetUrl": "https://www.umw-ic.com/static/pdf/8fe08b5cd949bd5c5205e2205462aca4.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5048/MFG_XC6206P332MR.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4518-XC6206P332MRTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.03829,
+      "TotalPrice": 114.87
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.03689,
+      "TotalPrice": 221.34
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.03619,
+      "TotalPrice": 325.71
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.03542,
+      "TotalPrice": 531.3
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.03497,
+      "TotalPrice": 734.37
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.03453,
+      "TotalPrice": 1035.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 4518,
+     "Name": "UMW"
+    },
+    "QuantityAvailableforPackageType": 3000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4518-XC6206P332MRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.1,
+      "TotalPrice": 0.1
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.069,
+      "TotalPrice": 0.69
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.0608,
+      "TotalPrice": 1.52
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0509,
+      "TotalPrice": 5.09
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.04624,
+      "TotalPrice": 11.56
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.04344,
+      "TotalPrice": 21.72
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.04113,
+      "TotalPrice": 41.13
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 4518,
+     "Name": "UMW"
+    },
+    "QuantityAvailableforPackageType": 3643,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4518-XC6206P332MRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.1,
+      "TotalPrice": 0.1
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.069,
+      "TotalPrice": 0.69
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.0608,
+      "TotalPrice": 1.52
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0509,
+      "TotalPrice": 5.09
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.04624,
+      "TotalPrice": 11.56
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.04344,
+      "TotalPrice": 21.72
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.04113,
+      "TotalPrice": 41.13
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 4518,
+     "Name": "UMW"
+    },
+    "QuantityAvailableforPackageType": 3643,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "295157",
+    "ValueText": "8V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "732245",
+    "ValueText": "0.24V @ 50mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "68833",
+    "ValueText": "100mA"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "214588",
+    "ValueText": "40dB (1kHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "335835",
+    "ValueText": "Current Limit"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382873",
+    "ValueText": "Over Current, Short Circuit"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "156449",
+    "ValueText": "-25\u00b0C ~ 80\u00b0C"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "413318",
+    "ValueText": "TO-236-3, SC-59, SOT-23-3"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405399",
+    "ValueText": "SOT-23"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "8",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 109393,
+   "Name": "XC6206"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0060"
+  },
+  "OtherNames": [
+   "4518-XC6206P332MRTR",
+   "4518-XC6206P332MRDKR",
+   "4518-XC6206P332MRCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 500MA SOT23-5",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "TLV75533PDBVR",
+  "UnitPrice": 0.45,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TLV75533PDBVR/9356541",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv755p",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8897/MFG_296%7E4214839%7EDBV%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-50411-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.19133,
+      "TotalPrice": 573.99
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.18599,
+      "TotalPrice": 1115.94
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.18332,
+      "TotalPrice": 1649.88
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.18035,
+      "TotalPrice": 2705.25
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.17862,
+      "TotalPrice": 3751.02
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.17696,
+      "TotalPrice": 5308.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 84000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-50411-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.45,
+      "TotalPrice": 0.45
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.311,
+      "TotalPrice": 3.11
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2768,
+      "TotalPrice": 6.92
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2396,
+      "TotalPrice": 23.96
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.2218,
+      "TotalPrice": 55.45
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.21108,
+      "TotalPrice": 105.54
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.20225,
+      "TotalPrice": 202.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 86059,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-50411-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.45,
+      "TotalPrice": 0.45
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.311,
+      "TotalPrice": 3.11
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2768,
+      "TotalPrice": 6.92
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2396,
+      "TotalPrice": 23.96
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.2218,
+      "TotalPrice": 55.45
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.21108,
+      "TotalPrice": 105.54
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.20225,
+      "TotalPrice": 202.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 86059,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 86059,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "233086",
+    "ValueText": "5.5V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "15490",
+    "ValueText": "0.238V @ 500mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "31 \u00b5A",
+    "ValueText": "31 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "240654",
+    "ValueText": "52dB (1kHz ~ 1MHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382816",
+    "ValueText": "Over Current, Over Temperature"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 28429,
+   "Name": "TLV75533"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "296-50411-2",
+   "TLV75533PDBVR-ND",
+   "296-50411-6",
+   "296-50411-1"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 500MA SOT23-5",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MIC5216-3.3YM5-TR",
+  "UnitPrice": 1.66,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MIC5216-3-3YM5-TR/1030521",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/en/DeviceDoc/mic5216.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4221/150%7ESOT23-5LD-PD-1-B%7EM5%7E5.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "576-2756-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 1.26,
+      "TotalPrice": 3780.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 48000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "576-2756-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.66,
+      "TotalPrice": 1.66
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.3768,
+      "TotalPrice": 34.42
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 50545,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "576-2756-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.66,
+      "TotalPrice": 1.66
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.3768,
+      "TotalPrice": 34.42
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 50545,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 50545,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "87718",
+    "ValueText": "12V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "31344",
+    "ValueText": "0.6V @ 500mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "3 \u00b5A",
+    "ValueText": "3 \u00b5A"
+   },
+   {
+    "ParameterId": 2196,
+    "ParameterText": "Current - Supply (Max)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "25 mA",
+    "ValueText": "25 mA"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "277897",
+    "ValueText": "75dB (120Hz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382838",
+    "ValueText": "Over Current, Over Temperature, Reverse Polarity"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212478",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 41210,
+   "Name": "MIC5216"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "6",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "MIC5216-3.3YM5 TR",
+   "576-2756-1",
+   "MIC5216-3.3YM5 TR-ND",
+   "576-2756-2",
+   "MIC5216-3.3YM5TR-ND",
+   "576-2756-6",
+   "MIC5216-3.3YM5TR",
+   "MIC521633YM5TR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "500MA HIGH-PSRR LOW-IQ LOW-DROPO",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "TLV78533PDBVR",
+  "UnitPrice": 0.12,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TLV78533PDBVR/26812391",
+  "DatasheetUrl": "https://www.ti.com/lit/ds/symlink/tlv785.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8897/MFG_296%7E4214839%7EDBV%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-TLV78533PDBVRTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.04554,
+      "TotalPrice": 136.62
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.04393,
+      "TotalPrice": 263.58
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.04312,
+      "TotalPrice": 388.08
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.04223,
+      "TotalPrice": 633.45
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.04171,
+      "TotalPrice": 875.91
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.0412,
+      "TotalPrice": 1236.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 9000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-TLV78533PDBVRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.13,
+      "TotalPrice": 0.13
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.086,
+      "TotalPrice": 0.86
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.0756,
+      "TotalPrice": 1.89
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0637,
+      "TotalPrice": 6.37
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.058,
+      "TotalPrice": 14.5
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.05458,
+      "TotalPrice": 27.29
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.05176,
+      "TotalPrice": 51.76
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 10052,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-TLV78533PDBVRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.12,
+      "TotalPrice": 0.12
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.082,
+      "TotalPrice": 0.82
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.0712,
+      "TotalPrice": 1.78
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0601,
+      "TotalPrice": 6.01
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.05472,
+      "TotalPrice": 13.68
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.0515,
+      "TotalPrice": 25.75
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.04883,
+      "TotalPrice": 48.83
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 10052,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 10052,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "233086",
+    "ValueText": "5.5V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "474226",
+    "ValueText": "0.44V @ 500mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "120 \u00b5A",
+    "ValueText": "120 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "257144",
+    "ValueText": "60dB (1kHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382859",
+    "ValueText": "Over Current, Over Temperature, Under Voltage Lockout (UVLO)"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "296-TLV78533PDBVRDKR",
+   "296-TLV78533PDBVRTR",
+   "296-TLV78533PDBVRCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 500MA SOT23-5",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 2129,
+   "Name": "Nisshinbo Micro Devices Inc."
+  },
+  "ManufacturerProductNumber": "RP111N331B-TR-FE",
+  "UnitPrice": 1.01,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/nisshinbo-micro-devices-inc/RP111N331B-TR-FE/10244937",
+  "DatasheetUrl": "https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/rp111-ea.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/196/2129%7ESOT23-5%7EN%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "2129-RP111N331B-TR-FETR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.47805,
+      "TotalPrice": 1434.15
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.46683,
+      "TotalPrice": 2800.98
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.46121,
+      "TotalPrice": 4150.89
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.45498,
+      "TotalPrice": 6824.7
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.45134,
+      "TotalPrice": 9478.14
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 2129,
+     "Name": "Nisshinbo Micro Devices Inc."
+    },
+    "QuantityAvailableforPackageType": 6000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "2129-RP111N331B-TR-FECT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.01,
+      "TotalPrice": 1.01
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.729,
+      "TotalPrice": 7.29
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.658,
+      "TotalPrice": 16.45
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.5795,
+      "TotalPrice": 57.95
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.54212,
+      "TotalPrice": 135.53
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.51956,
+      "TotalPrice": 259.78
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.5049,
+      "TotalPrice": 504.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 2129,
+     "Name": "Nisshinbo Micro Devices Inc."
+    },
+    "QuantityAvailableforPackageType": 7162,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "2129-RP111N331B-TR-FEDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.01,
+      "TotalPrice": 1.01
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.729,
+      "TotalPrice": 7.29
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.658,
+      "TotalPrice": 16.45
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.5795,
+      "TotalPrice": 57.95
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.54212,
+      "TotalPrice": 135.53
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.51956,
+      "TotalPrice": 259.78
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.5049,
+      "TotalPrice": 504.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 2129,
+     "Name": "Nisshinbo Micro Devices Inc."
+    },
+    "QuantityAvailableforPackageType": 7162,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 7162,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "231255",
+    "ValueText": "5.25V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "19242",
+    "ValueText": "0.32V @ 500mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "125 \u00b5A",
+    "ValueText": "125 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "277896",
+    "ValueText": "75dB (10kHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382816",
+    "ValueText": "Over Current, Over Temperature"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 296636,
+   "Name": "RP111"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 75064,
+   "Name": "RP111x"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "2156-RP111N331B-TR-FE",
+   "RICRICRP111N331B-TR-FE",
+   "2129-RP111N331B-TR-FECT",
+   "2129-RP111N331B-TR-FETR",
+   "2129-RP111N331B-TR-FEDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "500MA, SMALL-SIZE, HIGH-PSRR LOW",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "TLV77533PDBVR",
+  "UnitPrice": 0.14,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TLV77533PDBVR/26812453",
+  "DatasheetUrl": "https://www.ti.com/lit/ds/symlink/tlv775.pdf?ts=1779239045943&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTLV775%252Fpart-details%252FTLV77533PDBVR",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8897/MFG_296%7E4214839%7EDBV%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-TLV77533PDBVRTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.05455,
+      "TotalPrice": 163.65
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.05268,
+      "TotalPrice": 316.08
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.05174,
+      "TotalPrice": 465.66
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.05071,
+      "TotalPrice": 760.65
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.0501,
+      "TotalPrice": 1052.1
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.04952,
+      "TotalPrice": 1485.6
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 3000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-TLV77533PDBVRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.14,
+      "TotalPrice": 0.14
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.096,
+      "TotalPrice": 0.96
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.0844,
+      "TotalPrice": 2.11
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0715,
+      "TotalPrice": 7.15
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.06524,
+      "TotalPrice": 16.31
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.06148,
+      "TotalPrice": 30.74
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.05838,
+      "TotalPrice": 58.38
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 4926,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-TLV77533PDBVRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.14,
+      "TotalPrice": 0.14
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.096,
+      "TotalPrice": 0.96
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.0844,
+      "TotalPrice": 2.11
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0715,
+      "TotalPrice": 7.15
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.06524,
+      "TotalPrice": 16.31
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.06148,
+      "TotalPrice": 30.74
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.05838,
+      "TotalPrice": 58.38
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 4926,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 4926,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "21894",
+    "ValueText": "0.3V @ 500mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "141 \u00b5A",
+    "ValueText": "141 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "846092",
+    "ValueText": "60dB ~ 45dB (1kHz ~ 1MHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382859",
+    "ValueText": "Over Current, Over Temperature, Under Voltage Lockout (UVLO)"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "296-TLV77533PDBVRDKR",
+   "296-TLV77533PDBVRCT",
+   "296-TLV77533PDBVRTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LIN 3.3V 500MA SOT-23-5",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 4878,
+   "Name": "Diotec Semiconductor"
+  },
+  "ManufacturerProductNumber": "LDI92-B3.3EN",
+  "UnitPrice": 0.18,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/diotec-semiconductor/LDI92-B3-3EN/28222932",
+  "DatasheetUrl": "https://diotec.com/request/datasheet/ldi92ben.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7962/MFG_4878%7ESOT23-5%7E%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4878-LDI92-B3.3ENTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.06962,
+      "TotalPrice": 208.86
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.06733,
+      "TotalPrice": 403.98
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.06618,
+      "TotalPrice": 595.62
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.06491,
+      "TotalPrice": 973.65
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.06416,
+      "TotalPrice": 1347.36
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.06345,
+      "TotalPrice": 1903.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4878-LDI92-B3.3ENCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.18,
+      "TotalPrice": 0.18
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.121,
+      "TotalPrice": 1.21
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1064,
+      "TotalPrice": 2.66
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0903,
+      "TotalPrice": 9.03
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.08268,
+      "TotalPrice": 20.67
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.07808,
+      "TotalPrice": 39.04
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.0743,
+      "TotalPrice": 74.3
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 2875,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4878-LDI92-B3.3ENDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.18,
+      "TotalPrice": 0.18
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.121,
+      "TotalPrice": 1.21
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1064,
+      "TotalPrice": 2.66
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0903,
+      "TotalPrice": 9.03
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.08268,
+      "TotalPrice": 20.67
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.07808,
+      "TotalPrice": 39.04
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.0743,
+      "TotalPrice": 74.3
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 2875,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 2875,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "12706",
+    "ValueText": "0.16V @ 100mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "874078",
+    "ValueText": "68dB ~ 45dB (10Hz ~ 10kHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382816",
+    "ValueText": "Over Current, Over Temperature"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212478",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "4878-LDI92-B3.3ENTR",
+   "4878-LDI92-B3.3ENDKR",
+   "4878-LDI92-B3.3ENCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 500MA SOT23-5",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 5503,
+   "Name": "3PEAK"
+  },
+  "ManufacturerProductNumber": "TPL905233-S5TR",
+  "UnitPrice": 0.71,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/3peak/TPL905233-S5TR/22228625",
+  "DatasheetUrl": "https://static.3peak.com/res/doc/ds/Datasheet_TPL9052.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6146/5503%7ESOT23-5%7E%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "5503-TPL905233-S5TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.33726,
+      "TotalPrice": 1011.78
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 5503,
+     "Name": "3PEAK"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "5503-TPL905233-S5TRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.71,
+      "TotalPrice": 0.71
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.502,
+      "TotalPrice": 5.02
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4504,
+      "TotalPrice": 11.26
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.394,
+      "TotalPrice": 39.4
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.36704,
+      "TotalPrice": 91.76
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.3508,
+      "TotalPrice": 175.4
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.33742,
+      "TotalPrice": 337.42
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 5503,
+     "Name": "3PEAK"
+    },
+    "QuantityAvailableforPackageType": 2811,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2811,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6403290723112",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "233086",
+    "ValueText": "5.5V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "21894",
+    "ValueText": "0.3V @ 500mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "807759",
+    "ValueText": "88dB (10kHz), 82dB ~ 45dB (100Hz ~ 1MHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "335842",
+    "ValueText": "Current Limit, Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "460863",
+    "ValueText": "Over Current, Over Temperature, Reverse Current, Under Voltage Lockout (UVLO)"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "5503-TPL905233-S5TRDKR",
+   "5503-TPL905233-S5TR",
+   "5503-TPL905233-S5TRCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 500MA SOT23-5",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 5503,
+   "Name": "3PEAK"
+  },
+  "ManufacturerProductNumber": "TPL740F33-5TR",
+  "UnitPrice": 0.27,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/3peak/TPL740F33-5TR/22228654",
+  "DatasheetUrl": "",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6146/5503%7ESOT23-5%7E%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "5503-TPL740F33-5TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.11088,
+      "TotalPrice": 332.64
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 5503,
+     "Name": "3PEAK"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "5503-TPL740F33-5TRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.27,
+      "TotalPrice": 0.27
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.184,
+      "TotalPrice": 1.84
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1628,
+      "TotalPrice": 4.07
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.1394,
+      "TotalPrice": 13.94
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.12828,
+      "TotalPrice": 32.07
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.12158,
+      "TotalPrice": 60.79
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.11608,
+      "TotalPrice": 116.08
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 5503,
+     "Name": "3PEAK"
+    },
+    "QuantityAvailableforPackageType": 2767,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "5503-TPL740F33-5TRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.27,
+      "TotalPrice": 0.27
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.184,
+      "TotalPrice": 1.84
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1628,
+      "TotalPrice": 4.07
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.1394,
+      "TotalPrice": 13.94
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.12828,
+      "TotalPrice": 32.07
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.12158,
+      "TotalPrice": 60.79
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.11608,
+      "TotalPrice": 116.08
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 5503,
+     "Name": "3PEAK"
+    },
+    "QuantityAvailableforPackageType": 2767,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 2767,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6403290723112",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "233086",
+    "ValueText": "5.5V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "25116",
+    "ValueText": "0.4V @ 500mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "200 \u00b5A",
+    "ValueText": "200 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "257195",
+    "ValueText": "60dB ~ 40dB (1kHz ~ 1MHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382852",
+    "ValueText": "Over Current, Over Temperature, Short Circuit, Under Voltage Lockout (UVLO)"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "5503-TPL740F33-5TRCT",
+   "5503-TPL740F33-5TR",
+   "5503-TPL740F33-5TRDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC REG LINEAR 3.3V 500MA SOT23-5",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 4878,
+   "Name": "Diotec Semiconductor"
+  },
+  "ManufacturerProductNumber": "LDI8119-3.3EN",
+  "UnitPrice": 0.46,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/diotec-semiconductor/LDI8119-3-3EN/22191854",
+  "DatasheetUrl": "https://diotec.com/request/datasheet/ldi8119en.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7962/MFG_4878%7ESOT23-5%7E%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4878-LDI8119-3.3ENTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.20026,
+      "TotalPrice": 600.78
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.19477,
+      "TotalPrice": 1168.62
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.19202,
+      "TotalPrice": 1728.18
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.18898,
+      "TotalPrice": 2834.7
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.1872,
+      "TotalPrice": 3931.2
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.18549,
+      "TotalPrice": 5564.7
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4878-LDI8119-3.3ENCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.46,
+      "TotalPrice": 0.46
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.323,
+      "TotalPrice": 3.23
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2884,
+      "TotalPrice": 7.21
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2499,
+      "TotalPrice": 24.99
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.2316,
+      "TotalPrice": 57.9
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22056,
+      "TotalPrice": 110.28
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.21148,
+      "TotalPrice": 211.48
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 2092,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4878-LDI8119-3.3ENDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.46,
+      "TotalPrice": 0.46
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.323,
+      "TotalPrice": 3.23
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2884,
+      "TotalPrice": 7.21
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2499,
+      "TotalPrice": 24.99
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.2316,
+      "TotalPrice": 57.9
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22056,
+      "TotalPrice": 110.28
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.21148,
+      "TotalPrice": 211.48
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 2092,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 2092,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "116509",
+    "ValueText": "18V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "10864",
+    "ValueText": "0.125V @ 100mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 477,
+    "ParameterText": "Current - Quiescent (Iq)",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "3.6 \u00b5A",
+    "ValueText": "3.6 \u00b5A"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "756669",
+    "ValueText": "80dB ~ 45dB (100Hz ~ 10kHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382816",
+    "ValueText": "Over Current, Over Temperature"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "4878-LDI8119-3.3EN",
+   "4878-LDI8119-3.3EN-ND",
+   "4878-LDI8119-3.3ENTR",
+   "4878-LDI8119-3.3ENCT",
+   "4878-LDI8119-3.3ENDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "LDO, SOT-23-5, 18V, 3.23V, 3.36V",
+   "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 4878,
+   "Name": "Diotec Semiconductor"
+  },
+  "ManufacturerProductNumber": "LDI51-3.3EN",
+  "UnitPrice": 0.29,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/diotec-semiconductor/LDI51-3-3EN/29178535",
+  "DatasheetUrl": "https://diotec.com/request/datasheet/ldi54en.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7962/MFG_4878%7ESOT23-5%7E%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4878-LDI51-3.3ENTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.11747,
+      "TotalPrice": 352.41
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.11394,
+      "TotalPrice": 683.64
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.11217,
+      "TotalPrice": 1009.53
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.11021,
+      "TotalPrice": 1653.15
+     },
+     {
+      "BreakQuantity": 21000,
+      "UnitPrice": 0.10906,
+      "TotalPrice": 2290.26
+     },
+     {
+      "BreakQuantity": 30000,
+      "UnitPrice": 0.10796,
+      "TotalPrice": 3238.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4878-LDI51-3.3ENCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.29,
+      "TotalPrice": 0.29
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.197,
+      "TotalPrice": 1.97
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.174,
+      "TotalPrice": 4.35
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.1494,
+      "TotalPrice": 14.94
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.13764,
+      "TotalPrice": 34.41
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.13054,
+      "TotalPrice": 65.27
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.12469,
+      "TotalPrice": 124.69
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 1607,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4878-LDI51-3.3ENDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.29,
+      "TotalPrice": 0.29
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.197,
+      "TotalPrice": 1.97
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.174,
+      "TotalPrice": 4.35
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.1494,
+      "TotalPrice": 14.94
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.13764,
+      "TotalPrice": 34.41
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.13054,
+      "TotalPrice": 65.27
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.12469,
+      "TotalPrice": 124.69
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4878,
+     "Name": "Diotec Semiconductor"
+    },
+    "QuantityAvailableforPackageType": 1607,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 1607,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 255,
+    "ParameterText": "Output Configuration",
+    "ParameterType": "String",
+    "ValueId": "389019",
+    "ValueText": "Positive"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "347431",
+    "ValueText": "Fixed"
+   },
+   {
+    "ParameterId": 1065,
+    "ParameterText": "Number of Regulators",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 573,
+    "ParameterText": "Voltage - Input (Max)",
+    "ParameterType": "String",
+    "ValueId": "103542",
+    "ValueText": "15V"
+   },
+   {
+    "ParameterId": 1779,
+    "ParameterText": "Voltage - Output (Min/Fixed)",
+    "ParameterType": "String",
+    "ValueId": "174115",
+    "ValueText": "3.3V"
+   },
+   {
+    "ParameterId": 1429,
+    "ParameterText": "Voltage - Output (Max)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2065,
+    "ParameterText": "Voltage Dropout (Max)",
+    "ParameterType": "String",
+    "ValueId": "11065",
+    "ValueText": "0.12V @ 100mA"
+   },
+   {
+    "ParameterId": 129,
+    "ParameterText": "Current - Output",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 2064,
+    "ParameterText": "PSRR",
+    "ParameterType": "String",
+    "ValueId": "287129",
+    "ValueText": "80dB (1kHz)"
+   },
+   {
+    "ParameterId": 1880,
+    "ParameterText": "Control Features",
+    "ParameterType": "String",
+    "ValueId": "344111",
+    "ValueText": "Enable"
+   },
+   {
+    "ParameterId": 2066,
+    "ParameterText": "Protection Features",
+    "ParameterType": "String",
+    "ValueId": "382895",
+    "ValueText": "Over Temperature"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 699,
+       "ParentId": 2025,
+       "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+       "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0090"
+  },
+  "OtherNames": [
+   "4878-LDI51-3.3ENCT",
+   "4878-LDI51-3.3ENTR",
+   "4878-LDI51-3.3ENDKR"
+  ]
+ }
+]

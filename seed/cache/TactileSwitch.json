@@ -1,0 +1,6656 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 4809,
+   "Name": "Alps Alpine"
+  },
+  "ManufacturerProductNumber": "SKQGADE010",
+  "UnitPrice": 0.31,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/alps-alpine/SKQGADE010/18109115",
+  "DatasheetUrl": "https://tech.alpsalpine.com/cms.media/product_catalog_ta_02_skqg_en_d003713f01.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5017/MFG_SKQGADE010.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4809-SKQGADE010TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.16623,
+      "TotalPrice": 664.92
+     },
+     {
+      "BreakQuantity": 8000,
+      "UnitPrice": 0.15789,
+      "TotalPrice": 1263.12
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.15343,
+      "TotalPrice": 1841.16
+     },
+     {
+      "BreakQuantity": 20000,
+      "UnitPrice": 0.14823,
+      "TotalPrice": 2964.6
+     },
+     {
+      "BreakQuantity": 28000,
+      "UnitPrice": 0.14506,
+      "TotalPrice": 4061.68
+     },
+     {
+      "BreakQuantity": 40000,
+      "UnitPrice": 0.14191,
+      "TotalPrice": 5676.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 114500,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 4000,
+    "StandardPackage": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGADE010CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 114774,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGADE010DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 114774,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 114774,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "53662",
+    "ValueText": "1.50mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "231039",
+    "ValueText": "5.20mm x 5.20mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "160320",
+    "ValueText": "260gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212634",
+    "ValueText": "-40\u00b0C ~ 90\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 696831,
+   "Name": "SKQGA"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "32",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 111147,
+   "Name": "SKQG"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "4809-SKQGADE010CT",
+   "4809-SKQGADE010DKR",
+   "4809-SKQGADE010TR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 4809,
+   "Name": "Alps Alpine"
+  },
+  "ManufacturerProductNumber": "SKQGABE010",
+  "UnitPrice": 0.31,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/alps-alpine/SKQGABE010/19529161",
+  "DatasheetUrl": "https://tech.alpsalpine.com/cms.media/SKQGAB_KQG_719_EN_cc4e10226e.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5355/MFG_SKQGABE010.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4809-SKQGABE010TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.16623,
+      "TotalPrice": 664.92
+     },
+     {
+      "BreakQuantity": 8000,
+      "UnitPrice": 0.15789,
+      "TotalPrice": 1263.12
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.15343,
+      "TotalPrice": 1841.16
+     },
+     {
+      "BreakQuantity": 20000,
+      "UnitPrice": 0.14823,
+      "TotalPrice": 2964.6
+     },
+     {
+      "BreakQuantity": 28000,
+      "UnitPrice": 0.14506,
+      "TotalPrice": 4061.68
+     },
+     {
+      "BreakQuantity": 40000,
+      "UnitPrice": 0.14191,
+      "TotalPrice": 5676.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 48000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 4000,
+    "StandardPackage": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGABE010CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 49874,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGABE010DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 49874,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 49874,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "53662",
+    "ValueText": "1.50mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "231039",
+    "ValueText": "5.20mm x 5.20mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "105797",
+    "ValueText": "160gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212634",
+    "ValueText": "-40\u00b0C ~ 90\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 696831,
+   "Name": "SKQGA"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "32",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 111147,
+   "Name": "SKQG"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "4809-SKQGABE010CT",
+   "4809-SKQGABE010DKR",
+   "4809-SKQGABE010TR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 4809,
+   "Name": "Alps Alpine"
+  },
+  "ManufacturerProductNumber": "SKQGAFE010",
+  "UnitPrice": 0.31,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/alps-alpine/SKQGAFE010/19529060",
+  "DatasheetUrl": "https://tech.alpsalpine.com/cms.media/SKQGAF_KQG_706_EN_18ba0d0cc8.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5355/MFG_SKQGAFE010.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4809-SKQGAFE010TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.16623,
+      "TotalPrice": 664.92
+     },
+     {
+      "BreakQuantity": 8000,
+      "UnitPrice": 0.15789,
+      "TotalPrice": 1263.12
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.15343,
+      "TotalPrice": 1841.16
+     },
+     {
+      "BreakQuantity": 20000,
+      "UnitPrice": 0.14823,
+      "TotalPrice": 2964.6
+     },
+     {
+      "BreakQuantity": 28000,
+      "UnitPrice": 0.14506,
+      "TotalPrice": 4061.68
+     },
+     {
+      "BreakQuantity": 40000,
+      "UnitPrice": 0.14191,
+      "TotalPrice": 5676.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 4000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 4000,
+    "StandardPackage": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGAFE010CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 9582,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGAFE010DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 9582,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 9582,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "53662",
+    "ValueText": "1.50mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "231039",
+    "ValueText": "5.20mm x 5.20mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "68640",
+    "ValueText": "100gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212634",
+    "ValueText": "-40\u00b0C ~ 90\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 696831,
+   "Name": "SKQGA"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "32",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 111147,
+   "Name": "SKQG"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "4809-SKQGAFE010DKR",
+   "4809-SKQGAFE010TR",
+   "4809-SKQGAFE010CT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 4809,
+   "Name": "Alps Alpine"
+  },
+  "ManufacturerProductNumber": "SKQGAKE020",
+  "UnitPrice": 0.31,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/alps-alpine/SKQGAKE020/19529076",
+  "DatasheetUrl": "https://tech.alpsalpine.com/cms.media/product_catalog_ta_02_skqg_en_d003713f01.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5355/MFG_SKQGAKE020.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "4809-SKQGAKE020TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.16623,
+      "TotalPrice": 664.92
+     },
+     {
+      "BreakQuantity": 8000,
+      "UnitPrice": 0.15789,
+      "TotalPrice": 1263.12
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.15343,
+      "TotalPrice": 1841.16
+     },
+     {
+      "BreakQuantity": 20000,
+      "UnitPrice": 0.14823,
+      "TotalPrice": 2964.6
+     },
+     {
+      "BreakQuantity": 28000,
+      "UnitPrice": 0.14506,
+      "TotalPrice": 4061.68
+     },
+     {
+      "BreakQuantity": 40000,
+      "UnitPrice": 0.14191,
+      "TotalPrice": 5676.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 4000,
+    "StandardPackage": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGAKE020CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 2864,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "4809-SKQGAKE020DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.268,
+      "TotalPrice": 2.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2508,
+      "TotalPrice": 6.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 22.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.20832,
+      "TotalPrice": 52.08
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.1966,
+      "TotalPrice": 98.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.18561,
+      "TotalPrice": 185.61
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 4809,
+     "Name": "Alps Alpine"
+    },
+    "QuantityAvailableforPackageType": 2864,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 2864,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "53662",
+    "ValueText": "1.50mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "231039",
+    "ValueText": "5.20mm x 5.20mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "192928",
+    "ValueText": "350gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212634",
+    "ValueText": "-40\u00b0C ~ 90\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 696831,
+   "Name": "SKQGA"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "32",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 111147,
+   "Name": "SKQG"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "4809-SKQGAKE020CT",
+   "6196-SKQGAKE020",
+   "4809-SKQGAKE020DKR",
+   "4809-SKQGAKE020TR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 141,
+   "Name": "E-Switch"
+  },
+  "ManufacturerProductNumber": "TL3342F260QG",
+  "UnitPrice": 0.62,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/e-switch/TL3342F260QG/4029402",
+  "DatasheetUrl": "https://configured-product-images.s3.amazonaws.com/Datasheets/TL3342.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1034/TL3342F160QG%7ETR.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "EG5470TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.33167,
+      "TotalPrice": 1326.68
+     },
+     {
+      "BreakQuantity": 8000,
+      "UnitPrice": 0.31591,
+      "TotalPrice": 2527.28
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.30753,
+      "TotalPrice": 3690.36
+     },
+     {
+      "BreakQuantity": 20000,
+      "UnitPrice": 0.29783,
+      "TotalPrice": 5956.6
+     },
+     {
+      "BreakQuantity": 28000,
+      "UnitPrice": 0.29193,
+      "TotalPrice": 8174.04
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 164000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 4000,
+    "StandardPackage": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "EG5470CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.62,
+      "TotalPrice": 0.62
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.536,
+      "TotalPrice": 5.36
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4996,
+      "TotalPrice": 12.49
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4463,
+      "TotalPrice": 44.63
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.41336,
+      "TotalPrice": 103.34
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.39022,
+      "TotalPrice": 195.11
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.36884,
+      "TotalPrice": 368.84
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 164878,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "EG5470DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.62,
+      "TotalPrice": 0.62
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.536,
+      "TotalPrice": 5.36
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4996,
+      "TotalPrice": 12.49
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4463,
+      "TotalPrice": 44.63
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.41336,
+      "TotalPrice": 103.34
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.39022,
+      "TotalPrice": 195.11
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.36884,
+      "TotalPrice": 368.84
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 164878,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 164878,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/5779481444001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "54106",
+    "ValueText": "1.54mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "210959",
+    "ValueText": "4.90mm x 4.90mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "160320",
+    "ValueText": "260gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "139409",
+    "ValueText": "-20\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 472571,
+   "Name": "TL3342"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "11",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16274,
+   "Name": "TL3342"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "-TL3342F260QG-ND",
+   "TL3342F260QG-ND",
+   "-TL3342F260QG",
+   "-TL3342F260QGCT",
+   "EG5470DKR",
+   "EG5470CT",
+   "EG5470TR",
+   "-TL3342F260QGDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 141,
+   "Name": "E-Switch"
+  },
+  "ManufacturerProductNumber": "TL3342F160QG/TR",
+  "UnitPrice": 0.59,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/e-switch/TL3342F160QG-TR/379003",
+  "DatasheetUrl": "https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/165/TL3342.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1034/TL3342F160QG%7ETR.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "EG2531TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.3129,
+      "TotalPrice": 1251.6
+     },
+     {
+      "BreakQuantity": 8000,
+      "UnitPrice": 0.29803,
+      "TotalPrice": 2384.24
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.29012,
+      "TotalPrice": 3481.44
+     },
+     {
+      "BreakQuantity": 20000,
+      "UnitPrice": 0.28097,
+      "TotalPrice": 5619.4
+     },
+     {
+      "BreakQuantity": 28000,
+      "UnitPrice": 0.2754,
+      "TotalPrice": 7711.2
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 72000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 4000,
+    "StandardPackage": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "EG2531CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.59,
+      "TotalPrice": 0.59
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.506,
+      "TotalPrice": 5.06
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4712,
+      "TotalPrice": 11.78
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.421,
+      "TotalPrice": 42.1
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.38996,
+      "TotalPrice": 97.49
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.36814,
+      "TotalPrice": 184.07
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.34796,
+      "TotalPrice": 347.96
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 75264,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "EG2531DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.59,
+      "TotalPrice": 0.59
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.506,
+      "TotalPrice": 5.06
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4712,
+      "TotalPrice": 11.78
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.421,
+      "TotalPrice": 42.1
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.38996,
+      "TotalPrice": 97.49
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.36814,
+      "TotalPrice": 184.07
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.34796,
+      "TotalPrice": 347.96
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 75264,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 75264,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/5796749514001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "54106",
+    "ValueText": "1.54mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "210959",
+    "ValueText": "4.90mm x 4.90mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "105797",
+    "ValueText": "160gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "139409",
+    "ValueText": "-20\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 472571,
+   "Name": "TL3342"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "17",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16274,
+   "Name": "TL3342"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "EG2531TR",
+   "P010632",
+   "EG2531CT",
+   "P010595",
+   "TL3342F160QG",
+   "EG2531DKR",
+   "Q1442231"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 141,
+   "Name": "E-Switch"
+  },
+  "ManufacturerProductNumber": "TL3342F450QG",
+  "UnitPrice": 0.68,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/e-switch/TL3342F450QG/4029404",
+  "DatasheetUrl": "https://configured-product-images.s3.amazonaws.com/Datasheets/TL3342.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1034/TL3342F160QG%7ETR.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "EG6066TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.35824,
+      "TotalPrice": 1432.96
+     },
+     {
+      "BreakQuantity": 8000,
+      "UnitPrice": 0.34143,
+      "TotalPrice": 2731.44
+     },
+     {
+      "BreakQuantity": 12000,
+      "UnitPrice": 0.33251,
+      "TotalPrice": 3990.12
+     },
+     {
+      "BreakQuantity": 20000,
+      "UnitPrice": 0.32219,
+      "TotalPrice": 6443.8
+     },
+     {
+      "BreakQuantity": 28000,
+      "UnitPrice": 0.31592,
+      "TotalPrice": 8845.76
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 24000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 4000,
+    "StandardPackage": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "EG6066CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.68,
+      "TotalPrice": 0.68
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.579,
+      "TotalPrice": 5.79
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.5392,
+      "TotalPrice": 13.48
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4813,
+      "TotalPrice": 48.13
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.4458,
+      "TotalPrice": 111.45
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.42094,
+      "TotalPrice": 210.47
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.39799,
+      "TotalPrice": 397.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 24944,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "EG6066DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.68,
+      "TotalPrice": 0.68
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.579,
+      "TotalPrice": 5.79
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.5392,
+      "TotalPrice": 13.48
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4813,
+      "TotalPrice": 48.13
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.4458,
+      "TotalPrice": 111.45
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.42094,
+      "TotalPrice": 210.47
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.39799,
+      "TotalPrice": 397.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 141,
+     "Name": "E-Switch"
+    },
+    "QuantityAvailableforPackageType": 24944,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 24944,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/5796749514001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "54106",
+    "ValueText": "1.54mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "210959",
+    "ValueText": "4.90mm x 4.90mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "221237",
+    "ValueText": "450gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "139409",
+    "ValueText": "-20\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 472571,
+   "Name": "TL3342"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "11",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16274,
+   "Name": "TL3342"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "TL3342F450QG-ND",
+   "EG6066CT",
+   "EG6066TR",
+   "6196-TL3342F450QG",
+   "Q7946875C",
+   "P010607",
+   "TL3342F450QG-NDL",
+   "EG6066DKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SM43SMTR92 LFS",
+  "UnitPrice": 0.36,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SM43SMTR92-LFS/1146840",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1105/PTS645SM43SMTR.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN9112TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.21605,
+      "TotalPrice": 216.05
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.20433,
+      "TotalPrice": 408.66
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.19796,
+      "TotalPrice": 593.88
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.19045,
+      "TotalPrice": 952.25
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.18583,
+      "TotalPrice": 1300.81
+     },
+     {
+      "BreakQuantity": 10000,
+      "UnitPrice": 0.1812,
+      "TotalPrice": 1812.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 164929,
+    "MinimumOrderQuantity": 1000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN9112CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.36,
+      "TotalPrice": 0.36
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.313,
+      "TotalPrice": 3.13
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2924,
+      "TotalPrice": 7.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2616,
+      "TotalPrice": 26.16
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.24244,
+      "TotalPrice": 60.61
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22878,
+      "TotalPrice": 114.39
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 164930,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN9112DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.36,
+      "TotalPrice": 0.36
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.313,
+      "TotalPrice": 3.13
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2924,
+      "TotalPrice": 7.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2616,
+      "TotalPrice": 26.16
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.24244,
+      "TotalPrice": 60.61
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22878,
+      "TotalPrice": 114.39
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 164930,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 164930,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "206347",
+    "ValueText": "4.30mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "105797",
+    "ValueText": "160gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "320482",
+    "ValueText": "Blue Actuator"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "139428",
+    "ValueText": "-20\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "*PTS645SM43SMTR92 LFS",
+   "PTS645SM43SMTRLFS",
+   "CKN9112CT",
+   "Q13648634-A",
+   "*Y97HT23B2EAFP",
+   "CKN9112DKR",
+   "PTS645SM43SMTR92 LFS",
+   "CKN9112TR",
+   "PTS645SM43SMTR92LFS",
+   "Y97HT23B2EAFP",
+   "PTS645SM43SMTR LFS",
+   "*PTS645SM43SMTR LFS"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Side Actuated Through Hole, Right Angle"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645VH83-2 LFS",
+  "UnitPrice": 0.46,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645VH83-2-LFS/1146776",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645v-series-datasheet?assetguid=5014fb06-c6ac-482c-8b16-1ea09e49f7c0",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/496/PTS645VH83-2-LFS.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN9121-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.46,
+      "TotalPrice": 0.46
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.399,
+      "TotalPrice": 3.99
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3724,
+      "TotalPrice": 9.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.333,
+      "TotalPrice": 33.3
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.30848,
+      "TotalPrice": 77.12
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.29114,
+      "TotalPrice": 145.57
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.27502,
+      "TotalPrice": 275.02
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.25221,
+      "TotalPrice": 756.63
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.24278,
+      "TotalPrice": 1213.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 157079,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 157079,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411921",
+    "ValueText": "Through Hole, Right Angle"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "283171",
+    "ValueText": "8.35mm"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "402611",
+    "ValueText": "Side Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "270218",
+    "ValueText": "7.50mm x 7.10mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "140260",
+    "ValueText": "200gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "PTS645VH83-2 LFS",
+   "PTS645VH83 LFS",
+   "PTS645VH83-2LFS",
+   "PTS645VH83LFS",
+   "*PTS645VH83 LFS",
+   "Y97HS12A4VAFP",
+   "*PTS645VH83-2 LFS",
+   "CKN9121"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Side Actuated Through Hole, Right Angle"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645VM58-2 LFS",
+  "UnitPrice": 0.44,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645VM58-2-LFS/3861403",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/425/PTS645VM58-2-LFS.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN10921-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.44,
+      "TotalPrice": 0.44
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.384,
+      "TotalPrice": 3.84
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3588,
+      "TotalPrice": 8.97
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3211,
+      "TotalPrice": 32.11
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.29744,
+      "TotalPrice": 74.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.28072,
+      "TotalPrice": 140.36
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.26517,
+      "TotalPrice": 265.17
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.24313,
+      "TotalPrice": 729.39
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.23401,
+      "TotalPrice": 1170.05
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 138747,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 138747,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411921",
+    "ValueText": "Through Hole, Right Angle"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "234280",
+    "ValueText": "5.85mm"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "402611",
+    "ValueText": "Side Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "270218",
+    "ValueText": "7.50mm x 7.10mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "105797",
+    "ValueText": "160gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "PTS645VM58LFS",
+   "PTS645VM58LFS-ND",
+   "PTS645VM58-2LFS",
+   "PTS645VM58-2 LFS",
+   "CKN10921",
+   "*PTS645VM58-2 LFS",
+   "PTS645VM58-2 LFS-ND",
+   "PTS645VM58 LFS"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SK50SMTR92 LFS",
+  "UnitPrice": 0.36,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SK50SMTR92-LFS/1162183",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1158/PTS645SK50SM.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN9087TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.22902,
+      "TotalPrice": 229.02
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.21659,
+      "TotalPrice": 433.18
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.20984,
+      "TotalPrice": 629.52
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.20188,
+      "TotalPrice": 1009.4
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.19698,
+      "TotalPrice": 1378.86
+     },
+     {
+      "BreakQuantity": 10000,
+      "UnitPrice": 0.19207,
+      "TotalPrice": 1920.7
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 109000,
+    "MinimumOrderQuantity": 1000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN9087CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.36,
+      "TotalPrice": 0.36
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.313,
+      "TotalPrice": 3.13
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2924,
+      "TotalPrice": 7.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2616,
+      "TotalPrice": 26.16
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.24244,
+      "TotalPrice": 60.61
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22878,
+      "TotalPrice": 114.39
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 109819,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN9087DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.36,
+      "TotalPrice": 0.36
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.313,
+      "TotalPrice": 3.13
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2924,
+      "TotalPrice": 7.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2616,
+      "TotalPrice": 26.16
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.24244,
+      "TotalPrice": 60.61
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22878,
+      "TotalPrice": 114.39
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 109819,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 109819,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "229918",
+    "ValueText": "5.00mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "160320",
+    "ValueText": "260gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "Y97HT23B5FAFP",
+   "PTS645SK50SMTRLFS",
+   "CKN9087CT",
+   "CKN9087TR",
+   "*Y97HT23B5FAFP",
+   "*PTS645SK50SMTRLFS",
+   "CKN9087DKR",
+   "PTS645SK50SMTR92LFS",
+   "*PTS645SK50SM LFS",
+   "CKN9087-ND",
+   "PTS645SK50SMTR92 LFS",
+   "*PTS645SK50SMTR92 LFS",
+   "CKN9087"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SK43SMTR92 LFS",
+  "UnitPrice": 0.36,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SK43SMTR92-LFS/1162181",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1035/PTS645SK43SM.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN9084TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.21605,
+      "TotalPrice": 216.05
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.20433,
+      "TotalPrice": 408.66
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.19796,
+      "TotalPrice": 593.88
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.19045,
+      "TotalPrice": 952.25
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.18583,
+      "TotalPrice": 1300.81
+     },
+     {
+      "BreakQuantity": 10000,
+      "UnitPrice": 0.1812,
+      "TotalPrice": 1812.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 101000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1000,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN9084CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.36,
+      "TotalPrice": 0.36
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.313,
+      "TotalPrice": 3.13
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2924,
+      "TotalPrice": 7.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2616,
+      "TotalPrice": 26.16
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.24244,
+      "TotalPrice": 60.61
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22878,
+      "TotalPrice": 114.39
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 101282,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN9084DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.36,
+      "TotalPrice": 0.36
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.313,
+      "TotalPrice": 3.13
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2924,
+      "TotalPrice": 7.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2616,
+      "TotalPrice": 26.16
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.24244,
+      "TotalPrice": 60.61
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.22878,
+      "TotalPrice": 114.39
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 101282,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 101282,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "206347",
+    "ValueText": "4.30mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "160320",
+    "ValueText": "260gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "Y97HT23B5EAFP",
+   "CKN9084-ND",
+   "CKN9084CT",
+   "PTS645SK43SMTR 92 LFS",
+   "PTS645SK43SMTR92LFS",
+   "*PTS645SK43SMTRLFS",
+   "CKN9084DKR",
+   "CKN9084",
+   "CKN9084TR",
+   "*PTS645SK43SMTR92 LFS",
+   "PTS645SK43SMTR92 LFS"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SH43SMTR92 LFS",
+  "UnitPrice": 0.39,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SH43SMTR92-LFS/1145472",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/828/PTS645SL50SM.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN11907TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.24909,
+      "TotalPrice": 249.09
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.23563,
+      "TotalPrice": 471.26
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.22832,
+      "TotalPrice": 684.96
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.21972,
+      "TotalPrice": 1098.6
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.21442,
+      "TotalPrice": 1500.94
+     },
+     {
+      "BreakQuantity": 10000,
+      "UnitPrice": 0.20912,
+      "TotalPrice": 2091.2
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 98000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1000,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN11907CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.39,
+      "TotalPrice": 0.39
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.34,
+      "TotalPrice": 3.4
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.318,
+      "TotalPrice": 7.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2845,
+      "TotalPrice": 28.45
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.26364,
+      "TotalPrice": 65.91
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2488,
+      "TotalPrice": 124.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 98466,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN11907DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.39,
+      "TotalPrice": 0.39
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.34,
+      "TotalPrice": 3.4
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.318,
+      "TotalPrice": 7.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2845,
+      "TotalPrice": 28.45
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.26364,
+      "TotalPrice": 65.91
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2488,
+      "TotalPrice": 124.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 98466,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 98466,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "206347",
+    "ValueText": "4.30mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "140260",
+    "ValueText": "200gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "CKN11907CT",
+   "PTS645SH43SMTRLFS",
+   "PTS645SH43SMTR92 LFS",
+   "PTS645SH43SMTRLFSCT-ND",
+   "CKN11907-ND",
+   "PTS645SH43SMTR 92 LFS",
+   "PTS645SH43SMTR LFSCT-ND",
+   "CKN11907TR",
+   "Y97HT23B4EAFP",
+   "CKN11907DKR",
+   "PTS645SH43SMTRLFS-ND",
+   "PTS645SH43SMTR LFS-ND",
+   "PTS645SH43SMTR LFS",
+   "PTS645SH43SMTR92LFS",
+   "PTS645SH43SMTR LFSCT",
+   "PTS645SH43SMTRLFSCT",
+   "CKN11907"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SL50-2 LFS",
+  "UnitPrice": 0.28,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SL50-2-LFS/1146781",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/809/PTS645SL50.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN9092-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.28,
+      "TotalPrice": 0.28
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.248,
+      "TotalPrice": 2.48
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.232,
+      "TotalPrice": 5.8
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.208,
+      "TotalPrice": 20.8
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.1928,
+      "TotalPrice": 48.2
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.18192,
+      "TotalPrice": 90.96
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.16231,
+      "TotalPrice": 324.62
+     },
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.15368,
+      "TotalPrice": 614.72
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.14902,
+      "TotalPrice": 894.12
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 86938,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 86938,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "229918",
+    "ValueText": "5.00mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "90042",
+    "ValueText": "130gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "PTS645SL50LFS",
+   "Y97HT21A1FAFP",
+   "CKN9092",
+   "*PTS645SL50-2 LFS",
+   "*PTS645SL50 LFS",
+   "PTS645SL50-2 LFS",
+   "PTS645SL50-2LFS",
+   "PTS645SL50 LFS",
+   "PTS645SL502 LFS",
+   "108-Y97HT21A1FAFP-ND",
+   "108-Y97HT21A1FAFP"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SM50SMTR92 LFS",
+  "UnitPrice": 0.39,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SM50SMTR92-LFS/9553801",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/828/PTS645SL50SM.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN10889TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.24909,
+      "TotalPrice": 249.09
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.23563,
+      "TotalPrice": 471.26
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.22832,
+      "TotalPrice": 684.96
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.21972,
+      "TotalPrice": 1098.6
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.21442,
+      "TotalPrice": 1500.94
+     },
+     {
+      "BreakQuantity": 10000,
+      "UnitPrice": 0.20912,
+      "TotalPrice": 2091.2
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 81000,
+    "MinimumOrderQuantity": 1000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN10889CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.39,
+      "TotalPrice": 0.39
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.34,
+      "TotalPrice": 3.4
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.318,
+      "TotalPrice": 7.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2845,
+      "TotalPrice": 28.45
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.26364,
+      "TotalPrice": 65.91
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2488,
+      "TotalPrice": 124.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 81919,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN10889DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.39,
+      "TotalPrice": 0.39
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.34,
+      "TotalPrice": 3.4
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.318,
+      "TotalPrice": 7.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2845,
+      "TotalPrice": 28.45
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.26364,
+      "TotalPrice": 65.91
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.2488,
+      "TotalPrice": 124.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 81919,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 81919,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "229918",
+    "ValueText": "5.00mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "105797",
+    "ValueText": "160gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "PTS645SM50SMTRLFS-ND",
+   "PTS645SM50SMTR LFS",
+   "*PTS645SM50SMTR92 LFS",
+   "PTS645SM50SMTR 92 LFS",
+   "Y97HT23B2FAFP",
+   "CKN10889DKR",
+   "CKN10889CT",
+   "CKN10889",
+   "CKN10889-ND",
+   "PTS645SM50SMTR92 LFS-ND",
+   "PTS645SM50SMTRLFS",
+   "CKN10889TR",
+   "PTS645SM50SMTR92 LFS",
+   "PTS645SM50SMTR92LFS"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SK95SMTR92 LFS",
+  "UnitPrice": 0.49,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SK95SMTR92-LFS/7056041",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8891/108_PTS645SK95SMTR92-LFS.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN10819TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.30598,
+      "TotalPrice": 152.99
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.28906,
+      "TotalPrice": 289.06
+     },
+     {
+      "BreakQuantity": 1500,
+      "UnitPrice": 0.27981,
+      "TotalPrice": 419.715
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.26886,
+      "TotalPrice": 672.15
+     },
+     {
+      "BreakQuantity": 3500,
+      "UnitPrice": 0.26208,
+      "TotalPrice": 917.28
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.25527,
+      "TotalPrice": 1276.35
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 63000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 500,
+    "StandardPackage": 500,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN10819CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.49,
+      "TotalPrice": 0.49
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.419,
+      "TotalPrice": 4.19
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3912,
+      "TotalPrice": 9.78
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3499,
+      "TotalPrice": 34.99
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.32416,
+      "TotalPrice": 81.04
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 63036,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "CKN10819DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.49,
+      "TotalPrice": 0.49
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.419,
+      "TotalPrice": 4.19
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3912,
+      "TotalPrice": 9.78
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3499,
+      "TotalPrice": 34.99
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.32416,
+      "TotalPrice": 81.04
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 63036,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 63036,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "297177",
+    "ValueText": "9.50mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "352076",
+    "ValueText": "Gull Wing"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "160320",
+    "ValueText": "260gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "2266-PTS645SK95SMTR92LFS",
+   "-PTS645SK95SMTR92 LFS-ND",
+   "*PTS645SK95SMTR92LFS",
+   "-PTS645SK95SMTR92 LFS",
+   "CKN10819DKR",
+   "CKN10819CT",
+   "-1731-Y97HT23B5KAFPCT",
+   "PTS645SK95SMTR92 LFS",
+   "-1731-PTS645SK95SMTR92LFSCT",
+   "-PTS645SK95SMTR92LFS-ND",
+   "Y97HT23B5KAFP",
+   "-PTS645SK95SMTR92LFS",
+   "-1731-Y97HT23B5KAFPCT-ND",
+   "PTS645SK95SMTR92LFS",
+   "CKN10819TR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 108,
+   "Name": "C&K"
+  },
+  "ManufacturerProductNumber": "PTS645SK43-2 LFS",
+  "UnitPrice": 0.28,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/c-k/PTS645SK43-2-LFS/1146784",
+  "DatasheetUrl": "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts645-series-datasheet?assetguid=d58fc8a8-f6e1-4527-ab68-27635e632e39",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1080/PTS645SK43.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CKN9090-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.28,
+      "TotalPrice": 0.28
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.248,
+      "TotalPrice": 2.48
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.232,
+      "TotalPrice": 5.8
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.208,
+      "TotalPrice": 20.8
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.1928,
+      "TotalPrice": 48.2
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.18192,
+      "TotalPrice": 90.96
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.16231,
+      "TotalPrice": 324.62
+     },
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.15368,
+      "TotalPrice": 614.72
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.14902,
+      "TotalPrice": 894.12
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 108,
+     "Name": "C&K"
+    },
+    "QuantityAvailableforPackageType": 61488,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 2000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 61488,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6013528102001",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "206347",
+    "ValueText": "4.30mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "250578",
+    "ValueText": "6.00mm x 6.00mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "160320",
+    "ValueText": "260gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212617",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 474451,
+   "Name": "PTS645"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16267,
+   "Name": "PTS645"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "PTS645SK43 LFS",
+   "PTS645SK43LFS",
+   "Y97HT21A5EAFP",
+   "CKN10517INACTIVE",
+   "CKN9090",
+   "*PTS645SK43-2 LFS",
+   "*PTS645SK43 LFS",
+   "PTS645SK43-2LFS",
+   "PTS645SK43-2 LFS"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 39,
+   "Name": "Aratas (Formerly Omron Components)"
+  },
+  "ManufacturerProductNumber": "B3U-1000P",
+  "UnitPrice": 1.17,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3U-1000P/1534338",
+  "DatasheetUrl": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1111/B3U-1000P.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "SW1020TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3500,
+      "UnitPrice": 0.62505,
+      "TotalPrice": 2187.675
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.59691,
+      "TotalPrice": 4178.37
+     },
+     {
+      "BreakQuantity": 10500,
+      "UnitPrice": 0.58203,
+      "TotalPrice": 6111.315
+     },
+     {
+      "BreakQuantity": 17500,
+      "UnitPrice": 0.56486,
+      "TotalPrice": 9885.05
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 133000,
+    "MinimumOrderQuantity": 3500,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SW1020CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.17,
+      "TotalPrice": 1.17
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.997,
+      "TotalPrice": 9.97
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9268,
+      "TotalPrice": 23.17
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8261,
+      "TotalPrice": 82.61
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.76544,
+      "TotalPrice": 191.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.72342,
+      "TotalPrice": 361.71
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.68504,
+      "TotalPrice": 685.04
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 135419,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SW1020DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.17,
+      "TotalPrice": 1.17
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.997,
+      "TotalPrice": 9.97
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9268,
+      "TotalPrice": 23.17
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8261,
+      "TotalPrice": 82.61
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.76544,
+      "TotalPrice": 191.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.72342,
+      "TotalPrice": 361.71
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.68504,
+      "TotalPrice": 685.04
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 135419,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 135419,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "56078",
+    "ValueText": "1.60mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "404185",
+    "ValueText": "SMD (SMT) Tab"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "170401",
+    "ValueText": "3.00mm x 2.50mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "101174",
+    "ValueText": "153gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "342083",
+    "ValueText": "Dust Proof"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "156439",
+    "ValueText": "-25\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 511229,
+   "Name": "B3U"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16169,
+   "Name": "B3U"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "SW1020TR",
+   "Q5258943",
+   "B3U1000PP",
+   "SW1020CT",
+   "B3U1000P",
+   "SW1020DKR",
+   "B3U 0010A"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE SPST-NO 0.05A 12V",
+   "DetailedDescription": "Tactile Switch SPST-NO Top Actuated Surface Mount"
+  },
+  "Manufacturer": {
+   "Id": 39,
+   "Name": "Aratas (Formerly Omron Components)"
+  },
+  "ManufacturerProductNumber": "B3U-1000P-B",
+  "UnitPrice": 1.17,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3U-1000P-B/1811777",
+  "DatasheetUrl": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1111/B3U-1000P.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "SW1143TR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3500,
+      "UnitPrice": 0.62505,
+      "TotalPrice": 2187.675
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.59691,
+      "TotalPrice": 4178.37
+     },
+     {
+      "BreakQuantity": 10500,
+      "UnitPrice": 0.58203,
+      "TotalPrice": 6111.315
+     },
+     {
+      "BreakQuantity": 17500,
+      "UnitPrice": 0.56486,
+      "TotalPrice": 9885.05
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 14000,
+    "MinimumOrderQuantity": 3500,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SW1143CT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.17,
+      "TotalPrice": 1.17
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.997,
+      "TotalPrice": 9.97
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9268,
+      "TotalPrice": 23.17
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8261,
+      "TotalPrice": 82.61
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.76544,
+      "TotalPrice": 191.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.72342,
+      "TotalPrice": 361.71
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.68504,
+      "TotalPrice": 685.04
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 16053,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "SW1143DKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.17,
+      "TotalPrice": 1.17
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.997,
+      "TotalPrice": 9.97
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9268,
+      "TotalPrice": 23.17
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8261,
+      "TotalPrice": 82.61
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.76544,
+      "TotalPrice": 191.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.72342,
+      "TotalPrice": 361.71
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.68504,
+      "TotalPrice": 685.04
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 16053,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 16053,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "407938",
+    "ValueText": "Standard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "56078",
+    "ValueText": "1.60mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "413829",
+    "ValueText": "Top Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "404185",
+    "ValueText": "SMD (SMT) Tab"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "170401",
+    "ValueText": "3.00mm x 2.50mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "101174",
+    "ValueText": "153gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "342083",
+    "ValueText": "Dust Proof"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "156439",
+    "ValueText": "-25\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 511229,
+   "Name": "B3U"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 14000,
+  "Series": {
+   "Id": 16169,
+   "Name": "B3U"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "RoHS Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "SW1143DKR",
+   "SW1143TR",
+   "SW1143CT",
+   "B3U-1000P-B-ND",
+   "B3U1000PB"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TOP, W/BOSS 1K REEL",
+   "DetailedDescription": "Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle"
+  },
+  "Manufacturer": {
+   "Id": 39,
+   "Name": "Aratas (Formerly Omron Components)"
+  },
+  "ManufacturerProductNumber": "B3U-1000PM-B",
+  "UnitPrice": 1.7,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3U-1000PM-B/25319534",
+  "DatasheetUrl": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7187/B3U-1000PM-B.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "39-B3U-1000PM-BCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.7,
+      "TotalPrice": 1.7
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.442,
+      "TotalPrice": 14.42
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.3392,
+      "TotalPrice": 33.48
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.193,
+      "TotalPrice": 119.3
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.10588,
+      "TotalPrice": 276.47
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.04598,
+      "TotalPrice": 522.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 726,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "39-B3U-1000PM-BDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.7,
+      "TotalPrice": 1.7
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.442,
+      "TotalPrice": 14.42
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.3392,
+      "TotalPrice": 33.48
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.193,
+      "TotalPrice": 119.3
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.10588,
+      "TotalPrice": 276.47
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.04598,
+      "TotalPrice": 522.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 726,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   },
+   {
+    "DigiKeyProductNumber": "39-B3U-1000PM-BTR-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.92614,
+      "TotalPrice": 926.14
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.88039,
+      "TotalPrice": 1760.78
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.85596,
+      "TotalPrice": 2567.88
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.82758,
+      "TotalPrice": 4137.9
+     },
+     {
+      "BreakQuantity": 7000,
+      "UnitPrice": 0.81028,
+      "TotalPrice": 5671.96
+     },
+     {
+      "BreakQuantity": 10000,
+      "UnitPrice": 0.7931,
+      "TotalPrice": 7931.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 39,
+     "Name": "Aratas (Formerly Omron Components)"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MinimumOrderQuantity": 1000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 726,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 542,
+    "ParameterText": "Contact Rating @ Voltage",
+    "ParameterType": "String",
+    "ValueId": "7473",
+    "ValueText": "0.05A @ 12VDC"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "398002",
+    "ValueText": "Round Button"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409420",
+    "ValueText": "Surface Mount, Right Angle"
+   },
+   {
+    "ParameterId": 1547,
+    "ParameterText": "Actuator Height off PCB, Vertical",
+    "ParameterType": "String",
+    "ValueId": "56078",
+    "ValueText": "1.60mm"
+   },
+   {
+    "ParameterId": 2014,
+    "ParameterText": "Actuator Length, Right Angle",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1548,
+    "ParameterText": "Actuator Orientation",
+    "ParameterType": "String",
+    "ValueId": "402611",
+    "ValueText": "Side Actuated"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "404185",
+    "ValueText": "SMD (SMT) Tab"
+   },
+   {
+    "ParameterId": 567,
+    "ParameterText": "Outline",
+    "ParameterType": "String",
+    "ValueId": "170401",
+    "ValueText": "3.00mm x 2.50mm"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 550,
+    "ParameterText": "Operating Force",
+    "ParameterType": "String",
+    "ValueId": "101174",
+    "ValueText": "153gf"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "156439",
+    "ValueText": "-25\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 197,
+     "ParentId": 15,
+     "Name": "Tactile Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+     "SeoDescription": "Tactile Switches are an electromechanical device used to start or stop current flow along a circuit. Devices in this family are often very small and are turned on or off through the use of an actuator that is depressed into the unit\u2019s body. These devices also provide feedback to the user through an audible click and/or a change in pressure upon reaching the trigger point. The operating force ranges from 50gf to 970gf.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 16169,
+   "Name": "B3U"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "39-B3U-1000PM-BDKR",
+   "39-B3U-1000PM-BTR",
+   "B3U1000PMB",
+   "39-B3U-1000PM-B-ND",
+   "39-B3U-1000PM-BCT",
+   "39-B3U-1000PM-B"
+  ]
+ }
+]

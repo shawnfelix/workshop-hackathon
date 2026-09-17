@@ -1,0 +1,3496 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "SWITCH PUSH SPST-NO 0.01A 12V",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX1A-C1NW",
+  "UnitPrice": 1.25,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-C1NW/280855",
+  "DatasheetUrl": "",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/586/mx1a-c1nw.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CH310-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.25,
+      "TotalPrice": 1.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 7714,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 8000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 7714,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "73565",
+    "ValueText": "10mA (AC/DC)"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "12 V",
+    "ValueText": "12 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "12 V",
+    "ValueText": "12 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1533,
+    "ParameterText": "Actuator Marking",
+    "ParameterType": "String",
+    "ValueId": "380265",
+    "ValueText": "No Marking"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "330893",
+    "ValueText": "Clear"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "67003",
+    "ValueText": "-10\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 475604,
+   "Name": "MX1A"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "2266-MX1A-C1NW",
+   "6196-MX1A-C1NW",
+   "CH310",
+   "MX1AC1NW"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH PUSH SPST-NO 0.01A 12V",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Panel Mount, Front"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX1A-E1NN",
+  "UnitPrice": 1.25,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NN/40084",
+  "DatasheetUrl": "https://cherry.saas.contentserv.com/admin/rest/document/56?ContextIDs=15651&Language=1",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/819/MX1A-E1NN.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CH196-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.25,
+      "TotalPrice": 1.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 2751,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2751,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383710",
+    "ValueText": "Panel Mount, Front"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "73565",
+    "ValueText": "10mA (AC/DC)"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "12 V",
+    "ValueText": "12 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "12 V",
+    "ValueText": "12 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1533,
+    "ParameterText": "Actuator Marking",
+    "ParameterType": "String",
+    "ValueId": "380265",
+    "ValueText": "No Marking"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "316416",
+    "ValueText": "Audible Click"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "677155",
+    "ValueText": "Square - 14.00mm x 14.00mm"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "67003",
+    "ValueText": "-10\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 475604,
+   "Name": "MX1A"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "MX1AE1NN",
+   "CH196",
+   "2266-MX1A-E1NN"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "MX RGB, BROWN STEM, FULL TRAVEL",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch, Illuminated Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-G1NB",
+  "UnitPrice": 1.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-G1NB/21738375",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6154/MX2A-G1NB.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-G1NB-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.75,
+      "TotalPrice": 1.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 560,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 560,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362566",
+    "ValueText": "Keyswitch, Illuminated"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "323243",
+    "ValueText": "Brown"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "508214",
+    "ValueText": "LED, Blue/Green/Red"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-G1NB"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH PUSH SPST-NO 0.01A 12V",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Panel Mount, Front"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX1A-C1NN",
+  "UnitPrice": 1.25,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-C1NN/16998",
+  "DatasheetUrl": "",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/587/MX1A-C1NN.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "CH198-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.25,
+      "TotalPrice": 1.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 549,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 8000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 549,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383710",
+    "ValueText": "Panel Mount, Front"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "73565",
+    "ValueText": "10mA (AC/DC)"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "12 V",
+    "ValueText": "12 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "12 V",
+    "ValueText": "12 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1533,
+    "ParameterText": "Actuator Marking",
+    "ParameterType": "String",
+    "ValueId": "380265",
+    "ValueText": "No Marking"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "330893",
+    "ValueText": "Clear"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "677155",
+    "ValueText": "Square - 14.00mm x 14.00mm"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "67003",
+    "ValueText": "-10\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 475604,
+   "Name": "MX1A"
+  },
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "MX1AC1NN",
+   "6196-MX1A-C1NN",
+   "2266-MX1A-C1NN",
+   "CH198"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-E1NW",
+  "UnitPrice": 1.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-E1NW/21738396",
+  "DatasheetUrl": "https://cherry.saas.contentserv.com/admin/rest/document/30?ContextIDs=22889&Language=1",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6649/MFG_MX2A-E1NW.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-E1NW-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.75,
+      "TotalPrice": 1.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 529,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 529,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-E1NW"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "CLEAR STEM, FULL TRAVEL  MECHANI",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch, Illuminated Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-HC1B",
+  "UnitPrice": 1.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-HC1B/21738427",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7171/MFG_MX2A-HC1X.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-HC1B-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.95,
+      "TotalPrice": 1.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 431,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 431,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362566",
+    "ValueText": "Keyswitch, Illuminated"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "508214",
+    "ValueText": "LED, Blue/Green/Red"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9065"
+  },
+  "OtherNames": [
+   "1644-MX2A-HC1B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "CLEAR TOP NON-LUBRICATED",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX1A-61NW",
+  "UnitPrice": 1.61,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-61NW/21738400",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7171/MFG_MXXA-61NW.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX1A-61NW-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.61,
+      "TotalPrice": 1.61
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.393,
+      "TotalPrice": 13.93
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.3136,
+      "TotalPrice": 32.84
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.2566,
+      "TotalPrice": 62.83
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.2021,
+      "TotalPrice": 120.21
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.13352,
+      "TotalPrice": 283.38
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 428,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 428,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "319929",
+    "ValueText": "Black"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9065"
+  },
+  "OtherNames": [
+   "1644-MX1A-61NW"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SILVER STEM, FULL TRAVEL MECHANI",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-51NW",
+  "UnitPrice": 1.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-51NW/21738401",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6649/MFG_MX2A-51NW.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-51NW-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.75,
+      "TotalPrice": 1.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 427,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 427,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-51NW"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SWITCH TACTILE",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch, Illuminated Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-E1NA",
+  "UnitPrice": 1.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-E1NA/21738437",
+  "DatasheetUrl": "https://cherry.saas.contentserv.com/admin/rest/document/30?ContextIDs=22889&Language=1",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7171/MFG_MX2A-E1NX.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-E1NA-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.75,
+      "TotalPrice": 1.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 420,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 420,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362566",
+    "ValueText": "Keyswitch, Illuminated"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "508214",
+    "ValueText": "LED, Blue/Green/Red"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-E1NA"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SILVER STEM",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Panel Mount, Front"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-51NN",
+  "UnitPrice": 1.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-51NN/21738436",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7171/MFG_MX2A-51NN.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-51NN-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.75,
+      "TotalPrice": 1.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 411,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 411,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383710",
+    "ValueText": "Panel Mount, Front"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-51NN"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "BROWN STEM, FULL TRAVEL MECHANIC",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-G1NW",
+  "UnitPrice": 1.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-G1NW/21738433",
+  "DatasheetUrl": "https://cherry.saas.contentserv.com/admin/rest/document/30?ContextIDs=22914&Language=36",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6649/MFG_MX2A-G1NN.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-G1NW-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.75,
+      "TotalPrice": 1.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 386,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 386,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "323243",
+    "ValueText": "Brown"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-G1NW"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "MX SILENT, RED STEM, FULL TRAVEL",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Panel Mount, Front"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-71NN",
+  "UnitPrice": 1.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-71NN/21738450",
+  "DatasheetUrl": "https://cherry.saas.contentserv.com/admin/rest/document/30?ContextIDs=22944&Language=36",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7171/MFG_MX2A-71NX.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-71NN-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.95,
+      "TotalPrice": 1.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 380,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 380,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383710",
+    "ValueText": "Panel Mount, Front"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "395219",
+    "ValueText": "Red"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-71NN"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "CLEAR STEM, FULL TRAVEL  MECHANI",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch, Illuminated Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-H1NW",
+  "UnitPrice": 1.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-H1NW/21738411",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7517/MFG_MX2A-H1NW.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-H1NW-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.95,
+      "TotalPrice": 1.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 377,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 377,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362566",
+    "ValueText": "Keyswitch, Illuminated"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "508214",
+    "ValueText": "LED, Blue/Green/Red"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-H1NW"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SILVER STEM",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch, Illuminated Panel Mount, Front"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-51NA",
+  "UnitPrice": 1.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-51NA/21738443",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6649/MFG_MX2A-51NA.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-51NA-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.75,
+      "TotalPrice": 1.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 374,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 374,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383710",
+    "ValueText": "Panel Mount, Front"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362566",
+    "ValueText": "Keyswitch, Illuminated"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "508214",
+    "ValueText": "LED, Blue/Green/Red"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-51NA"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "CLEAR STEM, FULL TRAVEL  MECHANI",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch, Illuminated Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1644,
+   "Name": "Cherry Americas LLC"
+  },
+  "ManufacturerProductNumber": "MX2A-H1NB",
+  "UnitPrice": 1.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-H1NB/21738403",
+  "DatasheetUrl": "https://www.cherrymx.de/_Resources/Persistent/b/3/5/4/b354b7275b9afb1f1a1a69b45b317057791cd38a/Data_sheet_MX2A_Red.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7171/MFG_MX2A-H1NB.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1644-MX2A-H1NB-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.95,
+      "TotalPrice": 1.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1644,
+     "Name": "Cherry Americas LLC"
+    },
+    "QuantityAvailableforPackageType": 328,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 450,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 328,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362566",
+    "ValueText": "Keyswitch, Illuminated"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2143,
+    "ParameterText": "Voltage Rating - AC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "5 V",
+    "ValueText": "5 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "388037",
+    "ValueText": "Plunger for Cap"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "508214",
+    "ValueText": "LED, Blue/Green/Red"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "359893",
+    "ValueText": "IP40"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "13",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 10322,
+   "Name": "MX"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1644-MX2A-H1NB"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "KAILH CHOC LOW PROF WHITE 1=10pc",
+   "DetailedDescription": "Pushbutton Switch SPST-NO Keyswitch Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "5114",
+  "UnitPrice": 11.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/5114/14671677",
+  "DatasheetUrl": "https://cdn-shop.adafruit.com/product-files/5114/5114_CPG135001D03.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4199/5114%28primary%29.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-5114-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 11.95,
+      "TotalPrice": 11.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 51,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 51,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 130,
+    "ParameterText": "Circuit",
+    "ParameterType": "String",
+    "ValueId": "406606",
+    "ValueText": "SPST-NO"
+   },
+   {
+    "ParameterId": 235,
+    "ParameterText": "Switch Function",
+    "ParameterType": "String",
+    "ValueId": "381660",
+    "ValueText": "Off-Mom"
+   },
+   {
+    "ParameterId": 66,
+    "ParameterText": "Current Rating (Amps)",
+    "ParameterType": "String",
+    "ValueId": "73566",
+    "ValueText": "10mA (DC)"
+   },
+   {
+    "ParameterId": 2144,
+    "ParameterText": "Voltage Rating - DC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "12 V",
+    "ValueText": "12 V"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "395081",
+    "ValueText": "Rectangular, Button"
+   },
+   {
+    "ParameterId": 1533,
+    "ParameterText": "Actuator Marking",
+    "ParameterType": "String",
+    "ValueId": "380265",
+    "ValueText": "No Marking"
+   },
+   {
+    "ParameterId": 1510,
+    "ParameterText": "Color - Actuator/Cap",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 522,
+    "ParameterText": "Illumination Type, Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 524,
+    "ParameterText": "Illumination Voltage (Nominal)",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 697,
+    "ParameterText": "Ingress Protection",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 783,
+    "ParameterText": "Panel Cutout Dimensions",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "139409",
+    "ValueText": "-20\u00b0C ~ 70\u00b0C"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 199,
+     "ParentId": 15,
+     "Name": "Pushbutton Switches",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/761/PS1024ARED_tmb%2864x64%29.jpg",
+     "SeoDescription": "Pushbutton switches are mechanical devices that make or break an electrical connection by the closing or opening electrical contacts or solid state circuitry when actuated by human or mechanical interaction. Pushbutton switches are selected by mounting type, switching type, contact configuration, function, color, and current and voltage ratings. Some switches include built-in illumination.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "18",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "Unknown",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.50.9031"
+  },
+  "OtherNames": [
+   "1528-5114"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "BLK KAILH CHOC SLIM KEY CAP 1=10",
+   "DetailedDescription": "Square, Concave Keyswitch Switch Cap Black Snap Fit"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "5111",
+  "UnitPrice": 3.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/5111/15194669",
+  "DatasheetUrl": "",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4845/MFG_1528_5111.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-5111-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.75,
+      "TotalPrice": 3.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 11,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 11,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 234,
+    "ParameterText": "Switch Type",
+    "ParameterType": "String",
+    "ValueId": "362564",
+    "ValueText": "Keyswitch"
+   },
+   {
+    "ParameterId": 98,
+    "ParameterText": "Shape",
+    "ParameterType": "String",
+    "ValueId": "407204",
+    "ValueText": "Square, Concave"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "319929",
+    "ValueText": "Black"
+   },
+   {
+    "ParameterId": 528,
+    "ParameterText": "Illumination",
+    "ParameterType": "String",
+    "ValueId": "380363",
+    "ValueText": "Non-Illuminated"
+   },
+   {
+    "ParameterId": 47,
+    "ParameterText": "For Use With/Related Products",
+    "ParameterType": "String",
+    "ValueId": "532848",
+    "ValueText": "Kailh Choc Slim"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "404567",
+    "ValueText": "Snap Fit"
+   },
+   {
+    "ParameterId": 352,
+    "ParameterText": "Size",
+    "ParameterType": "String",
+    "ValueId": "532850",
+    "ValueText": "17.50mm L x 16.60mm W x 5.20mm H"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 210,
+     "ParentId": 15,
+     "Name": "Accessories - Caps",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/131/708/1ZB09XD136_tmb.jpg",
+     "SeoDescription": "Customizable switches often require accessory caps to enable actuation. Customizable switch types include keypads, keyswitches, pushbuttons, rockers, slide switches, tactile and toggle switches in illuminated and non-illuminated versions. Switch caps are differentiated by color, shape, mounting type, and the specific switch products the cap is designed to fit.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "Unknown",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8538.90.8180"
+  },
+  "OtherNames": [
+   "1528-5111"
+  ]
+ }
+]

@@ -1,0 +1,5017 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CNTL LI-ION 1CEL SOT23-5",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-2ACI/OT",
+  "UnitPrice": 0.76,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6658/150%7EC04-091%7ECT%2COT%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ACI/OTTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.6125,
+      "TotalPrice": 1837.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 42000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ACI/OTCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 44464,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ACI/OTDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 44464,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 44464,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-2ACI/OT-ND",
+   "MCP73831T-2ACI/OTDKR",
+   "MCP73831T2ACIOT",
+   "MCP73831T-2ACI/OTCT",
+   "MCP73831T-2ACI/OTTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CONTRL LI-ION 1CELL 8DFN",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer 8-DFN (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-2ACI/MC",
+  "UnitPrice": 0.8,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-MC/964300",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4123/150%7EC04-123%7EMC%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ACI/MCTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3300,
+      "UnitPrice": 0.65,
+      "TotalPrice": 2145.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 16500,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3300,
+    "StandardPackage": 3300,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ACI/MCCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.8,
+      "TotalPrice": 0.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 16649,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ACI/MCDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.8,
+      "TotalPrice": 0.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 16649,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 16649,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295311",
+    "ValueText": "8-VFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "293991",
+    "ValueText": "8-DFN (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-2ACI/MCCT",
+   "MCP73831T-2ACI/MC-ND",
+   "MCP73831T-2ACI/MCDKR",
+   "MCP73831T-2ACI/MCTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CONTRL LI-ION 1CELL 8DFN",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer 8-DFN (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-2DCI/MC",
+  "UnitPrice": 0.8,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2DCI-MC/964304",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4123/150%7EC04-123%7EMC%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-2DCI/MCTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3300,
+      "UnitPrice": 0.65,
+      "TotalPrice": 2145.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 9900,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3300,
+    "StandardPackage": 3300,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2DCI/MCCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.8,
+      "TotalPrice": 0.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 13026,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2DCI/MCDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.8,
+      "TotalPrice": 0.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 13026,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 13026,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295311",
+    "ValueText": "8-VFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "293991",
+    "ValueText": "8-DFN (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "7",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "RoHS non-compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-2DCI/MCDKR",
+   "MCP73831T-2DCI/MCCT",
+   "MCP73831T-2DCI/MC-ND",
+   "MCP73831T-2DCI/MCTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CNTL LI-ION 1CEL SOT23-5",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-2ATI/OT",
+  "UnitPrice": 0.76,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-OT/964303",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6658/150%7EC04-091%7ECT%2COT%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ATI/OTTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.6125,
+      "TotalPrice": 1837.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 9000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ATI/OTCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 11951,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ATI/OTDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 11951,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 11951,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-2ATI/OTTR",
+   "MCP73831T2ATIOT",
+   "MCP73831T-2ATI/OT-ND",
+   "MCP73831T-2ATI/OTDKR",
+   "MCP73831T-2ATI/OTCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CNTL LI-ION 1CEL SOT23-5",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-5ACI/OT",
+  "UnitPrice": 0.76,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-5ACI-OT/1874434",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6658/150%7EC04-091%7ECT%2COT%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-5ACI/OTTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.6125,
+      "TotalPrice": 1837.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 9000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-5ACI/OTCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 10627,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-5ACI/OTDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 10627,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 10627,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "208524",
+    "ValueText": "4.5V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-5ACI/OT-ND",
+   "MCP73831T-5ACI/OTCT",
+   "6196-MCP73831T-5ACI/OT",
+   "MCP73831T-5ACI/OTDKR",
+   "MCP73831T-5ACI/OTTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CONTRL LI-ION 1CELL 8DFN",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer 8-DFN (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-2ATI/MC",
+  "UnitPrice": 0.8,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-MC/964302",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4123/150%7EC04-123%7EMC%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ATI/MCTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3300,
+      "UnitPrice": 0.65,
+      "TotalPrice": 2145.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 3300,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3300,
+    "StandardPackage": 3300,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ATI/MCCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.8,
+      "TotalPrice": 0.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 6310,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-2ATI/MCDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.8,
+      "TotalPrice": 0.8
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 6310,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 6310,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295311",
+    "ValueText": "8-VFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "293991",
+    "ValueText": "8-DFN (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-2ATI/MC-ND",
+   "MCP73831T-2ATI/MCTR",
+   "MCP73831T-2ATI/MCCT",
+   "MCP73831T-2ATI/MCDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CONTRL LI-ION 1CELL 8DFN",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer 8-DFN (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-3ACI/MC",
+  "UnitPrice": 0.82,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-3ACI-MC/964306",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4123/150%7EC04-123%7EMC%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-3ACI/MCTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3300,
+      "UnitPrice": 0.63,
+      "TotalPrice": 2079.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3300,
+    "StandardPackage": 3300,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-3ACI/MCCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.82,
+      "TotalPrice": 0.82
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6885,
+      "TotalPrice": 68.85
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 5599,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-3ACI/MCDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.82,
+      "TotalPrice": 0.82
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6885,
+      "TotalPrice": 68.85
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 5599,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 5599,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206625",
+    "ValueText": "4.35V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295311",
+    "ValueText": "8-VFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "293991",
+    "ValueText": "8-DFN (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "RoHS non-compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-3ACI/MCDKR",
+   "MCP73831T-3ACI/MCCT",
+   "MCP73831T-3ACI/MCTR",
+   "MCP73831T-3ACI/MC-ND",
+   "6196-MCP73831T-3ACI/MC"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CNTL LI-ION 1CEL SOT23-5",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer SOT-23-5"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-4ADI/OT",
+  "UnitPrice": 0.76,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-4ADI-OT/1874437",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6658/150%7EC04-091%7ECT%2COT%7E5.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-4ADI/OTTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.6125,
+      "TotalPrice": 1837.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-4ADI/OTCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 4014,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-4ADI/OTDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.76,
+      "TotalPrice": 0.76
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7496,
+      "TotalPrice": 18.74
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 4014,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 4014,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "207565",
+    "ValueText": "4.4V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "400230",
+    "ValueText": "SC-74A, SOT-753"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "405420",
+    "ValueText": "SOT-23-5"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-4ADI/OTCT",
+   "6196-MCP73831T-4ADI/OT",
+   "MCP73831T-4ADI/OTDKR",
+   "MCP73831T-4ADI/OT-ND",
+   "MCP73831T-4ADI/OTTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CONTRL LI-ION 1CELL 8DFN",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer 8-DFN (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-5ACI/MC",
+  "UnitPrice": 0.82,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-5ACI-MC/1874476",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4123/150%7EC04-123%7EMC%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-5ACI/MCTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3300,
+      "UnitPrice": 0.63,
+      "TotalPrice": 2079.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3300,
+    "StandardPackage": 3300,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-5ACI/MCCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.82,
+      "TotalPrice": 0.82
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6885,
+      "TotalPrice": 68.85
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 3200,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-5ACI/MCDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.82,
+      "TotalPrice": 0.82
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6885,
+      "TotalPrice": 68.85
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 3200,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 3200,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "208524",
+    "ValueText": "4.5V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295311",
+    "ValueText": "8-VFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "293991",
+    "ValueText": "8-DFN (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-5ACI/MCDKR",
+   "MCP73831T-5ACI/MCCT",
+   "MCP73831T-5ACI/MC-ND",
+   "MCP73831T-5ACI/MCTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CONTRL LI-ION 1CELL 8DFN",
+   "DetailedDescription": "Charger IC Lithium Ion/Polymer 8-DFN (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 150,
+   "Name": "Microchip Technology"
+  },
+  "ManufacturerProductNumber": "MCP73831T-4ADI/MC",
+  "UnitPrice": 0.82,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-4ADI-MC/1874472",
+  "DatasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4123/150%7EC04-123%7EMC%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "MCP73831T-4ADI/MCTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3300,
+      "UnitPrice": 0.63,
+      "TotalPrice": 2079.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3300,
+    "StandardPackage": 3300,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-4ADI/MCCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.82,
+      "TotalPrice": 0.82
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6885,
+      "TotalPrice": 68.85
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 3145,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "MCP73831T-4ADI/MCDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.82,
+      "TotalPrice": 0.82
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.7,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.6885,
+      "TotalPrice": 68.85
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 150,
+     "Name": "Microchip Technology"
+    },
+    "QuantityAvailableforPackageType": 3145,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 3145,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6040697843001",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "365302",
+    "ValueText": "Lithium Ion/Polymer"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "335810",
+    "ValueText": "Current"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382931",
+    "ValueText": "Over Voltage"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "236734",
+    "ValueText": "500mA"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "207565",
+    "ValueText": "4.4V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "267452",
+    "ValueText": "6V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295311",
+    "ValueText": "8-VFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "293991",
+    "ValueText": "8-DFN (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 38190,
+   "Name": "MCP73831"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "MCP73831T-4ADI/MCTR",
+   "MCP73831T-4ADI/MCCT",
+   "MCP73831T-4ADI/MC-ND",
+   "MCP73831T-4ADI/MCDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "WITTY PI 4 L3V7 - RTC & POWER MA",
+   "DetailedDescription": "ATtiny841, LM75B, MP3423, PCF85063A, TP4056 Real Time Clock (RTC) Clock Timing Raspberry Pi Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "5705",
+  "UnitPrice": 37.44,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/5705/18735307",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/4912/5705_Web.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4884/MFG_1528_5705.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-5705-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 37.44,
+      "TotalPrice": 37.44
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 135,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 135,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "392493",
+    "ValueText": "Raspberry Pi"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "331356",
+    "ValueText": "Clock Timing"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "392880",
+    "ValueText": "Real Time Clock (RTC)"
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "756834",
+    "ValueText": "ATtiny841, LM75B, MP3423, PCF85063A, TP4056"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321638",
+    "ValueText": "Board(s), Cable(s), Accessories"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 107636,
+   "Name": "PCF85063"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "Not Applicable",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8473.30.1180"
+  },
+  "OtherNames": [
+   "1528-5705"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "EVAL BOARD FOR TP4056",
+   "DetailedDescription": "TP4056 - Battery Charger Power Management Evaluation Board"
+  },
+  "Manufacturer": {
+   "Id": 5032,
+   "Name": "Soldered Electronics"
+  },
+  "ManufacturerProductNumber": "333013",
+  "UnitPrice": 5.74,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/soldered-electronics/333013/21720412",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5858/333013%20Li-ion%20charger%20datasheet.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6161/MFG_333013_primary.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "5032-333013-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 5.74,
+      "TotalPrice": 5.74
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 5.729,
+      "TotalPrice": 57.29
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 5.7236,
+      "TotalPrice": 143.09
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 5.7158,
+      "TotalPrice": 571.58
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 5.71052,
+      "TotalPrice": 1427.63
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 5.7066,
+      "TotalPrice": 2853.3
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 5.70262,
+      "TotalPrice": 5702.62
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 5032,
+     "Name": "Soldered Electronics"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "389240",
+    "ValueText": "Power Management"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "318395",
+    "ValueText": "Battery Charger"
+   },
+   {
+    "ParameterId": 1023,
+    "ParameterText": "Embedded",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "791118",
+    "ValueText": "TP4056"
+   },
+   {
+    "ParameterId": 1018,
+    "ParameterText": "Primary Attributes",
+    "ParameterType": "String",
+    "ValueId": "791114",
+    "ValueText": "4.5V ~ 5.5V Operating Voltage"
+   },
+   {
+    "ParameterId": 1019,
+    "ParameterText": "Secondary Attributes",
+    "ParameterType": "String",
+    "ValueId": "381979",
+    "ValueText": "On-Board LEDs"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 787,
+       "ParentId": 2041,
+       "Name": "Evaluation and Demonstration Boards and Kits",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/373/134/DLPDLCR2000EVM_tmb.jpg",
+       "SeoDescription": "Products within this family provide a convenient means of evaluating the performance or behavior of some focus device, in the context of a proven implementation that is generally well-documented and supported by evaluation software, as appropriate. Typically consisting of a printed circuit board on which the focus device has been populated along with necessary or helpful support components, additional components such as cabling or power supplies may also be included. Evaluation platforms for device classes that are particularly numerous or distinctive in their classification such as ADCs, DACs, and switch-mode power supplies may be grouped together as a separate product family.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "5",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8504.40.9580"
+  },
+  "OtherNames": [
+   "5032-333013"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CHG LI-ION 1CELL 16QFN",
+   "DetailedDescription": "Charger IC Lithium Ion 16-VQFN (3x3)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "BQ24075QRGTRQ1",
+  "UnitPrice": 4.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/BQ24075QRGTRQ1/3074508",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24075-q1",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4117/296%7E4222419%7ERGT%7E16.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-36557-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 2.72152,
+      "TotalPrice": 8164.56
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 9000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-36557-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 4.95,
+      "TotalPrice": 4.95
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 3.763,
+      "TotalPrice": 37.63
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 3.4668,
+      "TotalPrice": 86.67
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 3.1418,
+      "TotalPrice": 314.18
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 2.9942,
+      "TotalPrice": 748.55
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 9412,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-36557-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 4.95,
+      "TotalPrice": 4.95
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 3.763,
+      "TotalPrice": 37.63
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 3.4668,
+      "TotalPrice": 86.67
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 3.1418,
+      "TotalPrice": 314.18
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 2.9942,
+      "TotalPrice": 748.55
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 9412,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 9412,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "468225",
+    "ValueText": "Lithium Ion"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "336137",
+    "ValueText": "Current, Timer"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382900",
+    "ValueText": "Over Temperature, Over Voltage, Reverse Current, Short Circuit"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "55041",
+    "ValueText": "1.5A"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "252567",
+    "ValueText": "6.4V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "418344",
+    "ValueText": "USB"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212479",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 1977,
+    "ParameterText": "Grade",
+    "ParameterType": "String",
+    "ValueId": "316912",
+    "ValueText": "Automotive"
+   },
+   {
+    "ParameterId": 2700,
+    "ParameterText": "Qualification",
+    "ParameterType": "String",
+    "ValueId": "312102",
+    "ValueText": "AEC-Q100"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "108825",
+    "ValueText": "16-VFQFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "108841",
+    "ValueText": "16-VQFN (3x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 66088,
+   "Name": "BQ24075"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "TEXTISBQ24075QRGTRQ1",
+   "BQ24075QRGTRQ1-ND",
+   "-296-36557-1-ND",
+   "-296-36557-1",
+   "296-36557-1",
+   "296-36557-2",
+   "2156-BQ24075QRGTRQ1",
+   "296-36557-6"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CHG LI-ION 1CELL 16QFN",
+   "DetailedDescription": "Charger IC Lithium Ion 16-VQFN (3x3)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "BQ24075TRGTR",
+  "UnitPrice": 2.43,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/BQ24075TRGTR/2202252",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24075t",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4117/296%7E4222419%7ERGT%7E16.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-25609-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 1.24998,
+      "TotalPrice": 3749.94
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 1.22533,
+      "TotalPrice": 7351.98
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 3000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-25609-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.43,
+      "TotalPrice": 2.43
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.802,
+      "TotalPrice": 18.02
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.6452,
+      "TotalPrice": 41.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.4728,
+      "TotalPrice": 147.28
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.39064,
+      "TotalPrice": 347.66
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.35252,
+      "TotalPrice": 676.26
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 3157,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-25609-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.43,
+      "TotalPrice": 2.43
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.802,
+      "TotalPrice": 18.02
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.6452,
+      "TotalPrice": 41.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.4728,
+      "TotalPrice": 147.28
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.39064,
+      "TotalPrice": 347.66
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.35252,
+      "TotalPrice": 676.26
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 3157,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 3157,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "468225",
+    "ValueText": "Lithium Ion"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "336137",
+    "ValueText": "Current, Timer"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382900",
+    "ValueText": "Over Temperature, Over Voltage, Reverse Current, Short Circuit"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "55041",
+    "ValueText": "1.5A"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "252567",
+    "ValueText": "6.4V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "418344",
+    "ValueText": "USB"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "38911",
+    "ValueText": "0\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "108825",
+    "ValueText": "16-VFQFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "108841",
+    "ValueText": "16-VQFN (3x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 66088,
+   "Name": "BQ24075"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "2  (1 Year)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "-296-25609-1-ND",
+   "-BQ24075TRGTR-NDR",
+   "296-25609-2",
+   "296-25609-1",
+   "296-25609-6"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CHG LI-ION 1CELL 16QFN",
+   "DetailedDescription": "Charger IC Lithium Ion 16-VQFN (3x3)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "BQ24075TRGTT",
+  "UnitPrice": 3.11,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/BQ24075TRGTT/2261820",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24075t",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4117/296%7E4222419%7ERGT%7E16.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-32025-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.8172,
+      "TotalPrice": 454.3
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.75532,
+      "TotalPrice": 877.66
+     },
+     {
+      "BreakQuantity": 750,
+      "UnitPrice": 1.72435,
+      "TotalPrice": 1293.2625
+     },
+     {
+      "BreakQuantity": 1250,
+      "UnitPrice": 1.69,
+      "TotalPrice": 2112.5
+     },
+     {
+      "BreakQuantity": 1750,
+      "UnitPrice": 1.66994,
+      "TotalPrice": 2922.395
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 1.65063,
+      "TotalPrice": 4126.575
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 1500,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 250,
+    "StandardPackage": 250,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-32025-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.11,
+      "TotalPrice": 3.11
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.331,
+      "TotalPrice": 23.31
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.1352,
+      "TotalPrice": 53.38
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.9199,
+      "TotalPrice": 191.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 1569,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-32025-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.11,
+      "TotalPrice": 3.11
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.331,
+      "TotalPrice": 23.31
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.1352,
+      "TotalPrice": 53.38
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.9199,
+      "TotalPrice": 191.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 1569,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 1569,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "468225",
+    "ValueText": "Lithium Ion"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "336137",
+    "ValueText": "Current, Timer"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382900",
+    "ValueText": "Over Temperature, Over Voltage, Reverse Current, Short Circuit"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "55041",
+    "ValueText": "1.5A"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "252567",
+    "ValueText": "6.4V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "418344",
+    "ValueText": "USB"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "38911",
+    "ValueText": "0\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "108825",
+    "ValueText": "16-VFQFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "108841",
+    "ValueText": "16-VQFN (3x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 66088,
+   "Name": "BQ24075"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "2  (1 Year)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "BQ24075TRGTT-ND",
+   "296-32025-6",
+   "296-32025-2",
+   "296-32025-1"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CHG LI-ION 1CELL 16QFN",
+   "DetailedDescription": "Charger IC Lithium Ion 16-VQFN (3x3)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "BQ24075RGTT",
+  "UnitPrice": 3.11,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/BQ24075RGTT/1960932",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24075",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4117/296%7E4222419%7ERGT%7E16.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-23840-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.8172,
+      "TotalPrice": 454.3
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.75532,
+      "TotalPrice": 877.66
+     },
+     {
+      "BreakQuantity": 750,
+      "UnitPrice": 1.72435,
+      "TotalPrice": 1293.2625
+     },
+     {
+      "BreakQuantity": 1250,
+      "UnitPrice": 1.69,
+      "TotalPrice": 2112.5
+     },
+     {
+      "BreakQuantity": 1750,
+      "UnitPrice": 1.66994,
+      "TotalPrice": 2922.395
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 1.65063,
+      "TotalPrice": 4126.575
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 500,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 250,
+    "StandardPackage": 250,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-23840-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.11,
+      "TotalPrice": 3.11
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.331,
+      "TotalPrice": 23.31
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.1352,
+      "TotalPrice": 53.38
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.9199,
+      "TotalPrice": 191.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 558,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-23840-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.11,
+      "TotalPrice": 3.11
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.331,
+      "TotalPrice": 23.31
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.1352,
+      "TotalPrice": 53.38
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.9199,
+      "TotalPrice": 191.99
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 558,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 558,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "468225",
+    "ValueText": "Lithium Ion"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "336137",
+    "ValueText": "Current, Timer"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382900",
+    "ValueText": "Over Temperature, Over Voltage, Reverse Current, Short Circuit"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "55041",
+    "ValueText": "1.5A"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "252567",
+    "ValueText": "6.4V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "418344",
+    "ValueText": "USB"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "108825",
+    "ValueText": "16-VFQFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "108841",
+    "ValueText": "16-VQFN (3x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 66088,
+   "Name": "BQ24075"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "2  (1 Year)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "TEXTISBQ24075RGTT",
+   "-296-23840-1-ND",
+   "-296-23840-1",
+   "-296-23840-1-NDR",
+   "296-23840-6",
+   "296-23840-1",
+   "2156-BQ24075RGTT",
+   "296-23840-2-NDR",
+   "296-23840-2",
+   "BQ24075RGTTG4",
+   "296-23840-1-NDR",
+   "296-23840-6-NDR",
+   "BQ24075RGTTG4-ND",
+   "-BQ24075RGTTG4-NDR",
+   "-BQ24075RGTT-NDR",
+   "-BQ24075RGTTG4"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "EVAL BRD FOR BQ24075 BQ27441-G1A",
+   "DetailedDescription": "BQ24075, BQ27441-G1A - Battery Charger Power Management Evaluation Board"
+  },
+  "Manufacturer": {
+   "Id": 1568,
+   "Name": "SparkFun Electronics"
+  },
+  "ManufacturerProductNumber": "13777",
+  "UnitPrice": 23.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/sparkfun-electronics/13777/6138356",
+  "DatasheetUrl": "https://github.com/sparkfun/Battery_Babysitter",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/803/MFG_PRT-13777.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1568-13777-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 23.95,
+      "TotalPrice": 23.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1568,
+     "Name": "SparkFun Electronics"
+    },
+    "QuantityAvailableforPackageType": 88,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 88,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "389240",
+    "ValueText": "Power Management"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "318395",
+    "ValueText": "Battery Charger"
+   },
+   {
+    "ParameterId": 1023,
+    "ParameterText": "Embedded",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "322465",
+    "ValueText": "BQ24075, BQ27441-G1A"
+   },
+   {
+    "ParameterId": 1018,
+    "ParameterText": "Primary Attributes",
+    "ParameterType": "String",
+    "ValueId": "418807",
+    "ValueText": "USB Powered"
+   },
+   {
+    "ParameterId": 1019,
+    "ParameterText": "Secondary Attributes",
+    "ParameterType": "String",
+    "ValueId": "765250",
+    "ValueText": "I2C Interface(s)"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 787,
+       "ParentId": 2041,
+       "Name": "Evaluation and Demonstration Boards and Kits",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/373/134/DLPDLCR2000EVM_tmb.jpg",
+       "SeoDescription": "Products within this family provide a convenient means of evaluating the performance or behavior of some focus device, in the context of a proven implementation that is generally well-documented and supported by evaluation software, as appropriate. Typically consisting of a printed circuit board on which the focus device has been populated along with necessary or helpful support components, additional components such as cabling or power supplies may also be included. Evaluation platforms for device classes that are particularly numerous or distinctive in their classification such as ADCs, DACs, and switch-mode power supplies may be grouped together as a separate product family.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.30.8000"
+  },
+  "OtherNames": [
+   "1568-13777",
+   "1568-1404",
+   "PRT-13777",
+   "1568-1404-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC BATT CHG LI-ION 1CELL 16QFN",
+   "DetailedDescription": "Charger IC Lithium Ion 16-VQFN (3x3)"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "BQ24075RGTR",
+  "UnitPrice": 2.43,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/BQ24075RGTR/2047273",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24075",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4117/296%7E4222419%7ERGT%7E16.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-38874-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 1.24998,
+      "TotalPrice": 3749.94
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 1.22533,
+      "TotalPrice": 7351.98
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-38874-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.43,
+      "TotalPrice": 2.43
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.802,
+      "TotalPrice": 18.02
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.6452,
+      "TotalPrice": 41.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.4728,
+      "TotalPrice": 147.28
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.39064,
+      "TotalPrice": 347.66
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.35252,
+      "TotalPrice": 676.26
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 39,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "296-38874-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.43,
+      "TotalPrice": 2.43
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.802,
+      "TotalPrice": 18.02
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.6452,
+      "TotalPrice": 41.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.4728,
+      "TotalPrice": 147.28
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.39064,
+      "TotalPrice": 347.66
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.35252,
+      "TotalPrice": 676.26
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 39,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 39,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 412,
+    "ParameterText": "Battery Chemistry",
+    "ParameterType": "String",
+    "ValueId": "468225",
+    "ValueText": "Lithium Ion"
+   },
+   {
+    "ParameterId": 36,
+    "ParameterText": "Number of Cells",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1972,
+    "ParameterText": "Current - Charging",
+    "ParameterType": "String",
+    "ValueId": "333198",
+    "ValueText": "Constant - Programmable"
+   },
+   {
+    "ParameterId": 1680,
+    "ParameterText": "Programmable Features",
+    "ParameterType": "String",
+    "ValueId": "336137",
+    "ValueText": "Current, Timer"
+   },
+   {
+    "ParameterId": 1818,
+    "ParameterText": "Fault Protection",
+    "ParameterType": "String",
+    "ValueId": "382900",
+    "ValueText": "Over Temperature, Over Voltage, Reverse Current, Short Circuit"
+   },
+   {
+    "ParameterId": 1490,
+    "ParameterText": "Charge Current - Max",
+    "ParameterType": "String",
+    "ValueId": "55041",
+    "ValueText": "1.5A"
+   },
+   {
+    "ParameterId": 1971,
+    "ParameterText": "Battery Pack Voltage",
+    "ParameterType": "String",
+    "ValueId": "206189",
+    "ValueText": "4.2V"
+   },
+   {
+    "ParameterId": 1845,
+    "ParameterText": "Voltage - Supply (Max)",
+    "ParameterType": "String",
+    "ValueId": "252567",
+    "ValueText": "6.4V"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "418344",
+    "ValueText": "USB"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212481",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TJ)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "108825",
+    "ValueText": "16-VFQFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "108841",
+    "ValueText": "16-VQFN (3x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 66088,
+   "Name": "BQ24075"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2025,
+     "ParentId": 32,
+     "Name": "Power Management (PMIC)",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+     "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+     "ChildCategories": [
+      {
+       "CategoryId": 781,
+       "ParentId": 2025,
+       "Name": "Battery Chargers",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/457/069/175%3B30WLP-.69%3B%3B30_tmb%2864x64%29.jpg",
+       "SeoDescription": "Battery Charger PMICs (Power Management Integrated Circuits) are a family of component-level products used to implement battery charge control and charge management functions in electronic devices. Classified primarily by the battery chemistry and number of cells with which a device is designed for use, these devices provide current or voltage regulation and monitoring functions necessary for safe recharging of electrochemical cells and supercapacitors.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "2  (1 Year)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.39.0070"
+  },
+  "OtherNames": [
+   "296-38874-2",
+   "BQ24075RGTRG4",
+   "BQ24075RGTRG4-ND",
+   "296-38874-1",
+   "TEXTISBQ24075RGTR",
+   "2156-BQ24075RGTR",
+   "BQ24075RGTR-ND",
+   "296-38874-6"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "EVAL BOARD FOR BQ24075T",
+   "DetailedDescription": "BQ24075T bqTINY\u2122 III Battery Charger Power Management Evaluation Board"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "BQ24075TEVM",
+  "UnitPrice": 140.0,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/BQ24075TEVM/2353307",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24075t",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2158/BQ24075TEVM.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-45619-ND",
+    "PackageType": {
+     "Id": 61,
+     "Name": "Box"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 140.0,
+      "TotalPrice": 140.0
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 139.678,
+      "TotalPrice": 1396.78
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 139.5508,
+      "TotalPrice": 3488.77
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 1,
+    "MaxQuantityForDistribution": 10,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "389240",
+    "ValueText": "Power Management"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "318395",
+    "ValueText": "Battery Charger"
+   },
+   {
+    "ParameterId": 1023,
+    "ParameterText": "Embedded",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "322466",
+    "ValueText": "BQ24075T"
+   },
+   {
+    "ParameterId": 1018,
+    "ParameterText": "Primary Attributes",
+    "ParameterType": "String",
+    "ValueId": "365005",
+    "ValueText": "Li-Ion / Li-Pol (1 Cell)"
+   },
+   {
+    "ParameterId": 1019,
+    "ParameterText": "Secondary Attributes",
+    "ParameterType": "String",
+    "ValueId": "329212",
+    "ValueText": "Charge Timer"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 66088,
+   "Name": "BQ24075"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 787,
+       "ParentId": 2041,
+       "Name": "Evaluation and Demonstration Boards and Kits",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/373/134/DLPDLCR2000EVM_tmb.jpg",
+       "SeoDescription": "Products within this family provide a convenient means of evaluating the performance or behavior of some focus device, in the context of a proven implementation that is generally well-documented and supported by evaluation software, as appropriate. Typically consisting of a printed circuit board on which the focus device has been populated along with necessary or helpful support components, additional components such as cabling or power supplies may also be included. Evaluation platforms for device classes that are particularly numerous or distinctive in their classification such as ADCs, DACs, and switch-mode power supplies may be grouped together as a separate product family.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 20161,
+   "Name": "bqTINY\u2122 III"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8473.30.1180"
+  },
+  "OtherNames": [
+   "BQ24075TEVM-ND",
+   "296-45619"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "EVAL BOARD FOR BQ24075",
+   "DetailedDescription": "BQ24075 bqTINY\u2122 III Battery Charger Power Management Evaluation Board"
+  },
+  "Manufacturer": {
+   "Id": 296,
+   "Name": "Texas Instruments"
+  },
+  "ManufacturerProductNumber": "BQ24075EVM",
+  "UnitPrice": 148.4,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/BQ24075EVM/2047272",
+  "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24075",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/502/BQ24075EVM.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "296-30747-ND",
+    "PackageType": {
+     "Id": 61,
+     "Name": "Box"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 148.4,
+      "TotalPrice": 148.4
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 148.059,
+      "TotalPrice": 1480.59
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 147.9232,
+      "TotalPrice": 3698.08
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 296,
+     "Name": "Texas Instruments"
+    },
+    "QuantityAvailableforPackageType": 1,
+    "MaxQuantityForDistribution": 10,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "389240",
+    "ValueText": "Power Management"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "318395",
+    "ValueText": "Battery Charger"
+   },
+   {
+    "ParameterId": 1023,
+    "ParameterText": "Embedded",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "322464",
+    "ValueText": "BQ24075"
+   },
+   {
+    "ParameterId": 1018,
+    "ParameterText": "Primary Attributes",
+    "ParameterType": "String",
+    "ValueId": "365005",
+    "ValueText": "Li-Ion / Li-Pol (1 Cell)"
+   },
+   {
+    "ParameterId": 1019,
+    "ParameterText": "Secondary Attributes",
+    "ParameterType": "String",
+    "ValueId": "329212",
+    "ValueText": "Charge Timer"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 66088,
+   "Name": "BQ24075"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 787,
+       "ParentId": 2041,
+       "Name": "Evaluation and Demonstration Boards and Kits",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/373/134/DLPDLCR2000EVM_tmb.jpg",
+       "SeoDescription": "Products within this family provide a convenient means of evaluating the performance or behavior of some focus device, in the context of a proven implementation that is generally well-documented and supported by evaluation software, as appropriate. Typically consisting of a printed circuit board on which the focus device has been populated along with necessary or helpful support components, additional components such as cabling or power supplies may also be included. Evaluation platforms for device classes that are particularly numerous or distinctive in their classification such as ADCs, DACs, and switch-mode power supplies may be grouped together as a separate product family.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 20161,
+   "Name": "bqTINY\u2122 III"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8473.30.1180"
+  },
+  "OtherNames": [
+   "BQ24075EVM-ND",
+   "296-30747"
+  ]
+ }
+]

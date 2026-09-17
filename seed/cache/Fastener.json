@@ -1,0 +1,5587 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "MACH SCREW PAN HEAD PHILLIPS M2",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Stainless Steel"
+  },
+  "Manufacturer": {
+   "Id": 335,
+   "Name": "APM Hexseal"
+  },
+  "ManufacturerProductNumber": "RM2X8MM 2701",
+  "UnitPrice": 0.79,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/apm-hexseal/RM2X8MM-2701/612919",
+  "DatasheetUrl": "https://apmhexseal.com/wp-content/uploads/APMShortCatalog-HEX-SC-01-Rev.-06.19.19.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2584/RM2X8MM%202701.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "335-1155-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.79,
+      "TotalPrice": 0.79
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.658,
+      "TotalPrice": 3.29
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.612,
+      "TotalPrice": 6.12
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.5596,
+      "TotalPrice": 13.99
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.5248,
+      "TotalPrice": 26.24
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4937,
+      "TotalPrice": 49.37
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.45756,
+      "TotalPrice": 114.39
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.43362,
+      "TotalPrice": 216.81
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.41219,
+      "TotalPrice": 412.19
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 335,
+     "Name": "APM Hexseal"
+    },
+    "QuantityAvailableforPackageType": 6866,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 6866,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "401113",
+    "ValueText": "Self Sealing"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7762",
+    "ValueText": "0.063\" (1.60mm) 1/16\""
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "18741",
+    "ValueText": "0.315\" (8.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "20921",
+    "ValueText": "0.378\" (9.60mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "407853",
+    "ValueText": "Stainless Steel"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 475096,
+   "Name": "RM2"
+  },
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 19346,
+   "Name": "SEELSKREW\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7318.15.6070"
+  },
+  "OtherNames": [
+   "335-1155",
+   "SEELSKREWRM2X8MM",
+   "BAPZZZCZZAAZZ",
+   "Q9620895",
+   "Q1707197",
+   "RM2X8MM 2701-ND",
+   "RM2X8MM2701",
+   "SEELSKREWRM2X8MM-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "MACH SCREW PAN HEAD PHILLIPS M2",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Stainless Steel"
+  },
+  "Manufacturer": {
+   "Id": 335,
+   "Name": "APM Hexseal"
+  },
+  "ManufacturerProductNumber": "RM2X12MM 2701",
+  "UnitPrice": 0.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/apm-hexseal/RM2X12MM-2701/3712290",
+  "DatasheetUrl": "https://apmhexseal.com/wp-content/uploads/APMShortCatalog-HEX-SC-01-Rev.-06.19.19.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2603/RM2X12MM%202701.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "335-1151-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.9,
+      "TotalPrice": 0.9
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.756,
+      "TotalPrice": 3.78
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.703,
+      "TotalPrice": 7.03
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.6432,
+      "TotalPrice": 16.08
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.6036,
+      "TotalPrice": 30.18
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.5683,
+      "TotalPrice": 56.83
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.52728,
+      "TotalPrice": 131.82
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.50002,
+      "TotalPrice": 250.01
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.47563,
+      "TotalPrice": 475.63
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 335,
+     "Name": "APM Hexseal"
+    },
+    "QuantityAvailableforPackageType": 2699,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2699,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "401113",
+    "ValueText": "Self Sealing"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "13588",
+    "ValueText": "0.190\" (4.83mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7762",
+    "ValueText": "0.063\" (1.60mm) 1/16\""
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "24261",
+    "ValueText": "0.472\" (11.99mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "26658",
+    "ValueText": "0.535\" (13.59mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "407853",
+    "ValueText": "Stainless Steel"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 475096,
+   "Name": "RM2"
+  },
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 19346,
+   "Name": "SEELSKREW\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7318.15.6070"
+  },
+  "OtherNames": [
+   "RM2X12MM2701",
+   "BAPZZZDZZAAZZ",
+   "335-1151"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "PAN PHILLIPS SCREW, M2 X .4 THRE",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Nylon"
+  },
+  "Manufacturer": {
+   "Id": 145,
+   "Name": "Essentra Components"
+  },
+  "ManufacturerProductNumber": "50M020040P020B",
+  "UnitPrice": 0.16,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/essentra-components/50M020040P020B/26886491",
+  "DatasheetUrl": "https://storacesswebpraisstibprd.blob.core.windows.net/stiboassets/D365_DOCS_PDF/std.lang.all/D365_DOCS_PDF!10294826_Technical Drawing.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7159/MFG_1499847BK.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "145-50M020040P020B-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.16,
+      "TotalPrice": 0.16
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.13,
+      "TotalPrice": 0.65
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.121,
+      "TotalPrice": 1.21
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1092,
+      "TotalPrice": 2.73
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.1014,
+      "TotalPrice": 5.07
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0945,
+      "TotalPrice": 9.45
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.0866,
+      "TotalPrice": 21.65
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.08136,
+      "TotalPrice": 40.68
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.07667,
+      "TotalPrice": 76.67
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 145,
+     "Name": "Essentra Components"
+    },
+    "QuantityAvailableforPackageType": 1303,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1303,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "12140",
+    "ValueText": "0.157\" (4.00mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7761",
+    "ValueText": "0.063\" (1.60mm)"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "33647",
+    "ValueText": "0.787\" (20.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "35432",
+    "ValueText": "0.850\" (21.59mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "381417",
+    "ValueText": "Nylon"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "3926.90.9989"
+  },
+  "OtherNames": [
+   "145-50M020040P020B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "PAN PHILLIPS SCREW, M2 X .4 THRE",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Nylon"
+  },
+  "Manufacturer": {
+   "Id": 145,
+   "Name": "Essentra Components"
+  },
+  "ManufacturerProductNumber": "50M020040P016B",
+  "UnitPrice": 0.16,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/essentra-components/50M020040P016B/26883690",
+  "DatasheetUrl": "https://storacesswebpraisstibprd.blob.core.windows.net/stiboassets/D365_DOCS_PDF/std.lang.all/D365_DOCS_PDF!10294819_Technical Drawing.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7159/MFG_1499847BK.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "145-50M020040P016B-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.16,
+      "TotalPrice": 0.16
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.13,
+      "TotalPrice": 0.65
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.12,
+      "TotalPrice": 1.2
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1084,
+      "TotalPrice": 2.71
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.1008,
+      "TotalPrice": 5.04
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.094,
+      "TotalPrice": 9.4
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.08616,
+      "TotalPrice": 21.54
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.08096,
+      "TotalPrice": 40.48
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.0763,
+      "TotalPrice": 76.3
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 145,
+     "Name": "Essentra Components"
+    },
+    "QuantityAvailableforPackageType": 1040,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1040,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "12140",
+    "ValueText": "0.157\" (4.00mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7761",
+    "ValueText": "0.063\" (1.60mm)"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "29561",
+    "ValueText": "0.630\" (16.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "31108",
+    "ValueText": "0.693\" (17.60mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "381417",
+    "ValueText": "Nylon"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "3926.90.9989"
+  },
+  "OtherNames": [
+   "145-50M020040P016B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "PAN PHILLIPS SCREW, M2 X .4 THRE",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Nylon"
+  },
+  "Manufacturer": {
+   "Id": 145,
+   "Name": "Essentra Components"
+  },
+  "ManufacturerProductNumber": "50M020040P006B",
+  "UnitPrice": 0.15,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/essentra-components/50M020040P006B/26885943",
+  "DatasheetUrl": "https://storacesswebpraisstibprd.blob.core.windows.net/stiboassets/D365_DOCS_PDF/std.lang.all/D365_DOCS_PDF!10294772_Technical Drawing.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7159/MFG_1499847BK.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "145-50M020040P006B-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.15,
+      "TotalPrice": 0.15
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.126,
+      "TotalPrice": 0.63
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.116,
+      "TotalPrice": 1.16
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1048,
+      "TotalPrice": 2.62
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0974,
+      "TotalPrice": 4.87
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0908,
+      "TotalPrice": 9.08
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.0832,
+      "TotalPrice": 20.8
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.07816,
+      "TotalPrice": 39.08
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.07365,
+      "TotalPrice": 73.65
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 145,
+     "Name": "Essentra Components"
+    },
+    "QuantityAvailableforPackageType": 987,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 987,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "12140",
+    "ValueText": "0.157\" (4.00mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7761",
+    "ValueText": "0.063\" (1.60mm)"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "15346",
+    "ValueText": "0.236\" (6.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "17833",
+    "ValueText": "0.299\" (7.60mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "381417",
+    "ValueText": "Nylon"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "3926.90.9989"
+  },
+  "OtherNames": [
+   "145-50M020040P006B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "PAN PHILLIPS SCREW, M2 X .4 THRE",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Nylon"
+  },
+  "Manufacturer": {
+   "Id": 145,
+   "Name": "Essentra Components"
+  },
+  "ManufacturerProductNumber": "50M020040P004B",
+  "UnitPrice": 0.15,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/essentra-components/50M020040P004B/26883588",
+  "DatasheetUrl": "https://storacesswebpraisstibprd.blob.core.windows.net/stiboassets/D365_DOCS_PDF/std.lang.all/D365_DOCS_PDF!10294758_Technical Drawing.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7159/MFG_1499847BK.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "145-50M020040P004B-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.15,
+      "TotalPrice": 0.15
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.124,
+      "TotalPrice": 0.62
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.115,
+      "TotalPrice": 1.15
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.104,
+      "TotalPrice": 2.6
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0964,
+      "TotalPrice": 4.82
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0899,
+      "TotalPrice": 8.99
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.08236,
+      "TotalPrice": 20.59
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.07736,
+      "TotalPrice": 38.68
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.07289,
+      "TotalPrice": 72.89
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 145,
+     "Name": "Essentra Components"
+    },
+    "QuantityAvailableforPackageType": 539,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 539,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "12140",
+    "ValueText": "0.157\" (4.00mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7761",
+    "ValueText": "0.063\" (1.60mm)"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "12140",
+    "ValueText": "0.157\" (4.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "14897",
+    "ValueText": "0.220\" (5.59mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "381417",
+    "ValueText": "Nylon"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "3926.90.9989"
+  },
+  "OtherNames": [
+   "145-50M020040P004B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "PAN PHILLIPS SCREW, M2 X .4 THRE",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Nylon"
+  },
+  "Manufacturer": {
+   "Id": 145,
+   "Name": "Essentra Components"
+  },
+  "ManufacturerProductNumber": "50M020040P012B",
+  "UnitPrice": 0.16,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/essentra-components/50M020040P012B/26886290",
+  "DatasheetUrl": "https://storacesswebpraisstibprd.blob.core.windows.net/stiboassets/D365_DOCS_PDF/std.lang.all/D365_DOCS_PDF!10294802_Technical Drawing.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7159/MFG_1499847BK.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "145-50M020040P012B-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.16,
+      "TotalPrice": 0.16
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.13,
+      "TotalPrice": 0.65
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.119,
+      "TotalPrice": 1.19
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.1076,
+      "TotalPrice": 2.69
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0998,
+      "TotalPrice": 4.99
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0931,
+      "TotalPrice": 9.31
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.08532,
+      "TotalPrice": 21.33
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.08016,
+      "TotalPrice": 40.08
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.07554,
+      "TotalPrice": 75.54
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 145,
+     "Name": "Essentra Components"
+    },
+    "QuantityAvailableforPackageType": 332,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 332,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "12140",
+    "ValueText": "0.157\" (4.00mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7761",
+    "ValueText": "0.063\" (1.60mm)"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "24261",
+    "ValueText": "0.472\" (11.99mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "26658",
+    "ValueText": "0.535\" (13.59mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "381417",
+    "ValueText": "Nylon"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "3926.90.9989"
+  },
+  "OtherNames": [
+   "145-50M020040P012B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "PAN PHILLIPS SCREW, M2 X .4 THRE",
+   "DetailedDescription": "M2 Pan Head Machine Screw Phillips Drive Nylon"
+  },
+  "Manufacturer": {
+   "Id": 145,
+   "Name": "Essentra Components"
+  },
+  "ManufacturerProductNumber": "50M020040P008B",
+  "UnitPrice": 0.16,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/essentra-components/50M020040P008B/26886614",
+  "DatasheetUrl": "https://storacesswebpraisstibprd.blob.core.windows.net/stiboassets/D365_DOCS_PDF/std.lang.all/D365_DOCS_PDF!10294789_Technical Drawing.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7159/MFG_1499847BK.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "145-50M020040P008B-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.16,
+      "TotalPrice": 0.16
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.128,
+      "TotalPrice": 0.64
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.117,
+      "TotalPrice": 1.17
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.106,
+      "TotalPrice": 2.65
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0984,
+      "TotalPrice": 4.92
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0918,
+      "TotalPrice": 9.18
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.08404,
+      "TotalPrice": 21.01
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.07896,
+      "TotalPrice": 39.48
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.07441,
+      "TotalPrice": 74.41
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 145,
+     "Name": "Essentra Components"
+    },
+    "QuantityAvailableforPackageType": 197,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 197,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "12140",
+    "ValueText": "0.157\" (4.00mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7761",
+    "ValueText": "0.063\" (1.60mm)"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "18741",
+    "ValueText": "0.315\" (8.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "20921",
+    "ValueText": "0.378\" (9.60mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "381417",
+    "ValueText": "Nylon"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "3926.90.9989"
+  },
+  "OtherNames": [
+   "145-50M020040P008B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK PLUG 4POS 3.81MM",
+   "DetailedDescription": "4 Position Terminal Block Plug, Female Sockets 0.150\" (3.81mm) 180\u00b0 Free Hanging (In-Line)"
+  },
+  "Manufacturer": {
+   "Id": 1818,
+   "Name": "Amphenol Anytek"
+  },
+  "ManufacturerProductNumber": "TJ0431530000G",
+  "UnitPrice": 1.65,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/amphenol-anytek/TJ0431530000G/2261341",
+  "DatasheetUrl": "http://www.anytek.com.tw/UserUpFiles/20181017/vCheHtsK2_to.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/414/20020004-D041B01LF.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "609-3799-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.65,
+      "TotalPrice": 1.65
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.19,
+      "TotalPrice": 11.9
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.0364,
+      "TotalPrice": 25.91
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.9368,
+      "TotalPrice": 46.84
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.852,
+      "TotalPrice": 85.2
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.76172,
+      "TotalPrice": 190.43
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.70814,
+      "TotalPrice": 354.07
+     },
+     {
+      "BreakQuantity": 2100,
+      "UnitPrice": 0.62934,
+      "TotalPrice": 1321.614
+     },
+     {
+      "BreakQuantity": 6300,
+      "UnitPrice": 0.59083,
+      "TotalPrice": 3722.229
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1818,
+     "Name": "Amphenol Anytek"
+    },
+    "QuantityAvailableforPackageType": 62222,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 62222,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "387924",
+    "ValueText": "Plug, Female Sockets"
+   },
+   {
+    "ParameterId": 88,
+    "ParameterText": "Number of Positions",
+    "ParameterType": "String",
+    "ValueId": "203167",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "203167",
+    "ValueText": "4"
+   },
+   {
+    "ParameterId": 927,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11909",
+    "ValueText": "0.150\" (3.81mm)"
+   },
+   {
+    "ParameterId": 1279,
+    "ParameterText": "Header Orientation",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1280,
+    "ParameterText": "Plug Wire Entry",
+    "ParameterType": "String",
+    "ValueId": "114249",
+    "ValueText": "180\u00b0"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "400495",
+    "ValueText": "Screw - Rising Cage Clamp"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "349292",
+    "ValueText": "Free Hanging (In-Line)"
+   },
+   {
+    "ParameterId": 925,
+    "ParameterText": "Current - IEC",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2121,
+    "ParameterText": "Current - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "10 A",
+    "ValueText": "10 A"
+   },
+   {
+    "ParameterId": 2124,
+    "ParameterText": "Voltage - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 931,
+    "ParameterText": "Wire Gauge or Range - AWG",
+    "ParameterType": "String",
+    "ValueId": "106378",
+    "ValueText": "16-26 AWG"
+   },
+   {
+    "ParameterId": 932,
+    "ParameterText": "Wire Gauge or Range - mm\u00b2",
+    "ParameterType": "String",
+    "ValueId": "25940",
+    "ValueText": "0.5-1.5mm\u00b2"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351158",
+    "ValueText": "Green"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212455",
+    "ValueText": "-40\u00b0C ~ 115\u00b0C"
+   },
+   {
+    "ParameterId": 1909,
+    "ParameterText": "Contact Mating Finish",
+    "ParameterType": "String",
+    "ValueId": "412237",
+    "ValueText": "Tin"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 160187,
+   "Name": "TJ04"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 370,
+       "ParentId": 2030,
+       "Name": "Headers, Plugs and Sockets",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/141/386/1751086_tmb.jpg",
+       "SeoDescription": "Plug or receptacle header terminal blocks are PCB, DIN rail, channel, free-hanging, solder or panel mount connection points for securing two or more wires to a circuit, cable or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. UL certified and IEC rated terminal blocks are selectable by current and voltage parameters as well as wire gauge, body color, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 23932,
+   "Name": "01-381"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "609-3799",
+   "20020004-D041B01LF",
+   "TJ04315300J0G",
+   "TJ0431530000GINACTIVE",
+   "20020004D041B01LF",
+   "TJ0431530000G-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK PLUG 2POS 3.50MM",
+   "DetailedDescription": "2 Position Terminal Block Plug for Unshrouded Header 0.138\" (3.50mm) 90\u00b0 and 180\u00b0 Free Hanging (In-Line)"
+  },
+  "Manufacturer": {
+   "Id": 277,
+   "Name": "Phoenix Contact"
+  },
+  "ManufacturerProductNumber": "1984015",
+  "UnitPrice": 0.59,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/phoenix-contact/1984015/950834",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1068/1984015.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/725/1984015.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "277-1706-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.59,
+      "TotalPrice": 0.59
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.479,
+      "TotalPrice": 4.79
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 277,
+     "Name": "Phoenix Contact"
+    },
+    "QuantityAvailableforPackageType": 60627,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 60627,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "387830",
+    "ValueText": "Plug for Unshrouded Header"
+   },
+   {
+    "ParameterId": 88,
+    "ParameterText": "Number of Positions",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 927,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11374",
+    "ValueText": "0.138\" (3.50mm)"
+   },
+   {
+    "ParameterId": 1279,
+    "ParameterText": "Header Orientation",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1280,
+    "ParameterText": "Plug Wire Entry",
+    "ParameterType": "String",
+    "ValueId": "298920",
+    "ValueText": "90\u00b0 and 180\u00b0"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "400495",
+    "ValueText": "Screw - Rising Cage Clamp"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "349292",
+    "ValueText": "Free Hanging (In-Line)"
+   },
+   {
+    "ParameterId": 925,
+    "ParameterText": "Current - IEC",
+    "ParameterType": "String",
+    "ValueId": "293724",
+    "ValueText": "8A"
+   },
+   {
+    "ParameterId": 2123,
+    "ParameterText": "Voltage - IEC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "400 V",
+    "ValueText": "400 V"
+   },
+   {
+    "ParameterId": 2121,
+    "ParameterText": "Current - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "10 A",
+    "ValueText": "10 A"
+   },
+   {
+    "ParameterId": 2124,
+    "ParameterText": "Voltage - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 931,
+    "ParameterText": "Wire Gauge or Range - AWG",
+    "ParameterType": "String",
+    "ValueId": "106378",
+    "ValueText": "16-26 AWG"
+   },
+   {
+    "ParameterId": 932,
+    "ParameterText": "Wire Gauge or Range - mm\u00b2",
+    "ParameterType": "String",
+    "ValueId": "14532",
+    "ValueText": "0.2-1.5mm\u00b2"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351158",
+    "ValueText": "Green"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1909,
+    "ParameterText": "Contact Mating Finish",
+    "ParameterType": "String",
+    "ValueId": "412237",
+    "ValueText": "Tin"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 370,
+       "ParentId": 2030,
+       "Name": "Headers, Plugs and Sockets",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/141/386/1751086_tmb.jpg",
+       "SeoDescription": "Plug or receptacle header terminal blocks are PCB, DIN rail, channel, free-hanging, solder or panel mount connection points for securing two or more wires to a circuit, cable or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. UL certified and IEC rated terminal blocks are selectable by current and voltage parameters as well as wire gauge, body color, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "6",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 21401,
+   "Name": "COMBICON PT"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "PT 1.5/2-PVH-3.5",
+   "PT1.5/2-PVH-3.5",
+   "277-1706"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLK 2POS SIDE ENT 3.5MM PCB",
+   "DetailedDescription": "2 Position Wire to Board Terminal Block Horizontal with Board 0.138\" (3.50mm) Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 277,
+   "Name": "Phoenix Contact"
+  },
+  "ManufacturerProductNumber": "1984617",
+  "UnitPrice": 0.59,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/phoenix-contact/1984617/950849",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2450/Combicon%20Compact%20Series.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1097/1984617.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "277-1721-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.59,
+      "TotalPrice": 0.59
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 277,
+     "Name": "Phoenix Contact"
+    },
+    "QuantityAvailableforPackageType": 45055,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 45055,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2168,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11374",
+    "ValueText": "0.138\" (3.50mm)"
+   },
+   {
+    "ParameterId": 802,
+    "ParameterText": "Mating Orientation",
+    "ParameterType": "String",
+    "ValueId": "356142",
+    "ValueText": "Horizontal with Board"
+   },
+   {
+    "ParameterId": 2155,
+    "ParameterText": "Current",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "10 A",
+    "ValueText": "10 A"
+   },
+   {
+    "ParameterId": 2191,
+    "ParameterText": "Voltage",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 78,
+    "ParameterText": "Wire Gauge",
+    "ParameterType": "String",
+    "ValueId": "106378",
+    "ValueText": "16-26 AWG"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1487,
+    "ParameterText": "Wire Termination",
+    "ParameterType": "String",
+    "ValueId": "400488",
+    "ValueText": "Screw"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "359667",
+    "ValueText": "Interlocking (Side)"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351158",
+    "ValueText": "Green"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 371,
+       "ParentId": 2030,
+       "Name": "Wire to Board",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/222/685/1935161_tmb%2864x64%29.jpg",
+       "SeoDescription": "Wire-to-board terminal blocks are surface or through-hole board mount, press fit or panel mount connection points for securing two or more wires to a circuit or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. They are selected by current and voltage parameters as well as wire gauge, pitch, numbers of levels and positions, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "6",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 21401,
+   "Name": "COMBICON PT"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "PT1.5/2-3.5-H",
+   "PT 1.5/2-3.5-H",
+   "277-1721"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK PLUG 6POS 3.81MM",
+   "DetailedDescription": "6 Position Terminal Block Plug, Female Sockets 0.150\" (3.81mm) 180\u00b0 Free Hanging (In-Line)"
+  },
+  "Manufacturer": {
+   "Id": 2223,
+   "Name": "Same Sky (Formerly CUI Devices)"
+  },
+  "ManufacturerProductNumber": "TBP02P1-381-06BE",
+  "UnitPrice": 1.8,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TBP02P1-381-06BE/10238449",
+  "DatasheetUrl": "https://www.cuidevices.com/product/resource/tbp02p1-381.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/317/TBP02P1-381-06BE.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "102-6472-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.8,
+      "TotalPrice": 1.8
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.301,
+      "TotalPrice": 13.01
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.1332,
+      "TotalPrice": 28.33
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.0244,
+      "TotalPrice": 51.22
+     },
+     {
+      "BreakQuantity": 200,
+      "UnitPrice": 0.8552,
+      "TotalPrice": 171.04
+     },
+     {
+      "BreakQuantity": 400,
+      "UnitPrice": 0.79268,
+      "TotalPrice": 317.072
+     },
+     {
+      "BreakQuantity": 600,
+      "UnitPrice": 0.76193,
+      "TotalPrice": 457.158
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.72865,
+      "TotalPrice": 728.65
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.65517,
+      "TotalPrice": 3275.85
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 2223,
+     "Name": "Same Sky (Formerly CUI Devices)"
+    },
+    "QuantityAvailableforPackageType": 43034,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 43034,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6314128462112",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "387924",
+    "ValueText": "Plug, Female Sockets"
+   },
+   {
+    "ParameterId": 88,
+    "ParameterText": "Number of Positions",
+    "ParameterType": "String",
+    "ValueId": "249730",
+    "ValueText": "6"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "249730",
+    "ValueText": "6"
+   },
+   {
+    "ParameterId": 927,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11909",
+    "ValueText": "0.150\" (3.81mm)"
+   },
+   {
+    "ParameterId": 1279,
+    "ParameterText": "Header Orientation",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1280,
+    "ParameterText": "Plug Wire Entry",
+    "ParameterType": "String",
+    "ValueId": "114249",
+    "ValueText": "180\u00b0"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "400493",
+    "ValueText": "Screw - Leaf Spring, Wire Guard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "349292",
+    "ValueText": "Free Hanging (In-Line)"
+   },
+   {
+    "ParameterId": 925,
+    "ParameterText": "Current - IEC",
+    "ParameterType": "String",
+    "ValueId": "280708",
+    "ValueText": "7A"
+   },
+   {
+    "ParameterId": 2123,
+    "ParameterText": "Voltage - IEC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "250 V",
+    "ValueText": "250 V"
+   },
+   {
+    "ParameterId": 2121,
+    "ParameterText": "Current - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "8 A",
+    "ValueText": "8 A"
+   },
+   {
+    "ParameterId": 2124,
+    "ParameterText": "Voltage - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 931,
+    "ParameterText": "Wire Gauge or Range - AWG",
+    "ParameterType": "String",
+    "ValueId": "106382",
+    "ValueText": "16-28 AWG"
+   },
+   {
+    "ParameterId": 932,
+    "ParameterText": "Wire Gauge or Range - mm\u00b2",
+    "ParameterType": "String",
+    "ValueId": "55399",
+    "ValueText": "1.5mm\u00b2"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212434",
+    "ValueText": "-40\u00b0C ~ 105\u00b0C"
+   },
+   {
+    "ParameterId": 1909,
+    "ParameterText": "Contact Mating Finish",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "351603",
+    "ValueText": "Groove Guide"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 354455,
+   "Name": "TBP02P1"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 370,
+       "ParentId": 2030,
+       "Name": "Headers, Plugs and Sockets",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/141/386/1751086_tmb.jpg",
+       "SeoDescription": "Plug or receptacle header terminal blocks are PCB, DIN rail, channel, free-hanging, solder or panel mount connection points for securing two or more wires to a circuit, cable or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. UL certified and IEC rated terminal blocks are selectable by current and voltage parameters as well as wire gauge, body color, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 74656,
+   "Name": "TBP02P1-381"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "6196-TBP02P1-381-06BE",
+   "102-6472"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK PLUG 2POS 3.81MM",
+   "DetailedDescription": "2 Position Terminal Block Plug, Female Sockets 0.150\" (3.81mm) 180\u00b0 Free Hanging (In-Line)"
+  },
+  "Manufacturer": {
+   "Id": 1818,
+   "Name": "Amphenol Anytek"
+  },
+  "ManufacturerProductNumber": "TJ0231530000G",
+  "UnitPrice": 0.71,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/amphenol-anytek/TJ0231530000G/2261289",
+  "DatasheetUrl": "http://www.anytek.com.tw/UserUpFiles/20181017/vCheHtsK2_to.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/414/20020004-D021B01LF.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "609-3797-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.71,
+      "TotalPrice": 0.71
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.525,
+      "TotalPrice": 5.25
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4572,
+      "TotalPrice": 11.43
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4118,
+      "TotalPrice": 20.59
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3721,
+      "TotalPrice": 37.21
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.32868,
+      "TotalPrice": 82.17
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.30232,
+      "TotalPrice": 151.16
+     },
+     {
+      "BreakQuantity": 2480,
+      "UnitPrice": 0.25929,
+      "TotalPrice": 643.0392
+     },
+     {
+      "BreakQuantity": 7440,
+      "UnitPrice": 0.25718,
+      "TotalPrice": 1913.4192
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1818,
+     "Name": "Amphenol Anytek"
+    },
+    "QuantityAvailableforPackageType": 38673,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 38673,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "387924",
+    "ValueText": "Plug, Female Sockets"
+   },
+   {
+    "ParameterId": 88,
+    "ParameterText": "Number of Positions",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 927,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11909",
+    "ValueText": "0.150\" (3.81mm)"
+   },
+   {
+    "ParameterId": 1279,
+    "ParameterText": "Header Orientation",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1280,
+    "ParameterText": "Plug Wire Entry",
+    "ParameterType": "String",
+    "ValueId": "114249",
+    "ValueText": "180\u00b0"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "400495",
+    "ValueText": "Screw - Rising Cage Clamp"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "349292",
+    "ValueText": "Free Hanging (In-Line)"
+   },
+   {
+    "ParameterId": 925,
+    "ParameterText": "Current - IEC",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 2121,
+    "ParameterText": "Current - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "10 A",
+    "ValueText": "10 A"
+   },
+   {
+    "ParameterId": 2124,
+    "ParameterText": "Voltage - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 931,
+    "ParameterText": "Wire Gauge or Range - AWG",
+    "ParameterType": "String",
+    "ValueId": "106378",
+    "ValueText": "16-26 AWG"
+   },
+   {
+    "ParameterId": 932,
+    "ParameterText": "Wire Gauge or Range - mm\u00b2",
+    "ParameterType": "String",
+    "ValueId": "25940",
+    "ValueText": "0.5-1.5mm\u00b2"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351158",
+    "ValueText": "Green"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212455",
+    "ValueText": "-40\u00b0C ~ 115\u00b0C"
+   },
+   {
+    "ParameterId": 1909,
+    "ParameterText": "Contact Mating Finish",
+    "ParameterType": "String",
+    "ValueId": "412237",
+    "ValueText": "Tin"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 160185,
+   "Name": "TJ02"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 370,
+       "ParentId": 2030,
+       "Name": "Headers, Plugs and Sockets",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/141/386/1751086_tmb.jpg",
+       "SeoDescription": "Plug or receptacle header terminal blocks are PCB, DIN rail, channel, free-hanging, solder or panel mount connection points for securing two or more wires to a circuit, cable or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. UL certified and IEC rated terminal blocks are selectable by current and voltage parameters as well as wire gauge, body color, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 23932,
+   "Name": "01-381"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "609-3797",
+   "TJ02315300J0G-ND",
+   "20020004D021B01LF",
+   "TJ02315300J0G",
+   "TJ0231530000G-ND",
+   "TJ0231530000GINACTIVE",
+   "20020004-D021B01LF"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK PLUG 2POS 3.81MM",
+   "DetailedDescription": "2 Position Terminal Block Plug, Female Sockets 0.150\" (3.81mm) 180\u00b0 Free Hanging (In-Line)"
+  },
+  "Manufacturer": {
+   "Id": 277,
+   "Name": "Phoenix Contact"
+  },
+  "ManufacturerProductNumber": "5447861",
+  "UnitPrice": 1.15,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/phoenix-contact/5447861/4368765",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/539/5447861.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1912/5447861.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "277-11343-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.15,
+      "TotalPrice": 1.15
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.934,
+      "TotalPrice": 9.34
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 277,
+     "Name": "Phoenix Contact"
+    },
+    "QuantityAvailableforPackageType": 35958,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 35958,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "387924",
+    "ValueText": "Plug, Female Sockets"
+   },
+   {
+    "ParameterId": 88,
+    "ParameterText": "Number of Positions",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 927,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11909",
+    "ValueText": "0.150\" (3.81mm)"
+   },
+   {
+    "ParameterId": 1279,
+    "ParameterText": "Header Orientation",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1280,
+    "ParameterText": "Plug Wire Entry",
+    "ParameterType": "String",
+    "ValueId": "114249",
+    "ValueText": "180\u00b0"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "400488",
+    "ValueText": "Screw"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "349292",
+    "ValueText": "Free Hanging (In-Line)"
+   },
+   {
+    "ParameterId": 925,
+    "ParameterText": "Current - IEC",
+    "ParameterType": "String",
+    "ValueId": "293724",
+    "ValueText": "8A"
+   },
+   {
+    "ParameterId": 2123,
+    "ParameterText": "Voltage - IEC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "320 V",
+    "ValueText": "320 V"
+   },
+   {
+    "ParameterId": 2121,
+    "ParameterText": "Current - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "8 A",
+    "ValueText": "8 A"
+   },
+   {
+    "ParameterId": 2124,
+    "ParameterText": "Voltage - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 931,
+    "ParameterText": "Wire Gauge or Range - AWG",
+    "ParameterType": "String",
+    "ValueId": "95203",
+    "ValueText": "14-30 AWG"
+   },
+   {
+    "ParameterId": 932,
+    "ParameterText": "Wire Gauge or Range - mm\u00b2",
+    "ParameterType": "String",
+    "ValueId": "14532",
+    "ValueText": "0.2-1.5mm\u00b2"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351158",
+    "ValueText": "Green"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1909,
+    "ParameterText": "Contact Mating Finish",
+    "ParameterType": "String",
+    "ValueId": "412237",
+    "ValueText": "Tin"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 370,
+       "ParentId": 2030,
+       "Name": "Headers, Plugs and Sockets",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/141/386/1751086_tmb.jpg",
+       "SeoDescription": "Plug or receptacle header terminal blocks are PCB, DIN rail, channel, free-hanging, solder or panel mount connection points for securing two or more wires to a circuit, cable or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. UL certified and IEC rated terminal blocks are selectable by current and voltage parameters as well as wire gauge, body color, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "6",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 36336,
+   "Name": "BCP"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "Q7369493B",
+   "5447861-ND",
+   "277-11343"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLK 2POS SIDE ENT 3.5MM PCB",
+   "DetailedDescription": "2 Position Wire to Board Terminal Block Horizontal with Board 0.138\" (3.50mm) Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 52,
+   "Name": "On Shore Technology Inc."
+  },
+  "ManufacturerProductNumber": "OSTTE020104",
+  "UnitPrice": 0.49,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/on-shore-technology-inc/OSTTE020104/2351816",
+  "DatasheetUrl": "https://www.on-shore.com/wp-content/uploads/OSTTEXX0104.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/591/OSTTE020104.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "ED2740-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.49,
+      "TotalPrice": 0.49
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.368,
+      "TotalPrice": 3.68
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3212,
+      "TotalPrice": 8.03
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.2892,
+      "TotalPrice": 14.46
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2609,
+      "TotalPrice": 26.09
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.22952,
+      "TotalPrice": 57.38
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.21022,
+      "TotalPrice": 105.11
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.19445,
+      "TotalPrice": 194.45
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.1689,
+      "TotalPrice": 844.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 52,
+     "Name": "On Shore Technology Inc."
+    },
+    "QuantityAvailableforPackageType": 33718,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 33718,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2168,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11374",
+    "ValueText": "0.138\" (3.50mm)"
+   },
+   {
+    "ParameterId": 802,
+    "ParameterText": "Mating Orientation",
+    "ParameterType": "String",
+    "ValueId": "356142",
+    "ValueText": "Horizontal with Board"
+   },
+   {
+    "ParameterId": 2155,
+    "ParameterText": "Current",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "10 A",
+    "ValueText": "10 A"
+   },
+   {
+    "ParameterId": 2191,
+    "ParameterText": "Voltage",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "125 V",
+    "ValueText": "125 V"
+   },
+   {
+    "ParameterId": 78,
+    "ParameterText": "Wire Gauge",
+    "ParameterType": "String",
+    "ValueId": "106378",
+    "ValueText": "16-26 AWG"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1487,
+    "ParameterText": "Wire Termination",
+    "ParameterType": "String",
+    "ValueId": "400493",
+    "ValueText": "Screw - Leaf Spring, Wire Guard"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "359667",
+    "ValueText": "Interlocking (Side)"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "319929",
+    "ValueText": "Black"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 581742,
+   "Name": "OSTTE02"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 371,
+       "ParentId": 2030,
+       "Name": "Wire to Board",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/222/685/1935161_tmb%2864x64%29.jpg",
+       "SeoDescription": "Wire-to-board terminal blocks are surface or through-hole board mount, press fit or panel mount connection points for securing two or more wires to a circuit or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. They are selected by current and voltage parameters as well as wire gauge, pitch, numbers of levels and positions, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 24964,
+   "Name": "OSTTE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "ED2740",
+   "Q9003545"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK PLUG 2POS 3.81MM",
+   "DetailedDescription": "2 Position Terminal Block Plug, Female Sockets 0.150\" (3.81mm) 180\u00b0 Free Hanging (In-Line)"
+  },
+  "Manufacturer": {
+   "Id": 2223,
+   "Name": "Same Sky (Formerly CUI Devices)"
+  },
+  "ManufacturerProductNumber": "TBP02P1-381-02BE",
+  "UnitPrice": 0.6,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TBP02P1-381-02BE/10238445",
+  "DatasheetUrl": "https://www.cuidevices.com/product/resource/tbp02p1-381.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/205/MFG_TBP02P1-381-02BE.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "102-6468-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.6,
+      "TotalPrice": 0.6
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.445,
+      "TotalPrice": 4.45
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.3884,
+      "TotalPrice": 9.71
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3498,
+      "TotalPrice": 17.49
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3157,
+      "TotalPrice": 31.57
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.27812,
+      "TotalPrice": 69.53
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.25512,
+      "TotalPrice": 127.56
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.23639,
+      "TotalPrice": 236.39
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.20614,
+      "TotalPrice": 1030.7
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 2223,
+     "Name": "Same Sky (Formerly CUI Devices)"
+    },
+    "QuantityAvailableforPackageType": 31871,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 31871,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6314128462112",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "387924",
+    "ValueText": "Plug, Female Sockets"
+   },
+   {
+    "ParameterId": 88,
+    "ParameterText": "Number of Positions",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 927,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11909",
+    "ValueText": "0.150\" (3.81mm)"
+   },
+   {
+    "ParameterId": 1279,
+    "ParameterText": "Header Orientation",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1280,
+    "ParameterText": "Plug Wire Entry",
+    "ParameterType": "String",
+    "ValueId": "114249",
+    "ValueText": "180\u00b0"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "400493",
+    "ValueText": "Screw - Leaf Spring, Wire Guard"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "349292",
+    "ValueText": "Free Hanging (In-Line)"
+   },
+   {
+    "ParameterId": 925,
+    "ParameterText": "Current - IEC",
+    "ParameterType": "String",
+    "ValueId": "280708",
+    "ValueText": "7A"
+   },
+   {
+    "ParameterId": 2123,
+    "ParameterText": "Voltage - IEC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "250 V",
+    "ValueText": "250 V"
+   },
+   {
+    "ParameterId": 2121,
+    "ParameterText": "Current - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "8 A",
+    "ValueText": "8 A"
+   },
+   {
+    "ParameterId": 2124,
+    "ParameterText": "Voltage - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 931,
+    "ParameterText": "Wire Gauge or Range - AWG",
+    "ParameterType": "String",
+    "ValueId": "106382",
+    "ValueText": "16-28 AWG"
+   },
+   {
+    "ParameterId": 932,
+    "ParameterText": "Wire Gauge or Range - mm\u00b2",
+    "ParameterType": "String",
+    "ValueId": "55399",
+    "ValueText": "1.5mm\u00b2"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212434",
+    "ValueText": "-40\u00b0C ~ 105\u00b0C"
+   },
+   {
+    "ParameterId": 1909,
+    "ParameterText": "Contact Mating Finish",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "351603",
+    "ValueText": "Groove Guide"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 354455,
+   "Name": "TBP02P1"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 370,
+       "ParentId": 2030,
+       "Name": "Headers, Plugs and Sockets",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/141/386/1751086_tmb.jpg",
+       "SeoDescription": "Plug or receptacle header terminal blocks are PCB, DIN rail, channel, free-hanging, solder or panel mount connection points for securing two or more wires to a circuit, cable or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. UL certified and IEC rated terminal blocks are selectable by current and voltage parameters as well as wire gauge, body color, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 74656,
+   "Name": "TBP02P1-381"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "102-6468"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLK 2POS SIDE ENT 3.5MM PCB",
+   "DetailedDescription": "2 Position Wire to Board Terminal Block Horizontal with Board 0.138\" (3.50mm) Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 52,
+   "Name": "On Shore Technology Inc."
+  },
+  "ManufacturerProductNumber": "ED555/2DS",
+  "UnitPrice": 0.8,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/on-shore-technology-inc/ED555-2DS/182983",
+  "DatasheetUrl": "http://www.on-shore.com/wp-content/uploads/ED555XDS.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/923/ED555%5E2DS.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "ED1514-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.8,
+      "TotalPrice": 0.8
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.593,
+      "TotalPrice": 5.93
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.5172,
+      "TotalPrice": 12.93
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4658,
+      "TotalPrice": 23.29
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4213,
+      "TotalPrice": 42.13
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.37276,
+      "TotalPrice": 93.19
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.3434,
+      "TotalPrice": 171.7
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.31963,
+      "TotalPrice": 319.63
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.29568,
+      "TotalPrice": 1478.4
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 52,
+     "Name": "On Shore Technology Inc."
+    },
+    "QuantityAvailableforPackageType": 31460,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 31460,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2168,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11374",
+    "ValueText": "0.138\" (3.50mm)"
+   },
+   {
+    "ParameterId": 802,
+    "ParameterText": "Mating Orientation",
+    "ParameterType": "String",
+    "ValueId": "356142",
+    "ValueText": "Horizontal with Board"
+   },
+   {
+    "ParameterId": 2155,
+    "ParameterText": "Current",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "6 A",
+    "ValueText": "6 A"
+   },
+   {
+    "ParameterId": 2191,
+    "ParameterText": "Voltage",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "150 V",
+    "ValueText": "150 V"
+   },
+   {
+    "ParameterId": 78,
+    "ParameterText": "Wire Gauge",
+    "ParameterType": "String",
+    "ValueId": "106382",
+    "ValueText": "16-28 AWG"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1487,
+    "ParameterText": "Wire Termination",
+    "ParameterType": "String",
+    "ValueId": "400493",
+    "ValueText": "Screw - Leaf Spring, Wire Guard"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351068",
+    "ValueText": "Gray"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 585279,
+   "Name": "ED555"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 371,
+       "ParentId": 2030,
+       "Name": "Wire to Board",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/222/685/1935161_tmb%2864x64%29.jpg",
+       "SeoDescription": "Wire-to-board terminal blocks are surface or through-hole board mount, press fit or panel mount connection points for securing two or more wires to a circuit or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. They are selected by current and voltage parameters as well as wire gauge, pitch, numbers of levels and positions, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 6621,
+   "Name": "ED555/DS"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "ED555/2",
+   "ED1514",
+   "Q1677349",
+   "ED5552DS",
+   "Q3507170B",
+   "ED1514-NDR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK PLUG 2POS 3.81MM",
+   "DetailedDescription": "2 Position Terminal Block Plug, Female Sockets 0.150\" (3.81mm) 180\u00b0 Free Hanging (In-Line)"
+  },
+  "Manufacturer": {
+   "Id": 277,
+   "Name": "Phoenix Contact"
+  },
+  "ManufacturerProductNumber": "1803578",
+  "UnitPrice": 2.11,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/phoenix-contact/1803578/260529",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2411/1840zzz%2C%201803zzz.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1016/1803578.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "277-1161-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.11,
+      "TotalPrice": 2.11
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.715,
+      "TotalPrice": 17.15
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 277,
+     "Name": "Phoenix Contact"
+    },
+    "QuantityAvailableforPackageType": 27875,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 27875,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "387924",
+    "ValueText": "Plug, Female Sockets"
+   },
+   {
+    "ParameterId": 88,
+    "ParameterText": "Number of Positions",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 927,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "String",
+    "ValueId": "39665",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "11909",
+    "ValueText": "0.150\" (3.81mm)"
+   },
+   {
+    "ParameterId": 1279,
+    "ParameterText": "Header Orientation",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1280,
+    "ParameterText": "Plug Wire Entry",
+    "ParameterType": "String",
+    "ValueId": "114249",
+    "ValueText": "180\u00b0"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "400495",
+    "ValueText": "Screw - Rising Cage Clamp"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "349292",
+    "ValueText": "Free Hanging (In-Line)"
+   },
+   {
+    "ParameterId": 925,
+    "ParameterText": "Current - IEC",
+    "ParameterType": "String",
+    "ValueId": "293724",
+    "ValueText": "8A"
+   },
+   {
+    "ParameterId": 2123,
+    "ParameterText": "Voltage - IEC",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "320 V",
+    "ValueText": "320 V"
+   },
+   {
+    "ParameterId": 2121,
+    "ParameterText": "Current - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "8 A",
+    "ValueText": "8 A"
+   },
+   {
+    "ParameterId": 2124,
+    "ParameterText": "Voltage - UL",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 931,
+    "ParameterText": "Wire Gauge or Range - AWG",
+    "ParameterType": "String",
+    "ValueId": "95203",
+    "ValueText": "14-30 AWG"
+   },
+   {
+    "ParameterId": 932,
+    "ParameterText": "Wire Gauge or Range - mm\u00b2",
+    "ParameterType": "String",
+    "ValueId": "11616",
+    "ValueText": "0.14-1.5mm\u00b2"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351158",
+    "ValueText": "Green"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1909,
+    "ParameterText": "Contact Mating Finish",
+    "ParameterType": "String",
+    "ValueId": "412237",
+    "ValueText": "Tin"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 370,
+       "ParentId": 2030,
+       "Name": "Headers, Plugs and Sockets",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/141/386/1751086_tmb.jpg",
+       "SeoDescription": "Plug or receptacle header terminal blocks are PCB, DIN rail, channel, free-hanging, solder or panel mount connection points for securing two or more wires to a circuit, cable or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. UL certified and IEC rated terminal blocks are selectable by current and voltage parameters as well as wire gauge, body color, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "6",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 21357,
+   "Name": "COMBICON MC"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "MC1,5/2-ST-3,81",
+   "277-1161",
+   "Q4619470BB",
+   "MC 1.5/2-ST-3.81"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERMINAL BLOCK, SCREW TYPE, 5.00",
+   "DetailedDescription": "2 Position Wire to Board Terminal Block Horizontal with Board 0.197\" (5.00mm) Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 2223,
+   "Name": "Same Sky (Formerly CUI Devices)"
+  },
+  "ManufacturerProductNumber": "TB002-500-02BE",
+  "UnitPrice": 0.34,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TB002-500-02BE/10064069",
+  "DatasheetUrl": "https://www.cuidevices.com/product/resource/tb002-500.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/568/MFG_TB002-500-02BE.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "102-6145-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.34,
+      "TotalPrice": 0.34
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.257,
+      "TotalPrice": 2.57
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2248,
+      "TotalPrice": 5.62
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.2026,
+      "TotalPrice": 10.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.1824,
+      "TotalPrice": 18.24
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.1598,
+      "TotalPrice": 39.95
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.14568,
+      "TotalPrice": 72.84
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.11997,
+      "TotalPrice": 359.91
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.11338,
+      "TotalPrice": 680.28
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 2223,
+     "Name": "Same Sky (Formerly CUI Devices)"
+    },
+    "QuantityAvailableforPackageType": 131940,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 131940,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6314128462112",
+  "Parameters": [
+   {
+    "ParameterId": 2168,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 802,
+    "ParameterText": "Mating Orientation",
+    "ParameterType": "String",
+    "ValueId": "356142",
+    "ValueText": "Horizontal with Board"
+   },
+   {
+    "ParameterId": 2155,
+    "ParameterText": "Current",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "15 A",
+    "ValueText": "15 A"
+   },
+   {
+    "ParameterId": 2191,
+    "ParameterText": "Voltage",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 78,
+    "ParameterText": "Wire Gauge",
+    "ParameterType": "String",
+    "ValueId": "84824",
+    "ValueText": "12-22 AWG"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1487,
+    "ParameterText": "Wire Termination",
+    "ParameterType": "String",
+    "ValueId": "400493",
+    "ValueText": "Screw - Leaf Spring, Wire Guard"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "359667",
+    "ValueText": "Interlocking (Side)"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 354446,
+   "Name": "TB002"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 371,
+       "ParentId": 2030,
+       "Name": "Wire to Board",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/222/685/1935161_tmb%2864x64%29.jpg",
+       "SeoDescription": "Wire-to-board terminal blocks are surface or through-hole board mount, press fit or panel mount connection points for securing two or more wires to a circuit or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. They are selected by current and voltage parameters as well as wire gauge, pitch, numbers of levels and positions, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 73768,
+   "Name": "TB002-500"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "2266-TB002-500-02BE",
+   "102-6145"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLK 2POS SIDE ENTRY 5MM PCB",
+   "DetailedDescription": "2 Position Wire to Board Terminal Block Horizontal with Board 0.197\" (5.00mm) Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "691137710002",
+  "UnitPrice": 0.38,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/691137710002/6644051",
+  "DatasheetUrl": "https://www.we-online.com/catalog/datasheet/691137710002.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2380/MFG_691137710002.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-10955-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.38,
+      "TotalPrice": 0.38
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.345,
+      "TotalPrice": 3.45
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.304,
+      "TotalPrice": 15.2
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2727,
+      "TotalPrice": 27.27
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.26536,
+      "TotalPrice": 132.68
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 70819,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 70819,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/5335790909001",
+  "Parameters": [
+   {
+    "ParameterId": 2168,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 802,
+    "ParameterText": "Mating Orientation",
+    "ParameterType": "String",
+    "ValueId": "356142",
+    "ValueText": "Horizontal with Board"
+   },
+   {
+    "ParameterId": 2155,
+    "ParameterText": "Current",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "16 A",
+    "ValueText": "16 A"
+   },
+   {
+    "ParameterId": 2191,
+    "ParameterText": "Voltage",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 78,
+    "ParameterText": "Wire Gauge",
+    "ParameterType": "String",
+    "ValueId": "84992",
+    "ValueText": "12-30 AWG"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1487,
+    "ParameterText": "Wire Termination",
+    "ParameterType": "String",
+    "ValueId": "400493",
+    "ValueText": "Screw - Leaf Spring, Wire Guard"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "351158",
+    "ValueText": "Green"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 371,
+       "ParentId": 2030,
+       "Name": "Wire to Board",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/222/685/1935161_tmb%2864x64%29.jpg",
+       "SeoDescription": "Wire-to-board terminal blocks are surface or through-hole board mount, press fit or panel mount connection points for securing two or more wires to a circuit or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. They are selected by current and voltage parameters as well as wire gauge, pitch, numbers of levels and positions, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "19",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 56511,
+   "Name": "WR-TBL Series 1377"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "732-10955"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BINDING POST M2.5 1 PIN PCB",
+   "DetailedDescription": "1 Pin Binding Post M2.5 Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 36,
+   "Name": "Keystone Electronics"
+  },
+  "ManufacturerProductNumber": "8737",
+  "UnitPrice": 0.42,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/keystone-electronics/8737/2170367",
+  "DatasheetUrl": "https://www.keyelco.com/userAssets/file/K75p77.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/368/8737.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "36-8737-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.42,
+      "TotalPrice": 0.42
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.318,
+      "TotalPrice": 3.18
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.284,
+      "TotalPrice": 7.1
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2406,
+      "TotalPrice": 24.06
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.23,
+      "TotalPrice": 115.0
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.2,
+      "TotalPrice": 500.0
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.15492,
+      "TotalPrice": 774.6
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 36,
+     "Name": "Keystone Electronics"
+    },
+    "QuantityAvailableforPackageType": 52117,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 52117,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 298,
+    "ParameterText": "Terminal Type",
+    "ParameterType": "String",
+    "ValueId": "319768",
+    "ValueText": "Binding Post"
+   },
+   {
+    "ParameterId": 124,
+    "ParameterText": "Screw Size",
+    "ParameterType": "String",
+    "ValueId": "370197",
+    "ValueText": "M2.5"
+   },
+   {
+    "ParameterId": 589,
+    "ParameterText": "Termination",
+    "ParameterType": "String",
+    "ValueId": "405002",
+    "ValueText": "Solder"
+   },
+   {
+    "ParameterId": 10,
+    "ParameterText": "Number of Pins",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2031,
+     "ParentId": 20,
+     "Name": "Terminals",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/272/926/19070-0040_tmb%2864x64%29.jpg",
+     "SeoDescription": "Terminals are the endpoint of a wired connection. These include barrel or bullet connectors, foil connectors, knife connectors, PC Pin connectors, quick connects, rectangular connectors, ring connectors, screw connectors, solder lug connectors, spade connectors, turret connectors, wire pin connectors, wire splice connectors, wire to board connectors, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 396,
+       "ParentId": 2031,
+       "Name": "Screw Connectors",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/151/720/7461094_tmb.jpg",
+       "SeoDescription": "Screw connectors or screw terminals are commonly used concurrently with ring connectors, rectangular connectors, spade connectors, or bare wire. These single conductor connectors come in many terminal types such as: binding post, turret, power tap, screw terminal, and shank terminal. They accept a variety of different screw sizes and are made to be press-fit and/or soldered into PCBs.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "11",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "8737K-ND",
+   "8737K",
+   "36-8737"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BLOCK 2POS 5MM PCB",
+   "DetailedDescription": "2 Position Wire to Board Terminal Block Angled 0.197\" (5.00mm) Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 52,
+   "Name": "On Shore Technology Inc."
+  },
+  "ManufacturerProductNumber": "OSTTG020160B",
+  "UnitPrice": 0.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/on-shore-technology-inc/OSTTG020160B/2351788",
+  "DatasheetUrl": "http://www.on-shore.com/wp-content/uploads/OSTTGXX0160B.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/570/OSTTG020160B.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "ED2712-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.9,
+      "TotalPrice": 0.9
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.664,
+      "TotalPrice": 6.64
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.5784,
+      "TotalPrice": 14.46
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.5212,
+      "TotalPrice": 26.06
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4718,
+      "TotalPrice": 47.18
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.41808,
+      "TotalPrice": 104.52
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.3857,
+      "TotalPrice": 192.85
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.35954,
+      "TotalPrice": 359.54
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.3178,
+      "TotalPrice": 1589.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 52,
+     "Name": "On Shore Technology Inc."
+    },
+    "QuantityAvailableforPackageType": 39985,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 39985,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2168,
+    "ParameterText": "Number of Levels",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 1075,
+    "ParameterText": "Positions Per Level",
+    "ParameterType": "String",
+    "ValueId": "121326",
+    "ValueText": "2"
+   },
+   {
+    "ParameterId": 89,
+    "ParameterText": "Pitch",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 802,
+    "ParameterText": "Mating Orientation",
+    "ParameterType": "String",
+    "ValueId": "313968",
+    "ValueText": "Angled"
+   },
+   {
+    "ParameterId": 2155,
+    "ParameterText": "Current",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "15 A",
+    "ValueText": "15 A"
+   },
+   {
+    "ParameterId": 2191,
+    "ParameterText": "Voltage",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "300 V",
+    "ValueText": "300 V"
+   },
+   {
+    "ParameterId": 78,
+    "ParameterText": "Wire Gauge",
+    "ParameterType": "String",
+    "ValueId": "84835",
+    "ValueText": "12-24 AWG"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 1487,
+    "ParameterText": "Wire Termination",
+    "ParameterType": "String",
+    "ValueId": "400495",
+    "ValueText": "Screw - Rising Cage Clamp"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "359667",
+    "ValueText": "Interlocking (Side)"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 581767,
+   "Name": "OSTTG02"
+  },
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2030,
+     "ParentId": 20,
+     "Name": "Terminal Blocks",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/382/0395105004_tmb.jpg",
+     "SeoDescription": "Terminal Blocks are insulated, modular style connectors that are used to secure a connection between two or more wires. They come in various configurations and termination styles. These are often used in high-current applications, but their purpose is simply to create safe electrical connections.",
+     "ChildCategories": [
+      {
+       "CategoryId": 371,
+       "ParentId": 2030,
+       "Name": "Wire to Board",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/222/685/1935161_tmb%2864x64%29.jpg",
+       "SeoDescription": "Wire-to-board terminal blocks are surface or through-hole board mount, press fit or panel mount connection points for securing two or more wires to a circuit or power bus. Mounting features may include board guides, flanges, latches, ejectors, levers, strain reliefs and locks. They are selected by current and voltage parameters as well as wire gauge, pitch, numbers of levels and positions, and termination style.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 6663,
+   "Name": "OSTTG"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "ED2712",
+   "5009-OSTTG020160B"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "MACH SCREW PAN SLOTTED M2.5X0.45",
+   "DetailedDescription": "M2.5x0.45 Pan Head Machine Screw Slotted Drive Steel"
+  },
+  "Manufacturer": {
+   "Id": 36,
+   "Name": "Keystone Electronics"
+  },
+  "ManufacturerProductNumber": "29301",
+  "UnitPrice": 0.31,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/keystone-electronics/29301/1532984",
+  "DatasheetUrl": "https://www.keyelco.com/userAssets/file/K75p87.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/407/MFG_2930x.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "36-29301-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.31,
+      "TotalPrice": 0.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.232,
+      "TotalPrice": 2.32
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.21,
+      "TotalPrice": 5.25
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.18,
+      "TotalPrice": 450.0
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.14,
+      "TotalPrice": 700.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 36,
+     "Name": "Keystone Electronics"
+    },
+    "QuantityAvailableforPackageType": 30721,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 30721,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "403724",
+    "ValueText": "Slotted"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "13446",
+    "ValueText": "0.189\" (4.80mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "7241",
+    "ValueText": "0.055\" (1.40mm)"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "15346",
+    "ValueText": "0.236\" (6.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "17637",
+    "ValueText": "0.291\" (7.40mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "408172",
+    "ValueText": "Steel"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "423667",
+    "ValueText": "Zinc, Clear Chromate"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "11",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7318.15.6040"
+  },
+  "OtherNames": [
+   "36-29301",
+   "29301K",
+   "29301K-ND",
+   "KEY1048",
+   "KEY1048-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "MACH SCREW PAN PHILLIP M2.5X0.45",
+   "DetailedDescription": "M2.5x0.45 Pan Head Machine Screw Phillips Drive Nylon"
+  },
+  "Manufacturer": {
+   "Id": 145,
+   "Name": "Essentra Components"
+  },
+  "ManufacturerProductNumber": "50M025045P012",
+  "UnitPrice": 0.15,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/essentra-components/50M025045P012/11639132",
+  "DatasheetUrl": "",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/53/MFG_50M020040P020.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "145-50M025045P012-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.15,
+      "TotalPrice": 0.15
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.118,
+      "TotalPrice": 0.59
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.109,
+      "TotalPrice": 1.09
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.0988,
+      "TotalPrice": 2.47
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.0918,
+      "TotalPrice": 4.59
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.0855,
+      "TotalPrice": 8.55
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.07832,
+      "TotalPrice": 19.58
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.07354,
+      "TotalPrice": 36.77
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.06928,
+      "TotalPrice": 69.28
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 145,
+     "Name": "Essentra Components"
+    },
+    "QuantityAvailableforPackageType": 28681,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 28681,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "370856",
+    "ValueText": "Machine Screw"
+   },
+   {
+    "ParameterId": 749,
+    "ParameterText": "Screw Head Type",
+    "ParameterType": "String",
+    "ValueId": "383419",
+    "ValueText": "Pan Head"
+   },
+   {
+    "ParameterId": 1608,
+    "ParameterText": "Drive Type",
+    "ParameterType": "String",
+    "ValueId": "386450",
+    "ValueText": "Phillips"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 121,
+    "ParameterText": "Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 754,
+    "ParameterText": "Head Diameter",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 747,
+    "ParameterText": "Head Height",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 748,
+    "ParameterText": "Length - Below Head",
+    "ParameterType": "String",
+    "ValueId": "24264",
+    "ValueText": "0.472\" (12.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "27233",
+    "ValueText": "0.555\" (14.10mm)"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "381417",
+    "ValueText": "Nylon"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 485473,
+   "Name": "50M025045"
+  },
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 572,
+     "ParentId": 26,
+     "Name": "Screws, Bolts",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/140/411/MFG_94xx_tmb.jpg",
+     "SeoDescription": "A screw is a conical fastener consisting of a protruding helix around a central shaft that acts as a wedge as it pushes into the fastened material. They are identified by head types such as cheese, flat, hex, knob, truss and pan. Bolts are cylindrical, threaded fasteners for the assembly of non-threaded components with the aid of a nut. They are identified by head types such as binding, cheese, flat, hex, oval, pan, round, spade and truss.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 68188,
+   "Name": "MicroPlastics"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "3926.90.9989"
+  },
+  "OtherNames": [
+   "145-50M025045P012"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "TERM BINDING POST M2.5 1 PIN PCB",
+   "DetailedDescription": "1 Pin Binding Post M2.5 Through Hole"
+  },
+  "Manufacturer": {
+   "Id": 36,
+   "Name": "Keystone Electronics"
+  },
+  "ManufacturerProductNumber": "8730",
+  "UnitPrice": 0.42,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/keystone-electronics/8730/2170366",
+  "DatasheetUrl": "https://www.keyelco.com/userAssets/file/K75p77.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/653/8730.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "36-8730-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.42,
+      "TotalPrice": 0.42
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.319,
+      "TotalPrice": 3.19
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2852,
+      "TotalPrice": 7.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2417,
+      "TotalPrice": 24.17
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.20052,
+      "TotalPrice": 100.26
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.19,
+      "TotalPrice": 190.0
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.17,
+      "TotalPrice": 425.0
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.15559,
+      "TotalPrice": 777.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 36,
+     "Name": "Keystone Electronics"
+    },
+    "QuantityAvailableforPackageType": 19258,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 19258,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 298,
+    "ParameterText": "Terminal Type",
+    "ParameterType": "String",
+    "ValueId": "319768",
+    "ValueText": "Binding Post"
+   },
+   {
+    "ParameterId": 124,
+    "ParameterText": "Screw Size",
+    "ParameterType": "String",
+    "ValueId": "370197",
+    "ValueText": "M2.5"
+   },
+   {
+    "ParameterId": 589,
+    "ParameterText": "Termination",
+    "ParameterType": "String",
+    "ValueId": "405002",
+    "ValueText": "Solder"
+   },
+   {
+    "ParameterId": 10,
+    "ParameterText": "Number of Pins",
+    "ParameterType": "Double",
+    "ValueId": "1",
+    "ValueText": "1"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "411897",
+    "ValueText": "Through Hole"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 20,
+   "ParentId": 0,
+   "Name": "Connectors, Interconnects",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/279/043/204507-1_tmb%2864x64%29.jpg",
+   "SeoDescription": "Connector and interconnect products facilitate the joining of electrical or fiber optic conductors & cables. An enormous variety of styles are available, to accommodate most any application; banana plugs for lab equipment, coaxial connectors for RF, modular plugs for network and phone systems, spade and ring terminals for connecting discrete wires to terminal blocks, terminal blocks, sockets for transistors and integrated circuits, standard AC power connectors, headphone plugs and jacks, high-voltage connectors, USB connectors, and many, many more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2031,
+     "ParentId": 20,
+     "Name": "Terminals",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/272/926/19070-0040_tmb%2864x64%29.jpg",
+     "SeoDescription": "Terminals are the endpoint of a wired connection. These include barrel or bullet connectors, foil connectors, knife connectors, PC Pin connectors, quick connects, rectangular connectors, ring connectors, screw connectors, solder lug connectors, spade connectors, turret connectors, wire pin connectors, wire splice connectors, wire to board connectors, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 396,
+       "ParentId": 2031,
+       "Name": "Screw Connectors",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/151/720/7461094_tmb.jpg",
+       "SeoDescription": "Screw connectors or screw terminals are commonly used concurrently with ring connectors, rectangular connectors, spade connectors, or bare wire. These single conductor connectors come in many terminal types such as: binding post, turret, power tap, screw terminal, and shank terminal. They accept a variety of different screw sizes and are made to be press-fit and/or soldered into PCBs.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "11",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.90.4000"
+  },
+  "OtherNames": [
+   "36-8730",
+   "8730K",
+   "8730K-ND"
+  ]
+ }
+]

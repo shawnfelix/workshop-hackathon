@@ -1,0 +1,5882 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8USON",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 6 ns 8-USON (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVUXIQ TR",
+  "UnitPrice": 1.87,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVUXIQ-TR/15182017",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6661/W25Q16JV.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2463/150%3B%20C04-203%3B%20NP%3B%208.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVUXIQTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 1.42517,
+      "TotalPrice": 5700.68
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 26463,
+    "MinimumOrderQuantity": 4000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVUXIQTRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.87,
+      "TotalPrice": 1.87
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.75,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.7004,
+      "TotalPrice": 42.51
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.6626,
+      "TotalPrice": 83.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.6248,
+      "TotalPrice": 162.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.57456,
+      "TotalPrice": 393.64
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.53672,
+      "TotalPrice": 768.36
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.49912,
+      "TotalPrice": 1499.12
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 26463,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVUXIQTRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.87,
+      "TotalPrice": 1.87
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.75,
+      "TotalPrice": 17.5
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.7004,
+      "TotalPrice": 42.51
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.6626,
+      "TotalPrice": 83.13
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.6248,
+      "TotalPrice": 162.48
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.57456,
+      "TotalPrice": 393.64
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.53672,
+      "TotalPrice": 768.36
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.49912,
+      "TotalPrice": 1499.12
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 26463,
+    "MaxQuantityForDistribution": 16000,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 26463,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 2192,
+    "ParameterText": "Access Time",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "6 ns",
+    "ValueText": "6 ns"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295106",
+    "ValueText": "8-UFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "295144",
+    "ValueText": "8-USON (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "256-W25Q16JVUXIQTRCT",
+   "256-W25Q16JVUXIQTRDKR",
+   "256-W25Q16JVUXIQTR",
+   "W25Q16JVUXIQ"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 128MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q128JVSIQ TR",
+  "UnitPrice": 3.94,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q128JVSIQ-TR/5803944",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7161/256_W25Q128JV.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q128JVSIQTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 2.88474,
+      "TotalPrice": 5769.48
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 66000,
+    "MinimumOrderQuantity": 2000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q128JVSIQTRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.94,
+      "TotalPrice": 3.94
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 3.677,
+      "TotalPrice": 36.77
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 3.5692,
+      "TotalPrice": 89.23
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 3.4874,
+      "TotalPrice": 174.37
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 3.4055,
+      "TotalPrice": 340.55
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 3.29772,
+      "TotalPrice": 824.43
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 3.2168,
+      "TotalPrice": 1608.4
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 3.13677,
+      "TotalPrice": 3136.77
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 67041,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q128JVSIQTRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.94,
+      "TotalPrice": 3.94
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 3.677,
+      "TotalPrice": 36.77
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 3.5692,
+      "TotalPrice": 89.23
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 3.4874,
+      "TotalPrice": 174.37
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 3.4055,
+      "TotalPrice": 340.55
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 3.29772,
+      "TotalPrice": 824.43
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 3.2168,
+      "TotalPrice": 1608.4
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 3.13677,
+      "TotalPrice": 3136.77
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 67041,
+    "MaxQuantityForDistribution": 18000,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 67041,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720333",
+    "ValueText": "128Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "108137",
+    "ValueText": "16M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406111",
+    "ValueText": "SPI - Quad I/O, QPI"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339728,
+   "Name": "W25Q128"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "36",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "3A991B1A",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "W25Q128JVSIQ DKR-ND",
+   "W25Q128JVSIQ CT-ND",
+   "W25Q128JVSIQTR",
+   "W25Q128JVSIQ DKR",
+   "W25Q128JVSIQCT",
+   "W25Q128JVSIQ CT",
+   "W25Q128JVSIQTR-ND",
+   "W25Q128JVSIQCT-ND",
+   "256-W25Q128JVSIQTR",
+   "256-W25Q128JVSIQTRDKR",
+   "W25Q128JVSIQDKR",
+   "256-W25Q128JVSIQTRCT",
+   "W25Q128JVSIQDKR-ND",
+   "W25Q128JVSIQ TR-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 128MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q128JVSIQ",
+  "UnitPrice": 4.21,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q128JVSIQ/5803943",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7161/256_W25Q128JV.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "W25Q128JVSIQ-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 4.21,
+      "TotalPrice": 4.21
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 3.924,
+      "TotalPrice": 39.24
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 3.8088,
+      "TotalPrice": 95.22
+     },
+     {
+      "BreakQuantity": 90,
+      "UnitPrice": 3.64722,
+      "TotalPrice": 328.2498
+     },
+     {
+      "BreakQuantity": 180,
+      "UnitPrice": 3.55994,
+      "TotalPrice": 640.7892
+     },
+     {
+      "BreakQuantity": 270,
+      "UnitPrice": 3.50907,
+      "TotalPrice": 947.4489
+     },
+     {
+      "BreakQuantity": 540,
+      "UnitPrice": 3.42269,
+      "TotalPrice": 1848.2526
+     },
+     {
+      "BreakQuantity": 1080,
+      "UnitPrice": 3.33727,
+      "TotalPrice": 3604.2516
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 52016,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 52016,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720333",
+    "ValueText": "128Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "108137",
+    "ValueText": "16M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406111",
+    "ValueText": "SPI - Quad I/O, QPI"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339728,
+   "Name": "W25Q128"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "36",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "3A991B1A",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "W25Q128JVSIQ-CRL"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 32MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 32Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q32JVSSIQ",
+  "UnitPrice": 2.1,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q32JVSSIQ/5803981",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5059/W25Q32JV_RevI_5-4-21.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "W25Q32JVSSIQ-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.1,
+      "TotalPrice": 2.1
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.964,
+      "TotalPrice": 19.64
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.9088,
+      "TotalPrice": 47.72
+     },
+     {
+      "BreakQuantity": 90,
+      "UnitPrice": 1.82978,
+      "TotalPrice": 164.6802
+     },
+     {
+      "BreakQuantity": 180,
+      "UnitPrice": 1.78694,
+      "TotalPrice": 321.6492
+     },
+     {
+      "BreakQuantity": 270,
+      "UnitPrice": 1.76193,
+      "TotalPrice": 475.7211
+     },
+     {
+      "BreakQuantity": 540,
+      "UnitPrice": 1.71933,
+      "TotalPrice": 928.4382
+     },
+     {
+      "BreakQuantity": 1080,
+      "UnitPrice": 1.67706,
+      "TotalPrice": 1811.2248
+     },
+     {
+      "BreakQuantity": 5040,
+      "UnitPrice": 1.58497,
+      "TotalPrice": 7988.2488
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 107400,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 107400,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720385",
+    "ValueText": "32Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "720228",
+    "ValueText": "4M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339733,
+   "Name": "W25Q32"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "3A991B1A",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 32MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 32Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q32JVSSIQ TR",
+  "UnitPrice": 1.69599,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q32JVSSIQ-TR/5803982",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5059/W25Q32JV_RevI_5-4-21.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q32JVSSIQTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 1.69599,
+      "TotalPrice": 3391.98
+     },
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 1.65327,
+      "TotalPrice": 6613.08
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 1.62862,
+      "TotalPrice": 9771.72
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 64000,
+    "MinimumOrderQuantity": 2000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q32JVSSIQTRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 64000,
+    "MaxQuantityForDistribution": 999999999,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q32JVSSIQTRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 64000,
+    "MaxQuantityForDistribution": 999999999,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 64000,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720385",
+    "ValueText": "32Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "720228",
+    "ValueText": "4M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339733,
+   "Name": "W25Q32"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "3A991B1A",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "W25Q32JVSSIQDKR-ND",
+   "W25Q32JVSSIQCT",
+   "W25Q32JVSSIQCT-ND",
+   "W25Q32JVSSIQTR",
+   "W25Q32JVSSIQTR-ND",
+   "256-W25Q32JVSSIQTRDKR",
+   "W25Q32JVSSIQ TR-ND",
+   "256-W25Q32JVSSIQTR",
+   "W25Q32JVSSIQDKR",
+   "256-W25Q32JVSSIQTRCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 64MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 64Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q64JVSSIQ",
+  "UnitPrice": 2.75,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q64JVSSIQ/5803992",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q64jv%20revj%2003272018%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "W25Q64JVSSIQ-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.75,
+      "TotalPrice": 2.75
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.572,
+      "TotalPrice": 25.72
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.498,
+      "TotalPrice": 62.45
+     },
+     {
+      "BreakQuantity": 90,
+      "UnitPrice": 2.39389,
+      "TotalPrice": 215.4501
+     },
+     {
+      "BreakQuantity": 180,
+      "UnitPrice": 2.33744,
+      "TotalPrice": 420.7392
+     },
+     {
+      "BreakQuantity": 270,
+      "UnitPrice": 2.30448,
+      "TotalPrice": 622.2096
+     },
+     {
+      "BreakQuantity": 540,
+      "UnitPrice": 2.24841,
+      "TotalPrice": 1214.1414
+     },
+     {
+      "BreakQuantity": 1080,
+      "UnitPrice": 2.19283,
+      "TotalPrice": 2368.2564
+     },
+     {
+      "BreakQuantity": 5040,
+      "UnitPrice": 2.072,
+      "TotalPrice": 10442.88
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 4536,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 4536,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "261668",
+    "ValueText": "64Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "720190",
+    "ValueText": "8M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339736,
+   "Name": "W25Q64"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "36",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "3A991B1A",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOP",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 120 MHz 8-SOP"
+  },
+  "Manufacturer": {
+   "Id": 1970,
+   "Name": "Gigadevice Electronics Singapore PTE.LTD."
+  },
+  "ManufacturerProductNumber": "GD25Q16CTIGR",
+  "UnitPrice": 0.88,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/gigadevice-electronics-singapore-pte-ltd/GD25Q16CTIGR/9484675",
+  "DatasheetUrl": "https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220714/DS-00086-GD25Q16C-Rev3.2.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6311/1970%7E8SOP-3.9%7ET%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1970-1010-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.6829,
+      "TotalPrice": 2048.7
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.66588,
+      "TotalPrice": 3995.28
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.65603,
+      "TotalPrice": 5904.27
+     },
+     {
+      "BreakQuantity": 15000,
+      "UnitPrice": 0.64375,
+      "TotalPrice": 9656.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 51000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-1010-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.88,
+      "TotalPrice": 0.88
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.825,
+      "TotalPrice": 8.25
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.8024,
+      "TotalPrice": 20.06
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.7854,
+      "TotalPrice": 39.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7681,
+      "TotalPrice": 76.81
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.74508,
+      "TotalPrice": 186.27
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.72764,
+      "TotalPrice": 363.82
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.71024,
+      "TotalPrice": 710.24
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 55748,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-1010-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.88,
+      "TotalPrice": 0.88
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.825,
+      "TotalPrice": 8.25
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.8024,
+      "TotalPrice": 20.06
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.7854,
+      "TotalPrice": 39.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.7681,
+      "TotalPrice": 76.81
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.74508,
+      "TotalPrice": 186.27
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.72764,
+      "TotalPrice": 363.82
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.71024,
+      "TotalPrice": 710.24
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 55748,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 55748,
+  "ProductStatus": {
+   "Id": 7,
+   "Status": "Not For New Designs"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "120 MHz",
+    "ValueText": "120 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "236248",
+    "ValueText": "50\u00b5s, 2.4ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294928",
+    "ValueText": "8-SOIC (0.154\", 3.90mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294976",
+    "ValueText": "8-SOP"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 316238,
+   "Name": "GD25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "1970-1010-2",
+   "1970-1010-1",
+   "1970-1010-6"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOP",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 7 ns 8-SOP"
+  },
+  "Manufacturer": {
+   "Id": 1970,
+   "Name": "Gigadevice Electronics Singapore PTE.LTD."
+  },
+  "ManufacturerProductNumber": "GD25Q16ETIGR",
+  "UnitPrice": 1.02,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/gigadevice-electronics-singapore-pte-ltd/GD25Q16ETIGR/14113855",
+  "DatasheetUrl": "https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220714/DS-00473-GD25Q16E-Rev1.2.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6311/1970%7E8SOP-3.9%7ET%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16ETIGRTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.79476,
+      "TotalPrice": 2384.28
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.77488,
+      "TotalPrice": 4649.28
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.76339,
+      "TotalPrice": 6870.51
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 6000,
+    "MaxQuantityForDistribution": 3000,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16ETIGRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.02,
+      "TotalPrice": 1.02
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.961,
+      "TotalPrice": 9.61
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9348,
+      "TotalPrice": 23.37
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.9148,
+      "TotalPrice": 45.74
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8944,
+      "TotalPrice": 89.44
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.86748,
+      "TotalPrice": 216.87
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.84706,
+      "TotalPrice": 423.53
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.82672,
+      "TotalPrice": 826.72
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 8975,
+    "MaxQuantityForDistribution": 3000,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16ETIGRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.02,
+      "TotalPrice": 1.02
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.961,
+      "TotalPrice": 9.61
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9348,
+      "TotalPrice": 23.37
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.9148,
+      "TotalPrice": 45.74
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8944,
+      "TotalPrice": 89.44
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.86748,
+      "TotalPrice": 216.87
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.84706,
+      "TotalPrice": 423.53
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.82672,
+      "TotalPrice": 826.72
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 8975,
+    "MaxQuantityForDistribution": 3000,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 8975,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6384800194112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "499103",
+    "ValueText": "70\u00b5s, 2ms"
+   },
+   {
+    "ParameterId": 2192,
+    "ParameterText": "Access Time",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "7 ns",
+    "ValueText": "7 ns"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294928",
+    "ValueText": "8-SOIC (0.154\", 3.90mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294976",
+    "ValueText": "8-SOP"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 316238,
+   "Name": "GD25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "14",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "1970-GD25Q16ETIGRCT",
+   "1970-GD25Q16ETIGRTR",
+   "1970-GD25Q16ETIGRDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8WSON",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 7 ns 8-WSON (5x6)"
+  },
+  "Manufacturer": {
+   "Id": 1970,
+   "Name": "Gigadevice Electronics Singapore PTE.LTD."
+  },
+  "ManufacturerProductNumber": "GD25Q16EWIGR",
+  "UnitPrice": 1.19,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/gigadevice-electronics-singapore-pte-ltd/GD25Q16EWIGR/14113866",
+  "DatasheetUrl": "https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220714/DS-00473-GD25Q16E-Rev1.2.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6286/1970%7E8WSON-.80-6X5%7EW%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16EWIGRTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.97985,
+      "TotalPrice": 2939.55
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.95528,
+      "TotalPrice": 5731.68
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.94108,
+      "TotalPrice": 8469.72
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 3000,
+    "MinimumOrderQuantity": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16EWIGRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.19,
+      "TotalPrice": 1.19
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.119,
+      "TotalPrice": 11.19
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.0884,
+      "TotalPrice": 27.21
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.0648,
+      "TotalPrice": 53.24
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.041,
+      "TotalPrice": 104.1
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.0094,
+      "TotalPrice": 252.35
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.9855,
+      "TotalPrice": 492.75
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.96171,
+      "TotalPrice": 961.71
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 5400,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16EWIGRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.19,
+      "TotalPrice": 1.19
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.119,
+      "TotalPrice": 11.19
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.0884,
+      "TotalPrice": 27.21
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.0648,
+      "TotalPrice": 53.24
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.041,
+      "TotalPrice": 104.1
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.0094,
+      "TotalPrice": 252.35
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.9855,
+      "TotalPrice": 492.75
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.96171,
+      "TotalPrice": 961.71
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 5400,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 5400,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6384800194112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "499103",
+    "ValueText": "70\u00b5s, 2ms"
+   },
+   {
+    "ParameterId": 2192,
+    "ParameterText": "Access Time",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "7 ns",
+    "ValueText": "7 ns"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295392",
+    "ValueText": "8-WDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "295483",
+    "ValueText": "8-WSON (5x6)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 316238,
+   "Name": "GD25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "14",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "1970-GD25Q16EWIGRCT",
+   "1970-GD25Q16EWIGRDKR",
+   "1970-GD25Q16EWIGRTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOP",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 120 MHz 8-SOP"
+  },
+  "Manufacturer": {
+   "Id": 1970,
+   "Name": "Gigadevice Electronics Singapore PTE.LTD."
+  },
+  "ManufacturerProductNumber": "GD25Q16CTEGR",
+  "UnitPrice": 1.22,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/gigadevice-electronics-singapore-pte-ltd/GD25Q16CTEGR/9484706",
+  "DatasheetUrl": "https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220714/DS-00086-GD25Q16C-Rev3.2.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6311/1970%7E8SOP-3.9%7ET%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1970-1041-2-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.94283,
+      "TotalPrice": 2828.49
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.91918,
+      "TotalPrice": 5515.08
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.90552,
+      "TotalPrice": 8149.68
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-1041-1-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.22,
+      "TotalPrice": 1.22
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.142,
+      "TotalPrice": 11.42
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.1104,
+      "TotalPrice": 27.76
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.0862,
+      "TotalPrice": 54.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.0618,
+      "TotalPrice": 106.18
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.0296,
+      "TotalPrice": 257.4
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.00522,
+      "TotalPrice": 502.61
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.98092,
+      "TotalPrice": 980.92
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 4004,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-1041-6-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.22,
+      "TotalPrice": 1.22
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.142,
+      "TotalPrice": 11.42
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.1104,
+      "TotalPrice": 27.76
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.0862,
+      "TotalPrice": 54.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.0618,
+      "TotalPrice": 106.18
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.0296,
+      "TotalPrice": 257.4
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.00522,
+      "TotalPrice": 502.61
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.98092,
+      "TotalPrice": 980.92
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 4004,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 4004,
+  "ProductStatus": {
+   "Id": 7,
+   "Status": "Not For New Designs"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "120 MHz",
+    "ValueText": "120 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "236248",
+    "ValueText": "50\u00b5s, 2.4ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212479",
+    "ValueText": "-40\u00b0C ~ 125\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294928",
+    "ValueText": "8-SOIC (0.154\", 3.90mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294976",
+    "ValueText": "8-SOP"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 316238,
+   "Name": "GD25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "22",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "1970-1041-2",
+   "1970-1041-1",
+   "1970-1041-6"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOP",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 7 ns 8-SOP"
+  },
+  "Manufacturer": {
+   "Id": 1970,
+   "Name": "Gigadevice Electronics Singapore PTE.LTD."
+  },
+  "ManufacturerProductNumber": "GD25Q16ESIGR",
+  "UnitPrice": 1.02,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/gigadevice-electronics-singapore-pte-ltd/GD25Q16ESIGR/14113868",
+  "DatasheetUrl": "https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220714/DS-00473-GD25Q16E-Rev1.2.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6347/1970%7E8SOP-5.3%7ES%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16ESIGRTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.8065,
+      "TotalPrice": 1613.0
+     },
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.78648,
+      "TotalPrice": 3145.92
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.77488,
+      "TotalPrice": 4649.28
+     },
+     {
+      "BreakQuantity": 10000,
+      "UnitPrice": 0.76043,
+      "TotalPrice": 7604.3
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 2000,
+    "MaxQuantityForDistribution": 2000,
+    "MinimumOrderQuantity": 2000,
+    "StandardPackage": 2000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16ESIGRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.02,
+      "TotalPrice": 1.02
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.961,
+      "TotalPrice": 9.61
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9348,
+      "TotalPrice": 23.37
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.9148,
+      "TotalPrice": 45.74
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8944,
+      "TotalPrice": 89.44
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.86748,
+      "TotalPrice": 216.87
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.84706,
+      "TotalPrice": 423.53
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.82672,
+      "TotalPrice": 826.72
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 2706,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16ESIGRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.02,
+      "TotalPrice": 1.02
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.961,
+      "TotalPrice": 9.61
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.9348,
+      "TotalPrice": 23.37
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.9148,
+      "TotalPrice": 45.74
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.8944,
+      "TotalPrice": 89.44
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.86748,
+      "TotalPrice": 216.87
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.84706,
+      "TotalPrice": 423.53
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.82672,
+      "TotalPrice": 826.72
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 2706,
+    "MaxQuantityForDistribution": 2000,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 2706,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6384800194112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "499103",
+    "ValueText": "70\u00b5s, 2ms"
+   },
+   {
+    "ParameterId": 2192,
+    "ParameterText": "Access Time",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "7 ns",
+    "ValueText": "7 ns"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294976",
+    "ValueText": "8-SOP"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 316238,
+   "Name": "GD25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "14",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "1970-GD25Q16ESIGRTR",
+   "1970-GD25Q16ESIGRCT",
+   "1970-GD25Q16ESIGRDKR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8USON",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 7 ns 8-USON (2x3)"
+  },
+  "Manufacturer": {
+   "Id": 1970,
+   "Name": "Gigadevice Electronics Singapore PTE.LTD."
+  },
+  "ManufacturerProductNumber": "GD25Q16EEIGR",
+  "UnitPrice": 1.12,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/gigadevice-electronics-singapore-pte-ltd/GD25Q16EEIGR/14113858",
+  "DatasheetUrl": "https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220714/DS-00473-GD25Q16E-Rev1.2.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6310/1970%7E8USON-.50-2X3%7EE%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16EEIGRTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.86894,
+      "TotalPrice": 2606.82
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.84717,
+      "TotalPrice": 5083.02
+     },
+     {
+      "BreakQuantity": 9000,
+      "UnitPrice": 0.83459,
+      "TotalPrice": 7511.31
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 3000,
+    "MinimumOrderQuantity": 3000,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16EEIGRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.19,
+      "TotalPrice": 1.19
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.115,
+      "TotalPrice": 11.15
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.084,
+      "TotalPrice": 27.1
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.0606,
+      "TotalPrice": 53.03
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.037,
+      "TotalPrice": 103.7
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.0056,
+      "TotalPrice": 251.4
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.98186,
+      "TotalPrice": 490.93
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.9582,
+      "TotalPrice": 958.2
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 1164,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "1970-GD25Q16EEIGRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.12,
+      "TotalPrice": 1.12
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.052,
+      "TotalPrice": 10.52
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.0228,
+      "TotalPrice": 25.57
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.0006,
+      "TotalPrice": 50.03
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.9783,
+      "TotalPrice": 97.83
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.94868,
+      "TotalPrice": 237.17
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.92628,
+      "TotalPrice": 463.14
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.90396,
+      "TotalPrice": 903.96
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1970,
+     "Name": "Gigadevice Electronics Singapore PTE.LTD."
+    },
+    "QuantityAvailableforPackageType": 1164,
+    "MaxQuantityForDistribution": 3000,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 1164,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6384800194112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "499103",
+    "ValueText": "70\u00b5s, 2ms"
+   },
+   {
+    "ParameterId": 2192,
+    "ParameterText": "Access Time",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "7 ns",
+    "ValueText": "7 ns"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295514",
+    "ValueText": "8-XFDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "295144",
+    "ValueText": "8-USON (2x3)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 316238,
+   "Name": "GD25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "14",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "1970-GD25Q16EEIGRDKR",
+   "1970-GD25Q16EEIGRCT",
+   "1970-GD25Q16EEIGRTR"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVSSIQ",
+  "UnitPrice": 2.17,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVSSIQ/6193769",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q16jv%20spi%20revg%2003222018%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "W25Q16JVSSIQ-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.17,
+      "TotalPrice": 2.17
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.028,
+      "TotalPrice": 20.28
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.9704,
+      "TotalPrice": 49.26
+     },
+     {
+      "BreakQuantity": 90,
+      "UnitPrice": 1.88878,
+      "TotalPrice": 169.9902
+     },
+     {
+      "BreakQuantity": 180,
+      "UnitPrice": 1.84456,
+      "TotalPrice": 332.0208
+     },
+     {
+      "BreakQuantity": 270,
+      "UnitPrice": 1.8187,
+      "TotalPrice": 491.049
+     },
+     {
+      "BreakQuantity": 540,
+      "UnitPrice": 1.77469,
+      "TotalPrice": 958.3326
+     },
+     {
+      "BreakQuantity": 1080,
+      "UnitPrice": 1.73103,
+      "TotalPrice": 1869.5124
+     },
+     {
+      "BreakQuantity": 5040,
+      "UnitPrice": 1.63592,
+      "TotalPrice": 8245.0368
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 222151,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 222151,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVSNIQ TR",
+  "UnitPrice": 1.89,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVSNIQ-TR/6193780",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q16jv%20spi%20revg%2003222018%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-3.9%7ESN%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSNIQTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 1.46368,
+      "TotalPrice": 3659.2
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 1.42678,
+      "TotalPrice": 7133.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 99000,
+    "MinimumOrderQuantity": 2500,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSNIQTRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.89,
+      "TotalPrice": 1.89
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.766,
+      "TotalPrice": 17.66
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.7164,
+      "TotalPrice": 42.91
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.6784,
+      "TotalPrice": 83.92
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.6401,
+      "TotalPrice": 164.01
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.58944,
+      "TotalPrice": 397.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.55122,
+      "TotalPrice": 775.61
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.51326,
+      "TotalPrice": 1513.26
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 99156,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSNIQTRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.89,
+      "TotalPrice": 1.89
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.766,
+      "TotalPrice": 17.66
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.7164,
+      "TotalPrice": 42.91
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.6784,
+      "TotalPrice": 83.92
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.6401,
+      "TotalPrice": 164.01
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.58944,
+      "TotalPrice": 397.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.55122,
+      "TotalPrice": 775.61
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.51326,
+      "TotalPrice": 1513.26
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 99156,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 99156,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294928",
+    "ValueText": "8-SOIC (0.154\", 3.90mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "W25Q16JVSNIQDKR",
+   "256-W25Q16JVSNIQTR",
+   "256-W25Q16JVSNIQTRDKR",
+   "256-W25Q16JVSNIQTRCT",
+   "W25Q16JVSNIQCT",
+   "W25Q16JVSNIQDKR-ND",
+   "W25Q16JVSNIQTR-ND",
+   "W25Q16JVSNIQ TR-ND",
+   "W25Q16JVSNIQTR",
+   "W25Q16JVSNIQCT-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVSNIQ",
+  "UnitPrice": 1.79,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVSNIQ/6193768",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6661/W25Q16JV.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-3.9%7ESN%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "W25Q16JVSNIQ-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.79,
+      "TotalPrice": 1.79
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.678,
+      "TotalPrice": 16.78
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.6304,
+      "TotalPrice": 40.76
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.5944,
+      "TotalPrice": 79.72
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.5581,
+      "TotalPrice": 155.81
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.5005,
+      "TotalPrice": 450.15
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.47382,
+      "TotalPrice": 736.91
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.43779,
+      "TotalPrice": 1437.79
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 1.35571,
+      "TotalPrice": 6778.55
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 90228,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 90228,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294928",
+    "ValueText": "8-SOIC (0.154\", 3.90mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVSSIQ TR",
+  "UnitPrice": 1.96,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVSSIQ-TR/6193775",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q16jv%20spi%20revg%2003222018%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSSIQTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 1.53073,
+      "TotalPrice": 3061.46
+     },
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 1.49224,
+      "TotalPrice": 5968.96
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 1.47002,
+      "TotalPrice": 8820.12
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 24000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 2000,
+    "StandardPackage": 2000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSSIQTRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.96,
+      "TotalPrice": 1.96
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.833,
+      "TotalPrice": 18.33
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.7808,
+      "TotalPrice": 44.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.7414,
+      "TotalPrice": 87.07
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.7015,
+      "TotalPrice": 170.15
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.64888,
+      "TotalPrice": 412.22
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.60916,
+      "TotalPrice": 804.58
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.56975,
+      "TotalPrice": 1569.75
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 26070,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSSIQTRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 26070,
+    "MaxQuantityForDistribution": 34000,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 26070,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "W25Q16JVSSIQDKR",
+   "W25Q16JVSSIQ TR-ND",
+   "W25Q16JVSSIQTR",
+   "256-W25Q16JVSSIQTR",
+   "256-W25Q16JVSSIQTRCT",
+   "256-W25Q16JVSSIQTRDKR",
+   "W25Q16JVSSIQTR-ND",
+   "W25Q16JVSSIQCT",
+   "W25Q16JVSSIQDKR-ND",
+   "W25Q16JVSSIQCT-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8WSON",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 8-WSON (6x5)"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVZPIQ TR",
+  "UnitPrice": 2.01,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVZPIQ-TR/6193781",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q16jv%20spi%20revg%2003222018%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4181/256%7E8WSON-%2C80-6x5%7EZP%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVZPIQTR-ND",
+    "PackageType": {
+     "Id": 1,
+     "Name": "Tape & Reel (TR)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 1.5154,
+      "TotalPrice": 7577.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 20000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 5000,
+    "StandardPackage": 5000,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVZPIQTRCT-ND",
+    "PackageType": {
+     "Id": 2,
+     "Name": "Cut Tape (CT)"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.01,
+      "TotalPrice": 2.01
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.877,
+      "TotalPrice": 18.77
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.824,
+      "TotalPrice": 45.6
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.7832,
+      "TotalPrice": 89.16
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.7424,
+      "TotalPrice": 174.24
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 1.68844,
+      "TotalPrice": 422.11
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.64776,
+      "TotalPrice": 823.88
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.60736,
+      "TotalPrice": 1607.36
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 24793,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   },
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVZPIQTRDKR-ND",
+    "PackageType": {
+     "Id": 243,
+     "Name": "Digi-Reel\u00ae"
+    },
+    "StandardPricing": [],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 24793,
+    "MaxQuantityForDistribution": 999999999,
+    "StandardPackage": 1,
+    "DigiReelFee": 7.0
+   }
+  ],
+  "QuantityAvailable": 24793,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295392",
+    "ValueText": "8-WDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "295484",
+    "ValueText": "8-WSON (6x5)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "W25Q16JVZPIQTR",
+   "W25Q16JVZPIQ TR-ND",
+   "W25Q16JVZPIQCT",
+   "256-W25Q16JVZPIQTRDKR",
+   "W25Q16JVZPIQCT-ND",
+   "W25Q16JVZPIQDKR-ND",
+   "W25Q16JVZPIQTR-ND",
+   "256-W25Q16JVZPIQTR",
+   "W25Q16JVZPIQDKR",
+   "256-W25Q16JVZPIQTRCT"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O, QPI, DTR 133 MHz 6 ns 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVSNIM",
+  "UnitPrice": 1.74,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVSNIM/15182003",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q16jv_dtr%20reve%2002092018%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-3.9%7ESN%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSNIM-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.74,
+      "TotalPrice": 1.74
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.633,
+      "TotalPrice": 16.33
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.5876,
+      "TotalPrice": 39.69
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 1.5524,
+      "TotalPrice": 77.62
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.517,
+      "TotalPrice": 151.7
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.461,
+      "TotalPrice": 438.3
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.43504,
+      "TotalPrice": 717.52
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.39999,
+      "TotalPrice": 1399.99
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 1.32011,
+      "TotalPrice": 6600.55
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 18786,
+    "MaxQuantityForDistribution": 5700,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 100,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 18786,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750490",
+    "ValueText": "Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406112",
+    "ValueText": "SPI - Quad I/O, QPI, DTR"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 2192,
+    "ParameterText": "Access Time",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "6 ns",
+    "ValueText": "6 ns"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294928",
+    "ValueText": "8-SOIC (0.154\", 3.90mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "256-W25Q16JVSNIM"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8WSON",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 8-WSON (6x5)"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVZPIQ",
+  "UnitPrice": 2.26,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVZPIQ/6193770",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q16jv%20spi%20revg%2003222018%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4181/256%7E8WSON-%2C80-6x5%7EZP%7E8.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVZPIQ-TUBE-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.26,
+      "TotalPrice": 2.26
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.109,
+      "TotalPrice": 21.09
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.0488,
+      "TotalPrice": 51.22
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 2.003,
+      "TotalPrice": 100.15
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 1.9569,
+      "TotalPrice": 195.69
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.88397,
+      "TotalPrice": 565.191
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 1.8502,
+      "TotalPrice": 925.1
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.80471,
+      "TotalPrice": 1804.71
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 1.70125,
+      "TotalPrice": 8506.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 7102,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 7102,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "295392",
+    "ValueText": "8-WDFN Exposed Pad"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "295484",
+    "ValueText": "8-WSON (6x5)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "W25Q16JVZPIQ-ND",
+   "256-W25Q16JVZPIQ",
+   "256-W25Q16JVZPIQ-ND",
+   "256-W25Q16JVZPIQ-TUBE",
+   "W25Q16JVZPIQ-TUBE"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "IC FLASH 16MBIT SPI/QUAD 8SOIC",
+   "DetailedDescription": "FLASH - NOR Memory IC 16Mbit SPI - Quad I/O 133 MHz 8-SOIC"
+  },
+  "Manufacturer": {
+   "Id": 256,
+   "Name": "Winbond Electronics"
+  },
+  "ManufacturerProductNumber": "W25Q16JVSSIM",
+  "UnitPrice": 1.89,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVSSIM/12143335",
+  "DatasheetUrl": "https://www.winbond.com/resource-files/w25q16jv%20spi%20revh%2004082019%20plus.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6555/256%7E8SOIC-5.3%7ESS%7E8.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "256-W25Q16JVSSIM-ND",
+    "PackageType": {
+     "Id": 6,
+     "Name": "Tube"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 1.89,
+      "TotalPrice": 1.89
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.766,
+      "TotalPrice": 17.66
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.7164,
+      "TotalPrice": 42.91
+     },
+     {
+      "BreakQuantity": 90,
+      "UnitPrice": 1.646,
+      "TotalPrice": 148.14
+     },
+     {
+      "BreakQuantity": 180,
+      "UnitPrice": 1.60761,
+      "TotalPrice": 289.3698
+     },
+     {
+      "BreakQuantity": 270,
+      "UnitPrice": 1.58519,
+      "TotalPrice": 428.0013
+     },
+     {
+      "BreakQuantity": 540,
+      "UnitPrice": 1.547,
+      "TotalPrice": 835.38
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 256,
+     "Name": "Winbond Electronics"
+    },
+    "QuantityAvailableforPackageType": 3979,
+    "MaxQuantityForDistribution": 990,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 90,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 3979,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": true,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 149,
+    "ParameterText": "Memory Type",
+    "ParameterType": "String",
+    "ValueId": "380462",
+    "ValueText": "Non-Volatile"
+   },
+   {
+    "ParameterId": 961,
+    "ParameterText": "Memory Format",
+    "ParameterType": "String",
+    "ValueId": "347758",
+    "ValueText": "FLASH"
+   },
+   {
+    "ParameterId": 570,
+    "ParameterText": "Technology",
+    "ParameterType": "String",
+    "ValueId": "347771",
+    "ValueText": "FLASH - NOR"
+   },
+   {
+    "ParameterId": 142,
+    "ParameterText": "Memory Size",
+    "ParameterType": "String",
+    "ValueId": "720346",
+    "ValueText": "16Mbit"
+   },
+   {
+    "ParameterId": 2689,
+    "ParameterText": "Memory Organization",
+    "ParameterType": "String",
+    "ValueId": "481228",
+    "ValueText": "2M x 8"
+   },
+   {
+    "ParameterId": 2043,
+    "ParameterText": "Memory Interface",
+    "ParameterType": "String",
+    "ValueId": "406109",
+    "ValueText": "SPI - Quad I/O"
+   },
+   {
+    "ParameterId": 800,
+    "ParameterText": "Clock Frequency",
+    "ParameterType": "UnitOfMeasure",
+    "ValueId": "133 MHz",
+    "ValueText": "133 MHz"
+   },
+   {
+    "ParameterId": 2042,
+    "ParameterText": "Write Cycle Time - Word, Page",
+    "ParameterType": "String",
+    "ValueId": "202289",
+    "ValueText": "3ms"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "134904",
+    "ValueText": "2.7V ~ 3.6V"
+   },
+   {
+    "ParameterId": 252,
+    "ParameterText": "Operating Temperature",
+    "ParameterType": "String",
+    "ValueId": "212621",
+    "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 16,
+    "ParameterText": "Package / Case",
+    "ParameterType": "String",
+    "ValueId": "294934",
+    "ValueText": "8-SOIC (0.209\", 5.30mm Width)"
+   },
+   {
+    "ParameterId": 1291,
+    "ParameterText": "Supplier Device Package",
+    "ParameterType": "String",
+    "ValueId": "294926",
+    "ValueText": "8-SOIC"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 339729,
+   "Name": "W25Q16"
+  },
+  "Category": {
+   "CategoryId": 32,
+   "ParentId": 0,
+   "Name": "Integrated Circuits (ICs)",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+   "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2020,
+     "ParentId": 32,
+     "Name": "Memory",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/133/822/MT29F4G-48TSOP_tmb.jpg",
+     "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+     "ChildCategories": [
+      {
+       "CategoryId": 774,
+       "ParentId": 2020,
+       "Name": "Memory",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/014/069/1052%3B-153BGA-1-11.5x13%3B-C%3B-153_B_tmb.jpg",
+       "SeoDescription": "Memory is a semiconductor device that is used as data storage device on an integrated circuit. These devices are available in several formats CBRAM, DRAM, EEPROM, EERAM, EPROM, Flash, FRAM, NVSRAM, PCM (PRAM), PSRAM, RAM, and SRAM in either Non-Volatile or Volatile. These devices memory sizes range from 64 b to 6 Tb with the interface being I2C, MMC, Parallel, eMMC, Serial, Single Wire, SPI, UFS, Xccela Bus, and 1-Wire.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "52",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 30969,
+   "Name": "SpiFlash\u00ae"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "3  (168 Hours)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8542.32.0071"
+  },
+  "OtherNames": [
+   "256-W25Q16JVSSIM"
+  ]
+ }
+]

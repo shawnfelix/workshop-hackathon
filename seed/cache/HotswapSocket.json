@@ -1,0 +1,214 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "SWITCH SKT FOR KAILH CHOC 1=10PC",
+   "DetailedDescription": "Switch Socket"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "5118",
+  "UnitPrice": 2.5,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/5118/14671678",
+  "DatasheetUrl": "https://cdn-shop.adafruit.com/product-files/5118/5118-Choc-Socket.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4845/1528_5118.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-5118-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.5,
+      "TotalPrice": 2.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 247,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 247,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 184,
+    "ParameterText": "Accessory Type",
+    "ParameterType": "String",
+    "ValueId": "496096",
+    "ValueText": "Switch Socket"
+   },
+   {
+    "ParameterId": 47,
+    "ParameterText": "For Use With/Related Products",
+    "ParameterType": "String",
+    "ValueId": "509605",
+    "ValueText": "Kailh Choc"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 192,
+     "ParentId": 15,
+     "Name": "Accessories",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/309/837/505-442_tmb.jpg",
+     "SeoDescription": "Supplementary items used with other devices in this category.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "Unknown",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.69.8000"
+  },
+  "OtherNames": [
+   "1528-5118"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "KAILH SW SKTS FOR MX-COMP 1=20PC",
+   "DetailedDescription": "Switch Socket"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "4958",
+  "UnitPrice": 4.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4958/13997772",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5062/4958_Web.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4845/MFG_1528_4958.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-4958-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 4.95,
+      "TotalPrice": 4.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 138,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 138,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 184,
+    "ParameterText": "Accessory Type",
+    "ParameterType": "String",
+    "ValueId": "496096",
+    "ValueText": "Switch Socket"
+   },
+   {
+    "ParameterId": 47,
+    "ParameterText": "For Use With/Related Products",
+    "ParameterType": "String",
+    "ValueId": "496097",
+    "ValueText": "MX-Compatible Mechanical Keys"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 15,
+   "ParentId": 0,
+   "Name": "Switches",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/274/017/MFG_TL3215_tmb.jpg",
+   "SeoDescription": "Switches are devices used to interrupt the flow of electrical current in one or more circuits, under the direct physical control of some outside mechanism such as a user's finger or thumb, a magnet, or a moving machine component. Organization of sub-groups within the category occurs along lines of the physical style or form of switches' actuators, or a particular application or purpose for which they are designed.",
+   "ChildCategories": [
+    {
+     "CategoryId": 192,
+     "ParentId": 15,
+     "Name": "Accessories",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/309/837/505-442_tmb.jpg",
+     "SeoDescription": "Supplementary items used with other devices in this category.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8536.69.4040"
+  },
+  "OtherNames": [
+   "1528-4958"
+  ]
+ }
+]

@@ -1,0 +1,4 @@
+neo4j-graphrag[openai]
+streamlit
+streamlit-agraph
+python-dotenv

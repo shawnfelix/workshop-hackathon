@@ -1,0 +1,5123 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.197\" (5.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971050244",
+  "UnitPrice": 0.63,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971050244/9488601",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971050244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/918/971050244.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12897-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.63,
+      "TotalPrice": 0.63
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.575,
+      "TotalPrice": 5.75
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.512,
+      "TotalPrice": 25.6
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4494,
+      "TotalPrice": 44.94
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.41705,
+      "TotalPrice": 417.05
+     },
+     {
+      "BreakQuantity": 6000,
+      "UnitPrice": 0.39615,
+      "TotalPrice": 2376.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 39125,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 39125,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "21438",
+    "ValueText": "0.394\" (10.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12897"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 10MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.394\" (10.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971100244",
+  "UnitPrice": 0.61,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971100244/9488622",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971100244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/707/971100244.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12918-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.61,
+      "TotalPrice": 0.61
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.575,
+      "TotalPrice": 5.75
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.512,
+      "TotalPrice": 25.6
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4494,
+      "TotalPrice": 44.94
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.41706,
+      "TotalPrice": 208.53
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.39615,
+      "TotalPrice": 1188.45
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 34047,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 34047,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "21438",
+    "ValueText": "0.394\" (10.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "28168",
+    "ValueText": "0.591\" (15.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12918"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 6MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.236\" (6.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970060244",
+  "UnitPrice": 0.41,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970060244/9488532",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/970060244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/813/970060244.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12828-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.41,
+      "TotalPrice": 0.41
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.38,
+      "TotalPrice": 3.8
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3316,
+      "TotalPrice": 16.58
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2917,
+      "TotalPrice": 29.17
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.27076,
+      "TotalPrice": 135.38
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.2584,
+      "TotalPrice": 1292.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 29128,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 29128,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "15346",
+    "ValueText": "0.236\" (6.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "15346",
+    "ValueText": "0.236\" (6.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65646,
+   "Name": "WA-SBRII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12828"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 12MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.472\" (12.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970120244",
+  "UnitPrice": 0.68,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970120244/9488556",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/970120244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/821/970120244.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12852-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.68,
+      "TotalPrice": 0.68
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.635,
+      "TotalPrice": 6.35
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.5558,
+      "TotalPrice": 27.79
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.48832,
+      "TotalPrice": 122.08
+     },
+     {
+      "BreakQuantity": 1250,
+      "UnitPrice": 0.4541,
+      "TotalPrice": 567.625
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.4313,
+      "TotalPrice": 1078.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 23975,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 23975,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "24264",
+    "ValueText": "0.472\" (12.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "24264",
+    "ValueText": "0.472\" (12.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65646,
+   "Name": "WA-SBRII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12852"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 8MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.315\" (8.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971080244",
+  "UnitPrice": 0.61,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971080244/9488615",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971080244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/828/971080324.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12911-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.61,
+      "TotalPrice": 0.61
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.5748,
+      "TotalPrice": 14.37
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.5121,
+      "TotalPrice": 51.21
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.44936,
+      "TotalPrice": 224.68
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.41705,
+      "TotalPrice": 834.1
+     },
+     {
+      "BreakQuantity": 4000,
+      "UnitPrice": 0.39615,
+      "TotalPrice": 1584.6
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 21995,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 21995,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "18741",
+    "ValueText": "0.315\" (8.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "27105",
+    "ValueText": "0.551\" (14.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7415.39.0000"
+  },
+  "OtherNames": [
+   "732-12911"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.197\" (5.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970050244",
+  "UnitPrice": 0.38,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970050244/9488493",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/970050244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/943/970050244.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12789-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.38,
+      "TotalPrice": 0.38
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.352,
+      "TotalPrice": 3.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3078,
+      "TotalPrice": 15.39
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2698,
+      "TotalPrice": 26.98
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.25176,
+      "TotalPrice": 125.88
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.23845,
+      "TotalPrice": 1192.25
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 16929,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 16929,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65646,
+   "Name": "WA-SBRII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12789"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 10MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.394\" (10.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970100244",
+  "UnitPrice": 0.53,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970100244/9488549",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/970100244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/855/MFG_WA-SSTII-Series-11-24.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12845-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.53,
+      "TotalPrice": 0.53
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.493,
+      "TotalPrice": 4.93
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4314,
+      "TotalPrice": 21.57
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3791,
+      "TotalPrice": 37.91
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.35246,
+      "TotalPrice": 176.23
+     },
+     {
+      "BreakQuantity": 3000,
+      "UnitPrice": 0.33535,
+      "TotalPrice": 1006.05
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 16269,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 2500,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 16269,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "21438",
+    "ValueText": "0.394\" (10.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "21438",
+    "ValueText": "0.394\" (10.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65646,
+   "Name": "WA-SBRII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12845"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 8MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.315\" (8.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970080244",
+  "UnitPrice": 0.62,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970080244/9488540",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/970080244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/884/970080354.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12836-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.62,
+      "TotalPrice": 0.62
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.579,
+      "TotalPrice": 5.79
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.5074,
+      "TotalPrice": 25.37
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4446,
+      "TotalPrice": 44.46
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.41326,
+      "TotalPrice": 206.63
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.3933,
+      "TotalPrice": 1966.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 12871,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 3000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 12871,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "18741",
+    "ValueText": "0.315\" (8.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "18741",
+    "ValueText": "0.315\" (8.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65646,
+   "Name": "WA-SBRII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12836"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 7MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.276\" (7.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971070244",
+  "UnitPrice": 0.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971070244/9488610",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6352/732-971070244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/828/971070244.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12906-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.9,
+      "TotalPrice": 0.9
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.852,
+      "TotalPrice": 8.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.759,
+      "TotalPrice": 37.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.666,
+      "TotalPrice": 66.6
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.6194,
+      "TotalPrice": 309.7
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.58805,
+      "TotalPrice": 588.05
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 8483,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 5000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 8483,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "17026",
+    "ValueText": "0.276\" (7.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "24264",
+    "ValueText": "0.472\" (12.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12906"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 15MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.591\" (15.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971150244",
+  "UnitPrice": 0.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971150244/9488640",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971150244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/930/971130244.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12936-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.9,
+      "TotalPrice": 0.9
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.852,
+      "TotalPrice": 8.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.759,
+      "TotalPrice": 37.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.666,
+      "TotalPrice": 66.6
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.6194,
+      "TotalPrice": 309.7
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.58805,
+      "TotalPrice": 1176.1
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 7144,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 7144,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "28168",
+    "ValueText": "0.591\" (15.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "34945",
+    "ValueText": "0.827\" (21.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12936"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 20MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.787\" (20.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971200244",
+  "UnitPrice": 0.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971200244/9488654",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971200244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/828/971080324.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12950-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.9,
+      "TotalPrice": 0.9
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.852,
+      "TotalPrice": 8.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.759,
+      "TotalPrice": 37.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.666,
+      "TotalPrice": 66.6
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.6194,
+      "TotalPrice": 309.7
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.58805,
+      "TotalPrice": 588.05
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 5583,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 5583,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "33647",
+    "ValueText": "0.787\" (20.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "38279",
+    "ValueText": "0.984\" (25.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12950"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 14MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.551\" (14.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971140244",
+  "UnitPrice": 0.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971140244/9488636",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6156/971yyyyyy.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/828/971080324.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-971140244-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.9,
+      "TotalPrice": 0.9
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.852,
+      "TotalPrice": 8.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.759,
+      "TotalPrice": 37.95
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.66596,
+      "TotalPrice": 166.49
+     },
+     {
+      "BreakQuantity": 1250,
+      "UnitPrice": 0.6194,
+      "TotalPrice": 774.25
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.58805,
+      "TotalPrice": 1470.125
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 4699,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 2500,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 4699,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "27105",
+    "ValueText": "0.551\" (14.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "32527",
+    "ValueText": "0.748\" (19.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12932-ND",
+   "732-12932",
+   "732-971140244"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 25MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.984\" (25.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971250244",
+  "UnitPrice": 0.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971250244/9488663",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971250244.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/730/971250244.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12959-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.9,
+      "TotalPrice": 0.9
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.852,
+      "TotalPrice": 8.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.759,
+      "TotalPrice": 37.95
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.666,
+      "TotalPrice": 66.6
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.6194,
+      "TotalPrice": 309.7
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.58805,
+      "TotalPrice": 588.05
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 3993,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 900,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 3993,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "38279",
+    "ValueText": "0.984\" (25.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "45196",
+    "ValueText": "1.181\" (30.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12959"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2 BRASS 20MM",
+   "DetailedDescription": "Hex Standoff Threaded M2 Brass 0.787\" (20.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970200244",
+  "UnitPrice": 0.86,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970200244/9488579",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6156/970xx0xx4.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/724/MFG_WA-SBRII-Series.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12875-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.86,
+      "TotalPrice": 0.86
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.806,
+      "TotalPrice": 8.06
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.705,
+      "TotalPrice": 35.25
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.61844,
+      "TotalPrice": 154.61
+     },
+     {
+      "BreakQuantity": 1250,
+      "UnitPrice": 0.5757,
+      "TotalPrice": 719.625
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.5472,
+      "TotalPrice": 1368.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 3000,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 2500,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 3000,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370179",
+    "ValueText": "M2"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12146",
+    "ValueText": "0.157\" (4.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "33647",
+    "ValueText": "0.787\" (20.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "33647",
+    "ValueText": "0.787\" (20.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65646,
+   "Name": "WA-SBRII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12875"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 BRASS 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Brass 0.197\" (5.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 123,
+   "Name": "Assmann WSW Components"
+  },
+  "ManufacturerProductNumber": "V6622A",
+  "UnitPrice": 0.35,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/assmann-wsw-components/V6622A/3511496",
+  "DatasheetUrl": "https://www.assmann-wsw.com/uploads/datasheets/ASS_0493_HS.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/360/V6622A.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "AE10795-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.35,
+      "TotalPrice": 0.35
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.286,
+      "TotalPrice": 1.43
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.265,
+      "TotalPrice": 2.65
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2408,
+      "TotalPrice": 6.02
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.2246,
+      "TotalPrice": 11.23
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2104,
+      "TotalPrice": 21.04
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.19388,
+      "TotalPrice": 48.47
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.18296,
+      "TotalPrice": 91.48
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.17318,
+      "TotalPrice": 173.18
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 123,
+     "Name": "Assmann WSW Components"
+    },
+    "QuantityAvailableforPackageType": 40282,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 40282,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "14677",
+    "ValueText": "0.217\" (5.50mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "23044",
+    "ValueText": "0.433\" (11.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "15",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "AE10795"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 BRASS 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Brass 0.197\" (5.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 123,
+   "Name": "Assmann WSW Components"
+  },
+  "ManufacturerProductNumber": "V6516A",
+  "UnitPrice": 0.38,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/assmann-wsw-components/V6516A/3511420",
+  "DatasheetUrl": "http://www.assmann-wsw.com/uploads/datasheets/ASS_0916_HS.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/668/V6516A.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "AE10869-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.38,
+      "TotalPrice": 0.38
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.312,
+      "TotalPrice": 1.56
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.29,
+      "TotalPrice": 2.9
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.2636,
+      "TotalPrice": 6.59
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.2462,
+      "TotalPrice": 12.31
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2306,
+      "TotalPrice": 23.06
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.21264,
+      "TotalPrice": 53.16
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.20074,
+      "TotalPrice": 100.37
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.19011,
+      "TotalPrice": 190.11
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 123,
+     "Name": "Assmann WSW Components"
+    },
+    "QuantityAvailableforPackageType": 36678,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1000,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 36678,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "14677",
+    "ValueText": "0.217\" (5.50mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "15",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "AE10869",
+   "6196-V6516A"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 STEEL 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Steel 0.197\" (5.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971050151",
+  "UnitPrice": 0.39,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971050151/6174599",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971050151.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8302/MFG_971050151.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-10380-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.39,
+      "TotalPrice": 0.39
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3478,
+      "TotalPrice": 17.39
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3192,
+      "TotalPrice": 31.92
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.304,
+      "TotalPrice": 152.0
+     },
+     {
+      "BreakQuantity": 2000,
+      "UnitPrice": 0.27455,
+      "TotalPrice": 549.1
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 25336,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 25336,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "13747",
+    "ValueText": "0.197\" (5.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "23044",
+    "ValueText": "0.433\" (11.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "408172",
+    "ValueText": "Steel"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "423615",
+    "ValueText": "Zinc"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 54712,
+   "Name": "WA-SSTIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7318.19.0000"
+  },
+  "OtherNames": [
+   "732-10380"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 ALUM 8MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Aluminum 0.315\" (8.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 36,
+   "Name": "Keystone Electronics"
+  },
+  "ManufacturerProductNumber": "24422",
+  "UnitPrice": 0.61,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/keystone-electronics/24422/1532933",
+  "DatasheetUrl": "https://www.keyelco.com/userAssets/file/K75p87.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/407/MFG_244xy.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "36-24422-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.61,
+      "TotalPrice": 0.61
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.459,
+      "TotalPrice": 4.59
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4108,
+      "TotalPrice": 10.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3483,
+      "TotalPrice": 34.83
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.28934,
+      "TotalPrice": 144.67
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.26775,
+      "TotalPrice": 267.75
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.24225,
+      "TotalPrice": 605.625
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.23439,
+      "TotalPrice": 1171.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 36,
+     "Name": "Keystone Electronics"
+    },
+    "QuantityAvailableforPackageType": 22880,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 100,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 22880,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12941",
+    "ValueText": "0.177\" (4.50mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "18741",
+    "ValueText": "0.315\" (8.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "18741",
+    "ValueText": "0.315\" (8.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "312981",
+    "ValueText": "Aluminum"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "360387",
+    "ValueText": "Iridite"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "11",
+  "ManufacturerPublicQuantity": 1200,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7616.99.5190"
+  },
+  "OtherNames": [
+   "5551-24422",
+   "36-24422",
+   "24422K",
+   "24422K-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5 BRASS 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5 Brass 0.197\" (5.00mm) Silver"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971050154",
+  "UnitPrice": 0.38,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971050154/9488600",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971050154.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/828/971080324.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-12896-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.38,
+      "TotalPrice": 0.38
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.352,
+      "TotalPrice": 3.52
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3136,
+      "TotalPrice": 15.68
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.2736,
+      "TotalPrice": 27.36
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.25556,
+      "TotalPrice": 127.78
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.2413,
+      "TotalPrice": 1206.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 20579,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 20579,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370197",
+    "ValueText": "M2.5"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "13747",
+    "ValueText": "0.197\" (5.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "23044",
+    "ValueText": "0.433\" (11.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "402831",
+    "ValueText": "Silver"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 65645,
+   "Name": "WA-SBRIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "732-12896"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 ALUM 6MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Aluminum 0.236\" (6.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 1772,
+   "Name": "RAF Electronic Hardware"
+  },
+  "ManufacturerProductNumber": "M2101-2545-AL",
+  "UnitPrice": 0.63,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/raf-electronic-hardware/M2101-2545-AL/7681346",
+  "DatasheetUrl": "http://dpk3n3gg92jwt.cloudfront.net/domains/raf/pdf/RAF%20Catalog.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/38/M2101-2545-AL.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1772-1935-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.63,
+      "TotalPrice": 0.63
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.524,
+      "TotalPrice": 2.62
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.487,
+      "TotalPrice": 4.87
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4436,
+      "TotalPrice": 11.09
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4154,
+      "TotalPrice": 20.77
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3903,
+      "TotalPrice": 39.03
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.36104,
+      "TotalPrice": 90.26
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.34164,
+      "TotalPrice": 170.82
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.32428,
+      "TotalPrice": 324.28
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1772,
+     "Name": "RAF Electronic Hardware"
+    },
+    "QuantityAvailableforPackageType": 18895,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 18895,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12941",
+    "ValueText": "0.177\" (4.50mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "15346",
+    "ValueText": "0.236\" (6.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "21425",
+    "ValueText": "0.393\" (9.98mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "312981",
+    "ValueText": "Aluminum"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 544765,
+   "Name": "M2101"
+  },
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "5",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7616.99.5190"
+  },
+  "OtherNames": [
+   "1772-1935"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 STL 22MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Steel 0.866\" (22.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970220151",
+  "UnitPrice": 0.58,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970220151/6174823",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/970220151.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/855/MFG_WA-SSTII-Series-11-24.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-10603-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.58,
+      "TotalPrice": 0.58
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.5216,
+      "TotalPrice": 26.08
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4817,
+      "TotalPrice": 48.17
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.44176,
+      "TotalPrice": 220.88
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.361,
+      "TotalPrice": 361.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 14744,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 14744,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "13747",
+    "ValueText": "0.197\" (5.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "35710",
+    "ValueText": "0.866\" (22.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "35710",
+    "ValueText": "0.866\" (22.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "408172",
+    "ValueText": "Steel"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "423615",
+    "ValueText": "Zinc"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 54711,
+   "Name": "WA-SSTII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7318.19.0000"
+  },
+  "OtherNames": [
+   "732-10603"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 STL 12MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Steel 0.472\" (12.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "971120151",
+  "UnitPrice": 0.54,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/971120151/6174624",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/971120151.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8527/971120151.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-10405-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.54,
+      "TotalPrice": 0.54
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.4816,
+      "TotalPrice": 24.08
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.4418,
+      "TotalPrice": 44.18
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.42086,
+      "TotalPrice": 210.43
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.38095,
+      "TotalPrice": 952.375
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 13804,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 13804,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "13747",
+    "ValueText": "0.197\" (5.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "24264",
+    "ValueText": "0.472\" (12.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "31769",
+    "ValueText": "0.709\" (18.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "408172",
+    "ValueText": "Steel"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "423615",
+    "ValueText": "Zinc"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 54712,
+   "Name": "WA-SSTIE"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7318.19.0000"
+  },
+  "OtherNames": [
+   "732-10405"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 STL 11MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Steel 0.433\" (11.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 732,
+   "Name": "W\u00fcrth Elektronik"
+  },
+  "ManufacturerProductNumber": "970110151",
+  "UnitPrice": 0.42,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/w\u00fcrth-elektronik/970110151/6174769",
+  "DatasheetUrl": "https://www.we-online.com/components/products/datasheet/970110151.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/855/MFG_WA-SSTII-Series-11-24.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "732-10549-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.42,
+      "TotalPrice": 0.42
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.3772,
+      "TotalPrice": 18.86
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3477,
+      "TotalPrice": 34.77
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.3192,
+      "TotalPrice": 159.6
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.2603,
+      "TotalPrice": 260.3
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 732,
+     "Name": "W\u00fcrth Elektronik"
+    },
+    "QuantityAvailableforPackageType": 13494,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 13494,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "13747",
+    "ValueText": "0.197\" (5.00mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "23044",
+    "ValueText": "0.433\" (11.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "23044",
+    "ValueText": "0.433\" (11.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "408172",
+    "ValueText": "Steel"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "423615",
+    "ValueText": "Zinc"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "26",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 54711,
+   "Name": "WA-SSTII"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Affected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7318.19.0000"
+  },
+  "OtherNames": [
+   "732-10549"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 ALUM 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Aluminum 0.197\" (5.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 1772,
+   "Name": "RAF Electronic Hardware"
+  },
+  "ManufacturerProductNumber": "M2100-2545-AL",
+  "UnitPrice": 0.62,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/raf-electronic-hardware/M2100-2545-AL/7681488",
+  "DatasheetUrl": "https://dpk3n3gg92jwt.cloudfront.net/domains/raf/pdf/RAF_catalog_0318.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/38/M2100-2545-xx.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1772-2077-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.62,
+      "TotalPrice": 0.62
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 0.516,
+      "TotalPrice": 2.58
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.479,
+      "TotalPrice": 4.79
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4368,
+      "TotalPrice": 10.92
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 0.409,
+      "TotalPrice": 20.45
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3841,
+      "TotalPrice": 38.41
+     },
+     {
+      "BreakQuantity": 250,
+      "UnitPrice": 0.35532,
+      "TotalPrice": 88.83
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.3362,
+      "TotalPrice": 168.1
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.3191,
+      "TotalPrice": 319.1
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1772,
+     "Name": "RAF Electronic Hardware"
+    },
+    "QuantityAvailableforPackageType": 13083,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 13083,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "371405",
+    "ValueText": "Male, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12941",
+    "ValueText": "0.177\" (4.50mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "20016",
+    "ValueText": "0.353\" (8.97mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "312981",
+    "ValueText": "Aluminum"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 544764,
+   "Name": "M2100"
+  },
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "5",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7616.99.5190"
+  },
+  "OtherNames": [
+   "1772-2077"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "HEX STANDOFF M2.5X0.45 BRASS 5MM",
+   "DetailedDescription": "Hex Standoff Threaded M2.5x0.45 Brass 0.197\" (5.00mm)"
+  },
+  "Manufacturer": {
+   "Id": 36,
+   "Name": "Keystone Electronics"
+  },
+  "ManufacturerProductNumber": "24380",
+  "UnitPrice": 0.61,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/keystone-electronics/24380/1532918",
+  "DatasheetUrl": "https://www.keyelco.com/userAssets/file/K75p87.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/407/MFG_243xy.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "36-24380-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 0.61,
+      "TotalPrice": 0.61
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 0.459,
+      "TotalPrice": 4.59
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 0.4108,
+      "TotalPrice": 10.27
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 0.3483,
+      "TotalPrice": 34.83
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 0.33,
+      "TotalPrice": 165.0
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 0.26775,
+      "TotalPrice": 267.75
+     },
+     {
+      "BreakQuantity": 2500,
+      "UnitPrice": 0.24225,
+      "TotalPrice": 605.625
+     },
+     {
+      "BreakQuantity": 5000,
+      "UnitPrice": 0.22503,
+      "TotalPrice": 1125.15
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 36,
+     "Name": "Keystone Electronics"
+    },
+    "QuantityAvailableforPackageType": 12635,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 100,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 12635,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "354421",
+    "ValueText": "Hex Standoff"
+   },
+   {
+    "ParameterId": 1678,
+    "ParameterText": "Threaded/Unthreaded",
+    "ParameterType": "String",
+    "ValueId": "411801",
+    "ValueText": "Threaded"
+   },
+   {
+    "ParameterId": 29,
+    "ParameterText": "Gender",
+    "ParameterType": "String",
+    "ValueId": "346632",
+    "ValueText": "Female, Female"
+   },
+   {
+    "ParameterId": 1839,
+    "ParameterText": "Screw, Thread Size",
+    "ParameterType": "String",
+    "ValueId": "370206",
+    "ValueText": "M2.5x0.45"
+   },
+   {
+    "ParameterId": 775,
+    "ParameterText": "Diameter - Inside",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 750,
+    "ParameterText": "Diameter - Outside",
+    "ParameterType": "String",
+    "ValueId": "12941",
+    "ValueText": "0.177\" (4.50mm) Hex"
+   },
+   {
+    "ParameterId": 741,
+    "ParameterText": "Between Board Height",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 577,
+    "ParameterText": "Length - Overall",
+    "ParameterType": "String",
+    "ValueId": "13741",
+    "ValueText": "0.197\" (5.00mm)"
+   },
+   {
+    "ParameterId": 5,
+    "ParameterText": "Features",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 70,
+    "ParameterText": "Material",
+    "ParameterType": "String",
+    "ValueId": "322862",
+    "ValueText": "Brass"
+   },
+   {
+    "ParameterId": 698,
+    "ParameterText": "Plating",
+    "ParameterType": "String",
+    "ValueId": "380059",
+    "ValueText": "Nickel"
+   },
+   {
+    "ParameterId": 37,
+    "ParameterText": "Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 26,
+   "ParentId": 0,
+   "Name": "Hardware, Fasteners, Accessories",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/016/062/MFG_MR13-SS-ES_tmb.jpg",
+   "SeoDescription": "Hardware, fastener, and accessory products include items used for the mechanical assembly of electronic products, systems, and their enclosures. Examples include circuit board standoffs and spacers, rubber mounting feet, DIN rail channel, knobs, hinges, rivets, inch and metric-thread bolts, screws, & nuts, washers, shock and vibration dampening materials, hole plugs, rivets, and more.",
+   "ChildCategories": [
+    {
+     "CategoryId": 582,
+     "ParentId": 26,
+     "Name": "Board Spacers, Standoffs",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/308/CBMFTS205A_tmb.jpg",
+     "SeoDescription": "Board spacers and standoffs provide precise positioning and fastening of two objects designed to be a specific distance apart for insulation, connection or structural purposes. These devices are selected by material such as aluminum, brass, acetal, ceramic, copper, CPVC, iron, plastic, nylon, stainless steel, steatite, steel, or rubber and by shape such as hex or round.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "11",
+  "ManufacturerPublicQuantity": 12400,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "7419.80.5050"
+  },
+  "OtherNames": [
+   "36-24380",
+   "24380K",
+   "24380K-ND"
+  ]
+ }
+]

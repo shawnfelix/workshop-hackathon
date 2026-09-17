@@ -1,0 +1,3506 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT SMD TAB",
+   "DetailedDescription": "Rotary Encoder Mechanical 15 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11S-9213K-S0015",
+  "UnitPrice": 3.64,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11S-9213K-S0015/3780156",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11S.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/532/PEC11S-929K-S0015.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11S-9213K-S0015-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.64,
+      "TotalPrice": 3.64
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 3.126,
+      "TotalPrice": 15.63
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.927,
+      "TotalPrice": 29.27
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.684,
+      "TotalPrice": 67.1
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 2.5134,
+      "TotalPrice": 125.67
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 2.3532,
+      "TotalPrice": 235.32
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 2.11903,
+      "TotalPrice": 635.709
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 2.01774,
+      "TotalPrice": 1008.87
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.88742,
+      "TotalPrice": 1887.42
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 15812,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 15812,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "97513",
+    "ValueText": "15"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266918",
+    "ValueText": "6mm Dia Knurled End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "404185",
+    "ValueText": "SMD (SMT) Tab"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "103056",
+    "ValueText": "15K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121314,
+   "Name": "PEC11S"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "18",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 35259,
+   "Name": "PEC11S"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4215F-S0024",
+  "UnitPrice": 2.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215F-S0024/4499665",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/500/PEC11R-4215F-S0024.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4215F-S0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.95,
+      "TotalPrice": 2.95
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.536,
+      "TotalPrice": 12.68
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.375,
+      "TotalPrice": 23.75
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.178,
+      "TotalPrice": 54.45
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.96267,
+      "TotalPrice": 147.20025
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.83747,
+      "TotalPrice": 275.6205
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.71987,
+      "TotalPrice": 515.961
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.6301,
+      "TotalPrice": 855.8025
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.5249,
+      "TotalPrice": 1601.145
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 13823,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 13823,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "2266-PEC11R-4215F-S0024-118"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT SMD TAB",
+   "DetailedDescription": "Rotary Encoder Mechanical 15 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11S-929F-S0015",
+  "UnitPrice": 3.64,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11S-929F-S0015/4699246",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11S.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/532/PEC11S-929K-S0015.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "118-PEC11S-929F-S0015-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.64,
+      "TotalPrice": 3.64
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 3.126,
+      "TotalPrice": 15.63
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.927,
+      "TotalPrice": 29.27
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.684,
+      "TotalPrice": 67.1
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 2.5134,
+      "TotalPrice": 125.67
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 2.3532,
+      "TotalPrice": 235.32
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 2.11903,
+      "TotalPrice": 635.709
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 2.01774,
+      "TotalPrice": 1008.87
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.88742,
+      "TotalPrice": 1887.42
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 8666,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 100,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 8666,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "97513",
+    "ValueText": "15"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "404185",
+    "ValueText": "SMD (SMT) Tab"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "103056",
+    "ValueText": "15K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121314,
+   "Name": "PEC11S"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "18",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 35259,
+   "Name": "PEC11S"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "118-PEC11S-929F-S0015",
+   "PEC11S-929F-S0015-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER INCREM QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Incremental 24 Quadrature, 2-Bit Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4220K-S0024",
+  "UnitPrice": 2.91,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220K-S0024/6164059",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2191/PEC11R-4220K-S0024.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4220K-S0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.91,
+      "TotalPrice": 2.91
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.494,
+      "TotalPrice": 12.47
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.336,
+      "TotalPrice": 23.36
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.1424,
+      "TotalPrice": 53.56
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.9304,
+      "TotalPrice": 144.78
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.80727,
+      "TotalPrice": 271.0905
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.69163,
+      "TotalPrice": 507.489
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.60333,
+      "TotalPrice": 841.74825
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.49989,
+      "TotalPrice": 1574.8845
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 5684,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 75,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 5684,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "358519",
+    "ValueText": "Incremental"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391449",
+    "ValueText": "Quadrature, 2-Bit"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266918",
+    "ValueText": "6mm Dia Knurled End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "385070",
+    "ValueText": "PCB, Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "2266-PEC11R-4220K-S0024"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 12 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4215K-S0012",
+  "UnitPrice": 3.09,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215K-S0012/4499639",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/410/PEC11R-4215K-S00xx.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4215K-S0012-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.09,
+      "TotalPrice": 3.09
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.656,
+      "TotalPrice": 13.28
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.487,
+      "TotalPrice": 24.87
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.2804,
+      "TotalPrice": 57.01
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 2.05493,
+      "TotalPrice": 154.11975
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.9238,
+      "TotalPrice": 288.57
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.8007,
+      "TotalPrice": 540.21
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.7067,
+      "TotalPrice": 896.0175
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.59658,
+      "TotalPrice": 1676.409
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 5330,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 5330,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "80383",
+    "ValueText": "12"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266918",
+    "ValueText": "6mm Dia Knurled End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4215F-N0024",
+  "UnitPrice": 2.53,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215F-N0024/4499663",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/517/PEC11R-4215F-N0024.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4215F-N0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.53,
+      "TotalPrice": 2.53
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.174,
+      "TotalPrice": 10.87
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.036,
+      "TotalPrice": 20.36
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.8668,
+      "TotalPrice": 46.67
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.68227,
+      "TotalPrice": 126.17025
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.57507,
+      "TotalPrice": 236.2605
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.47437,
+      "TotalPrice": 442.311
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.39754,
+      "TotalPrice": 733.7085
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.3075,
+      "TotalPrice": 1372.875
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 5167,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 5167,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "2266-PEC11R-4215F-N0024",
+   "6196-PEC11R-4215F-N0024"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4220F-S0024",
+  "UnitPrice": 2.69,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220F-S0024/4499660",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/410/PEC11R-4220F-S00xx.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4220F-S0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.69,
+      "TotalPrice": 2.69
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.312,
+      "TotalPrice": 11.56
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.165,
+      "TotalPrice": 21.65
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.9852,
+      "TotalPrice": 49.63
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.78893,
+      "TotalPrice": 134.16975
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.67493,
+      "TotalPrice": 251.2395
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.56777,
+      "TotalPrice": 470.331
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.48598,
+      "TotalPrice": 780.1395
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.39016,
+      "TotalPrice": 1459.668
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 5021,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 5021,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT SMD TAB",
+   "DetailedDescription": "Rotary Encoder Mechanical 15 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11S-929K-S0015",
+  "UnitPrice": 3.64,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11S-929K-S0015/3534254",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11S.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/532/PEC11S-929K-S0015.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11S-929K-S0015-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.64,
+      "TotalPrice": 3.64
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 3.126,
+      "TotalPrice": 15.63
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.927,
+      "TotalPrice": 29.27
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.684,
+      "TotalPrice": 67.1
+     },
+     {
+      "BreakQuantity": 50,
+      "UnitPrice": 2.5134,
+      "TotalPrice": 125.67
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 2.3532,
+      "TotalPrice": 235.32
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 2.11903,
+      "TotalPrice": 635.709
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 2.01774,
+      "TotalPrice": 1008.87
+     },
+     {
+      "BreakQuantity": 1000,
+      "UnitPrice": 1.88742,
+      "TotalPrice": 1887.42
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 4091,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 100,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 4091,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "97513",
+    "ValueText": "15"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266918",
+    "ValueText": "6mm Dia Knurled End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "409393",
+    "ValueText": "Surface Mount"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "404185",
+    "ValueText": "SMD (SMT) Tab"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "103056",
+    "ValueText": "15K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121314,
+   "Name": "PEC11S"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "18",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 35259,
+   "Name": "PEC11S"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "PEC11S929KS0015"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4215K-N0024",
+  "UnitPrice": 2.83,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215K-N0024/4699218",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/735/PEC11R-4215K-N0024.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4215K-N0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.83,
+      "TotalPrice": 2.83
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.432,
+      "TotalPrice": 12.16
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.277,
+      "TotalPrice": 22.77
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.0884,
+      "TotalPrice": 52.21
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.88173,
+      "TotalPrice": 141.12975
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.76167,
+      "TotalPrice": 264.2505
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.64897,
+      "TotalPrice": 494.691
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.56291,
+      "TotalPrice": 820.52775
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.4621,
+      "TotalPrice": 1535.205
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 3448,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 75,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 3448,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266918",
+    "ValueText": "6mm Dia Knurled End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "2266-PEC11R-4215K-N0024"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 18 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4115F-S0018",
+  "UnitPrice": 3.46,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4115F-S0018/4499666",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/410/PEC11R-4115F-S0018.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4115F-S0018-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.46,
+      "TotalPrice": 3.46
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.974,
+      "TotalPrice": 14.87
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.784,
+      "TotalPrice": 27.84
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.5532,
+      "TotalPrice": 63.83
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 2.30053,
+      "TotalPrice": 172.53975
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 2.15373,
+      "TotalPrice": 323.0595
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 2.01577,
+      "TotalPrice": 604.731
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.91048,
+      "TotalPrice": 1003.002
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.78709,
+      "TotalPrice": 1876.4445
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 3307,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 3307,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "112644",
+    "ValueText": "18"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 20 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11L-4115F-S0020",
+  "UnitPrice": 3.22,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11L-4115F-S0020/4699168",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11L.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1173/PEC11L-4120F-S0020.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11L-4115F-S0020-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 3.22,
+      "TotalPrice": 3.22
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.764,
+      "TotalPrice": 13.82
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.589,
+      "TotalPrice": 25.89
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.3744,
+      "TotalPrice": 59.36
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 2.13933,
+      "TotalPrice": 160.44975
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 2.00287,
+      "TotalPrice": 300.4305
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.87463,
+      "TotalPrice": 562.389
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.77676,
+      "TotalPrice": 932.799
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.66208,
+      "TotalPrice": 1745.184
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 3235,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 75,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 3235,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "137796",
+    "ValueText": "20"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "68697",
+    "ValueText": "100K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121312,
+   "Name": "PEC11L"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 26350,
+   "Name": "PEC11"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4015K-N0024",
+  "UnitPrice": 2.09,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4015K-N0024/4699186",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/735/PEC11R-4215K-N0024.JPG",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4015K-N0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.09,
+      "TotalPrice": 2.09
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 1.794,
+      "TotalPrice": 8.97
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 1.681,
+      "TotalPrice": 16.81
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.5412,
+      "TotalPrice": 38.53
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.38907,
+      "TotalPrice": 104.18025
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.3006,
+      "TotalPrice": 195.09
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.21753,
+      "TotalPrice": 365.259
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.15415,
+      "TotalPrice": 605.92875
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.0799,
+      "TotalPrice": 1133.895
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 2835,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 75,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2835,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266918",
+    "ValueText": "6mm Dia Knurled End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4020F-S0024",
+  "UnitPrice": 2.64,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4020F-S0024/4499667",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/410/PEC11R-4020F-S00xx.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4020F-S0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.64,
+      "TotalPrice": 2.64
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.262,
+      "TotalPrice": 11.31
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.119,
+      "TotalPrice": 21.19
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 1.9428,
+      "TotalPrice": 48.57
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.75067,
+      "TotalPrice": 131.30025
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.639,
+      "TotalPrice": 245.85
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.5342,
+      "TotalPrice": 460.26
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.45417,
+      "TotalPrice": 763.43925
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.36042,
+      "TotalPrice": 1428.441
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 2757,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 75,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2757,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "6196-PEC11R-4020F-S0024"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4015F-S0024",
+  "UnitPrice": 2.85,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4015F-S0024/4499668",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/929/PEC11R-4015F-S0024.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4015F-S0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.85,
+      "TotalPrice": 2.85
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.442,
+      "TotalPrice": 12.21
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.288,
+      "TotalPrice": 22.88
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.0976,
+      "TotalPrice": 52.44
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.89013,
+      "TotalPrice": 141.75975
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.7696,
+      "TotalPrice": 265.44
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.65637,
+      "TotalPrice": 496.911
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.56998,
+      "TotalPrice": 824.2395
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.46875,
+      "TotalPrice": 1542.1875
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 2625,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2625,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4230F-N0024",
+  "UnitPrice": 2.8,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4230F-N0024/4699229",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/410/PEC11R-4230F-S0012.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4230F-N0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.8,
+      "TotalPrice": 2.8
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.402,
+      "TotalPrice": 12.01
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.249,
+      "TotalPrice": 22.49
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.0624,
+      "TotalPrice": 51.56
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.85827,
+      "TotalPrice": 139.37025
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.73973,
+      "TotalPrice": 260.9595
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.62843,
+      "TotalPrice": 488.529
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.54347,
+      "TotalPrice": 810.32175
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.44391,
+      "TotalPrice": 1516.1055
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 2142,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2142,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266916",
+    "ValueText": "6mm Dia Flatted End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "380240",
+    "ValueText": "No"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": []
+ },
+ {
+  "Description": {
+   "ProductDescription": "ENCODER MECH QUAD VERT PC PIN",
+   "DetailedDescription": "Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical"
+  },
+  "Manufacturer": {
+   "Id": 118,
+   "Name": "Bourns Inc."
+  },
+  "ManufacturerProductNumber": "PEC11R-4215K-S0024",
+  "UnitPrice": 2.97,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215K-S0024/4499662",
+  "DatasheetUrl": "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/410/PEC11R-4215K-S00xx.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "PEC11R-4215K-S0024-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 2.97,
+      "TotalPrice": 2.97
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 2.548,
+      "TotalPrice": 12.74
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 2.387,
+      "TotalPrice": 23.87
+     },
+     {
+      "BreakQuantity": 25,
+      "UnitPrice": 2.1884,
+      "TotalPrice": 54.71
+     },
+     {
+      "BreakQuantity": 75,
+      "UnitPrice": 1.97213,
+      "TotalPrice": 147.90975
+     },
+     {
+      "BreakQuantity": 150,
+      "UnitPrice": 1.84633,
+      "TotalPrice": 276.9495
+     },
+     {
+      "BreakQuantity": 300,
+      "UnitPrice": 1.72817,
+      "TotalPrice": 518.451
+     },
+     {
+      "BreakQuantity": 525,
+      "UnitPrice": 1.638,
+      "TotalPrice": 859.95
+     },
+     {
+      "BreakQuantity": 1050,
+      "UnitPrice": 1.53234,
+      "TotalPrice": 1608.957
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 118,
+     "Name": "Bourns Inc."
+    },
+    "QuantityAvailableforPackageType": 2074,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2074,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6307372843112",
+  "Parameters": [
+   {
+    "ParameterId": 2697,
+    "ParameterText": "DigiKey Programmable",
+    "ParameterType": "String",
+    "ValueId": "750491",
+    "ValueText": "Not Verified"
+   },
+   {
+    "ParameterId": 393,
+    "ParameterText": "Encoder Type",
+    "ParameterType": "String",
+    "ValueId": "374659",
+    "ValueText": "Mechanical"
+   },
+   {
+    "ParameterId": 41,
+    "ParameterText": "Output Type",
+    "ParameterType": "String",
+    "ValueId": "391445",
+    "ValueText": "Quadrature (Incremental)"
+   },
+   {
+    "ParameterId": 395,
+    "ParameterText": "Pulses per Revolution",
+    "ParameterType": "String",
+    "ValueId": "151929",
+    "ValueText": "24"
+   },
+   {
+    "ParameterId": 276,
+    "ParameterText": "Voltage - Supply",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 545,
+    "ParameterText": "Actuator Type",
+    "ParameterType": "String",
+    "ValueId": "266918",
+    "ValueText": "6mm Dia Knurled End"
+   },
+   {
+    "ParameterId": 394,
+    "ParameterText": "Detent",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 896,
+    "ParameterText": "Built in Switch",
+    "ParameterType": "String",
+    "ValueId": "423329",
+    "ValueText": "Yes"
+   },
+   {
+    "ParameterId": 69,
+    "ParameterText": "Mounting Type",
+    "ParameterType": "String",
+    "ValueId": "383835",
+    "ValueText": "Panel, PCB Through Hole"
+   },
+   {
+    "ParameterId": 208,
+    "ParameterText": "Orientation",
+    "ParameterType": "String",
+    "ValueId": "419539",
+    "ValueText": "Vertical"
+   },
+   {
+    "ParameterId": 258,
+    "ParameterText": "Termination Style",
+    "ParameterType": "String",
+    "ValueId": "384842",
+    "ValueText": "PC Pin"
+   },
+   {
+    "ParameterId": 897,
+    "ParameterText": "Rotational Life (Cycles Min)",
+    "ParameterType": "String",
+    "ValueId": "184001",
+    "ValueText": "30K"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 121313,
+   "Name": "PEC11R"
+  },
+  "Category": {
+   "CategoryId": 25,
+   "ParentId": 0,
+   "Name": "Sensors, Transducers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/103/177/MFG_TE-M32Mx-A11x_side_tmb%2864x64%29.jpg",
+   "SeoDescription": "Sensor and transducer products facilitate the measurement or detection of physical processes and phenomena, often though not always by transforming them into an electrical signal of some format. Among others, products are available for the measurement of color, fluid level or flow, gas concentration, image detection, magnetic field, linear acceleration or rotation, vibration, light intensity, object presence, distance, temperature, mechanical strain, and others.",
+   "ChildCategories": [
+    {
+     "CategoryId": 507,
+     "ParentId": 25,
+     "Name": "Encoders",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/825/283/AMT102-V_tmb%2864x64%29.jpg",
+     "SeoDescription": "Encoders are devices that are designed to translate motion or position changes into electrical signals. By tracking the motion either optically, mechanically or by changing magnetic fields, encoders can output electrical signals either in code such as by binary, octal, hexadecimal or grey code or by changing output signals such as frequency or differential voltage. With a range of supply voltages, mounting types, output resolution per revolution and actuators, encoders can fill a range of applications.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "16",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 42339,
+   "Name": "PEC11R"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8543.70.4500"
+  },
+  "OtherNames": [
+   "2266-PEC11R-4215K-S0024-118"
+  ]
+ }
+]

@@ -1,0 +1,3266 @@
+[
+ {
+  "Description": {
+   "ProductDescription": "I2C OLED DISPLAY STEMMA QWIIC",
+   "DetailedDescription": "SSD1306 OLED 0.91\" Display Qwiic, STEMMA QT Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "4440",
+  "UnitPrice": 12.5,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4440/10824271",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/199/4440_Web.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/424/4440.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-4440-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 12.5,
+      "TotalPrice": 12.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 234,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 234,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "426603",
+    "ValueText": "Qwiic, STEMMA QT"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "339472",
+    "ValueText": "Display"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "381749",
+    "ValueText": "OLED 0.91\""
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "407374",
+    "ValueText": "SSD1306"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321774",
+    "ValueText": "Board(s), Header(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 715207,
+   "Name": "SSD1306"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8473.30.1180"
+  },
+  "OtherNames": [
+   "1528-4440"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED WHITE 0.91\"",
+   "DetailedDescription": "Graphic LCD Display Module White OLED - Passive Matrix I2C 0.91\" (23.11mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 1738,
+   "Name": "DFRobot"
+  },
+  "ManufacturerProductNumber": "DFR0648",
+  "UnitPrice": 9.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/dfrobot/DFR0648/12324932",
+  "DatasheetUrl": "https://raw.githubusercontent.com/DFRobot/Wiki/master/DFR0648/SSD1306-1.5.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/431/MFG_DFR0648.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1738-DFR0648-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 9.9,
+      "TotalPrice": 9.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1738,
+     "Name": "DFRobot"
+    },
+    "QuantityAvailableforPackageType": 90,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 90,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "37094",
+    "ValueText": "0.91\" (23.11mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "458934",
+    "ValueText": "22.38mm W x 5.85mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "356918",
+    "ValueText": "I2C"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "407374",
+    "ValueText": "SSD1306"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1738-DFR0648"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "SPARKFUN QWIIC OLED DISPLAY (0.9",
+   "DetailedDescription": "SSD1306 OLED 0.91\" Display Qwiic Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1568,
+   "Name": "SparkFun Electronics"
+  },
+  "ManufacturerProductNumber": "24606",
+  "UnitPrice": 10.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/sparkfun-electronics/24606/22606869",
+  "DatasheetUrl": "",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6253/MFG_LCD-24606.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1568-24606-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 10.95,
+      "TotalPrice": 10.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1568,
+     "Name": "SparkFun Electronics"
+    },
+    "QuantityAvailableforPackageType": 58,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 58,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "391656",
+    "ValueText": "Qwiic"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "339472",
+    "ValueText": "Display"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "381749",
+    "ValueText": "OLED 0.91\""
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "407374",
+    "ValueText": "SSD1306"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "Unknown",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8531.20.0040"
+  },
+  "OtherNames": [
+   "LCD-24606",
+   "1568-LCD-24606",
+   "1568-24606",
+   "1568-LCD-24606-ND"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED WHITE 0.91\"",
+   "DetailedDescription": "Graphic LCD Display Module White OLED - Passive Matrix I2C 0.91\" (23.11mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 1738,
+   "Name": "DFRobot"
+  },
+  "ManufacturerProductNumber": "DFR0647",
+  "UnitPrice": 9.9,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/dfrobot/DFR0647/12324928",
+  "DatasheetUrl": "https://raw.githubusercontent.com/DFRobot/Wiki/master/DFR0647/SSD1306-1.5.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/431/MFG_DFR0647.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1738-DFR0647-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 9.9,
+      "TotalPrice": 9.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1738,
+     "Name": "DFRobot"
+    },
+    "QuantityAvailableforPackageType": 18,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 18,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "37094",
+    "ValueText": "0.91\" (23.11mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "458934",
+    "ValueText": "22.38mm W x 5.85mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "356918",
+    "ValueText": "I2C"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "407374",
+    "ValueText": "SSD1306"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "9",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1738-DFR0647"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED WHITE 0.91\"",
+   "DetailedDescription": "Non-Touch Graphic LCD Display Module White OLED - Passive Matrix SPI 0.91\" (23.11mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 3190,
+   "Name": "DLC Display Co.,Ltd"
+  },
+  "ManufacturerProductNumber": "DLC0091CNOG-W-1",
+  "UnitPrice": 18.69,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/dlc-display-co-ltd/DLC0091CNOG-W-1/13624803",
+  "DatasheetUrl": "https://www.dlcdisplay.com/viewfilebizce/1985908100034764800/DLC0091CNOG-W-1%20SPEC.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4141/MFG_DLC0091CNOG-W-1.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "3190-DLC0091CNOG-W-1-ND",
+    "PackageType": {
+     "Id": 61,
+     "Name": "Box"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 18.69,
+      "TotalPrice": 18.69
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 14.747,
+      "TotalPrice": 147.47
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 12.4565,
+      "TotalPrice": 1245.65
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 11.46256,
+      "TotalPrice": 5731.28
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 3190,
+     "Name": "DLC Display Co.,Ltd"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1080,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "380457",
+    "ValueText": "Non-Touch"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "37094",
+    "ValueText": "0.91\" (23.11mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "152618",
+    "ValueText": "24.38mm W x 7.58mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "406106",
+    "ValueText": "SPI"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "407374",
+    "ValueText": "SSD1306"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "10",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "RoHS Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.91.9000"
+  },
+  "OtherNames": [
+   "3190-DLC0091CNOG-W-1"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED BLUE 2.23\"",
+   "DetailedDescription": "Graphic LCD Display Module Blue OLED - Passive Matrix I2C, Parallel, Serial 2.23\" (56.64mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 757,
+   "Name": "Newhaven Display Intl"
+  },
+  "ManufacturerProductNumber": "NHD-2.23-12832UCB3",
+  "UnitPrice": 31.0,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-2-23-12832UCB3/2640780",
+  "DatasheetUrl": "https://newhavendisplay.com/content/specs/NHD-2.23-12832UCB3.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4135/MFG_NHD-2.23-12832UCB3.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "NHD-2.23-12832UCB3-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 31.0,
+      "TotalPrice": 31.0
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 29.14,
+      "TotalPrice": 145.7
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 28.288,
+      "TotalPrice": 282.88
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 757,
+     "Name": "Newhaven Display Intl"
+    },
+    "QuantityAvailableforPackageType": 1317,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1317,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "125878",
+    "ValueText": "2.23\" (56.64mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "255237",
+    "ValueText": "60.00mm W x 18.00mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "421756",
+    "ValueText": "Without Backlight"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "797905",
+    "ValueText": "I2C, Parallel, Serial"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "445515",
+    "ValueText": "SSD1305"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "319929",
+    "ValueText": "Black"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 328333,
+   "Name": "NHD-2.23"
+  },
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "18",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "Q7416804",
+   "NHD22312832UCB3"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED YELLOW 2.23",
+   "DetailedDescription": "Graphic LCD Display Module Yellow OLED - Passive Matrix I2C, Parallel 8-Bit, SPI 2.23\" (56.64mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 757,
+   "Name": "Newhaven Display Intl"
+  },
+  "ManufacturerProductNumber": "NHD-2.23-12832UCY3",
+  "UnitPrice": 31.0,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-2-23-12832UCY3/2640781",
+  "DatasheetUrl": "https://newhavendisplay.com/content/specs/NHD-2.23-12832UCY3.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4262/MFG_NHD-2.23-12832UCY3.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "NHD-2.23-12832UCY3-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 31.0,
+      "TotalPrice": 31.0
+     },
+     {
+      "BreakQuantity": 5,
+      "UnitPrice": 29.14,
+      "TotalPrice": 145.7
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 28.288,
+      "TotalPrice": 282.88
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 757,
+     "Name": "Newhaven Display Intl"
+    },
+    "QuantityAvailableforPackageType": 1073,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 50,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1073,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "125878",
+    "ValueText": "2.23\" (56.64mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "255237",
+    "ValueText": "60.00mm W x 18.00mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "421756",
+    "ValueText": "Without Backlight"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "797906",
+    "ValueText": "I2C, Parallel 8-Bit, SPI"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "445515",
+    "ValueText": "SSD1305"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "423204",
+    "ValueText": "Yellow"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "319929",
+    "ValueText": "Black"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 328333,
+   "Name": "NHD-2.23"
+  },
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "18",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "NHD22312832UCY3"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ADAFRUIT PIOLED - 128X32 MONOCHR",
+   "DetailedDescription": "SSD1306 OLED 1\" Display Raspberry Pi Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "3527",
+  "UnitPrice": 14.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/3527/7323609",
+  "DatasheetUrl": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-pioled-128x32-mini-oled-for-raspberry-pi.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4844/MFG_1528_3527.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-2293-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 14.95,
+      "TotalPrice": 14.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 96,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 96,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "392493",
+    "ValueText": "Raspberry Pi"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "339472",
+    "ValueText": "Display"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "381751",
+    "ValueText": "OLED 1\""
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "407374",
+    "ValueText": "SSD1306"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 715207,
+   "Name": "SSD1306"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8531.20.0020"
+  },
+  "OtherNames": [
+   "1528-2293"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "ASSEMBLED ADAFRUIT FEATHERWING O",
+   "DetailedDescription": "SSD1306, UG-2832HSWEG02 OLED 1\" Display Feather Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "3045",
+  "UnitPrice": 15.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/3045/9867090",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/309/3045_Web.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/695/3045.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-2842-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 15.95,
+      "TotalPrice": 15.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 91,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 91,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "346423",
+    "ValueText": "Feather"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "339472",
+    "ValueText": "Display"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "381751",
+    "ValueText": "OLED 1\""
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "768477",
+    "ValueText": "SSD1306, UG-2832HSWEG02"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 715207,
+   "Name": "SSD1306"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8471.60.1050"
+  },
+  "OtherNames": [
+   "1528-2842"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "2.23 MONOCHROME OLED BONNET FOR",
+   "DetailedDescription": "SSD1305 OLED 2.23\" Display Raspberry Pi Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "4567",
+  "UnitPrice": 22.5,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4567/12339162",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/424/4567_Web.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4849/MFG_1528_4567.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-4567-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 22.5,
+      "TotalPrice": 22.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 85,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 85,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "392493",
+    "ValueText": "Raspberry Pi"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "339472",
+    "ValueText": "Display"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "459430",
+    "ValueText": "OLED 2.23\""
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "445515",
+    "ValueText": "SSD1305"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321631",
+    "ValueText": "Board(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 698774,
+   "Name": "SSD1305"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8531.20.0020"
+  },
+  "OtherNames": [
+   "1528-4567"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "FEATHERWING OLED - 128X32 OLED A",
+   "DetailedDescription": "SSD1306, UG-2832HSWEG02 OLED 1\" Display Feather Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "2900",
+  "UnitPrice": 14.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/2900/5810890",
+  "DatasheetUrl": "https://cdn-shop.adafruit.com/datasheets/UG-2832HSWEG02.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4846/MFG_1528_2900.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-1547-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 14.95,
+      "TotalPrice": 14.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 60,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 60,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "346423",
+    "ValueText": "Feather"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "339472",
+    "ValueText": "Display"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "381751",
+    "ValueText": "OLED 1\""
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "768477",
+    "ValueText": "SSD1306, UG-2832HSWEG02"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321774",
+    "ValueText": "Board(s), Header(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 715207,
+   "Name": "SSD1306"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8531.20.0040"
+  },
+  "OtherNames": [
+   "1528-1547"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED WHITE 0.91\"",
+   "DetailedDescription": "Graphic LCD Display Module White OLED - Passive Matrix I2C, SPI 0.91\" (23.11mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 1568,
+   "Name": "SparkFun Electronics"
+  },
+  "ManufacturerProductNumber": "24177",
+  "UnitPrice": 7.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/sparkfun-electronics/24177/22257491",
+  "DatasheetUrl": "https://cdn.sparkfun.com/assets/c/a/d/2/6/UG-2832HSWEG04_0.91__PM_OLED_OLED_for_Univision__replacement_EN_.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5986/MFG_24177-OLED-White-128x32-Feature.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1568-24177-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 7.95,
+      "TotalPrice": 7.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1568,
+     "Name": "SparkFun Electronics"
+    },
+    "QuantityAvailableforPackageType": 29,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 29,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "37094",
+    "ValueText": "0.91\" (23.11mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "463912",
+    "ValueText": "22.38mm W x 5.58mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "421756",
+    "ValueText": "Without Backlight"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "752314",
+    "ValueText": "I2C, SPI"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "Unknown",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1568-24177",
+   "1568-LCD-24177-ND",
+   "LCD-24177",
+   "1568-LCD-24177"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED YELLOW 2.22",
+   "DetailedDescription": "Graphic LCD Display Module Yellow OLED - Passive Matrix I2C, Parallel 8-Bit, SPI 2.22\" (56.39mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 1481,
+   "Name": "Display Visions"
+  },
+  "ManufacturerProductNumber": "EA W128032-XALG",
+  "UnitPrice": 32.78,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/display-visions/EA-W128032-XALG/8021566",
+  "DatasheetUrl": "https://www.lcd-module.de/fileadmin/html-seiten/eng/pdf/grafik/W128032-XALG.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/42/EA-W128032-XALG.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1481-1279-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 32.78,
+      "TotalPrice": 32.78
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1481,
+     "Name": "Display Visions"
+    },
+    "QuantityAvailableforPackageType": 1,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1,
+  "ProductStatus": {
+   "Id": 1,
+   "Status": "Obsolete"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": false,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6122894033001",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "125792",
+    "ValueText": "2.22\" (56.39mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "245234",
+    "ValueText": "57.02mm W x 15.10mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "797906",
+    "ValueText": "I2C, Parallel 8-Bit, SPI"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "423204",
+    "ValueText": "Yellow"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 612702,
+   "Name": "EAW128032"
+  },
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "2",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1481-1279"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "2.23 INCH WHITE OLED MODULE",
+   "DetailedDescription": "Non-Touch Graphic LCD Display Module Transmissive OLED, Monochrome I2C, SPI 2.23\" (56.64mm) 128 x 32"
+  },
+  "Manufacturer": {
+   "Id": 3190,
+   "Name": "DLC Display Co.,Ltd"
+  },
+  "ManufacturerProductNumber": "DLC-D2.23AGW#1",
+  "UnitPrice": 25.4,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/dlc-display-co-ltd/DLC-D2-23AGW-1/26822637",
+  "DatasheetUrl": "https://www.dlcdisplay.com/viewfilebizce/1935597073931313152/DLC-D2.23AGW#1%20SPEC%20V1.0.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/7153/MFG_DLC-D2.23AGW%231.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "3190-DLC-D2.23AGW#1-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 25.4,
+      "TotalPrice": 25.4
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 20.361,
+      "TotalPrice": 203.61
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 17.442,
+      "TotalPrice": 1744.2
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 16.1778,
+      "TotalPrice": 8088.9
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 3190,
+     "Name": "DLC Display Co.,Ltd"
+    },
+    "QuantityAvailableforPackageType": 0,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381768",
+    "ValueText": "OLED, Monochrome"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "415766",
+    "ValueText": "Transmissive"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "380457",
+    "ValueText": "Non-Touch"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "125878",
+    "ValueText": "2.23\" (56.64mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "770940",
+    "ValueText": "55.02mm W x 13.10mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86320",
+    "ValueText": "128 x 32"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "752314",
+    "ValueText": "I2C, SPI"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "445515",
+    "ValueText": "SSD1305"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "12",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.91.9000"
+  },
+  "OtherNames": [
+   "3190-DLC-D2.23AGW#1"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED BLUE -",
+   "DetailedDescription": "Graphic LCD Display Module Blue OLED - Passive Matrix I2C, Serial 128 x 64"
+  },
+  "Manufacturer": {
+   "Id": 541,
+   "Name": "Vishay Dale"
+  },
+  "ManufacturerProductNumber": "O128O064DBPP3N0000",
+  "UnitPrice": 11.1,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/vishay-dale/O128O064DBPP3N0000/7041855",
+  "DatasheetUrl": "https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdf",
+  "PhotoUrl": "",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "541-O128O064DBPP3N0000-ND",
+    "PackageType": {
+     "Id": 17,
+     "Name": "Tray"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 11.1,
+      "TotalPrice": 11.1
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 8.556,
+      "TotalPrice": 85.56
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 7.0714,
+      "TotalPrice": 707.14
+     },
+     {
+      "BreakQuantity": 500,
+      "UnitPrice": 6.7914,
+      "TotalPrice": 3395.7
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 541,
+     "Name": "Vishay Dale"
+    },
+    "QuantityAvailableforPackageType": 17025,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 17025,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "150345",
+    "ValueText": "23.94mm W x 12.06mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86323",
+    "ValueText": "128 x 64"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "752312",
+    "ValueText": "I2C, Serial"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "320441",
+    "ValueText": "Blue"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "34",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "541-3484-ND",
+   "541-O128O064DBPP3N0000",
+   "541-3484"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED WHITE 1.3\"",
+   "DetailedDescription": "Graphic LCD Display Module Passive White OLED - Passive Matrix I2C, SPI 1.3\" (33.02mm) 128 x 64"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "938",
+  "UnitPrice": 19.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/938/5774238",
+  "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/197/938_Web.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/21/MFG_938.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-1512-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 19.95,
+      "TotalPrice": 19.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 2477,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 2477,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "384691",
+    "ValueText": "Passive"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "49097",
+    "ValueText": "1.3\" (33.02mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "166191",
+    "ValueText": "29.42mm W x 14.70mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "421756",
+    "ValueText": "Without Backlight"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86323",
+    "ValueText": "128 x 64"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "752314",
+    "ValueText": "I2C, SPI"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "319929",
+    "ValueText": "Black"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 127005,
+   "Name": "-"
+  },
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1528-1512"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED WHITE 0.96\"",
+   "DetailedDescription": "Graphic LCD Display Module White OLED - Passive Matrix I2C, SPI 0.96\" (24.38mm) 128 x 64"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "326",
+  "UnitPrice": 17.5,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/326/5353680",
+  "DatasheetUrl": "https://cdn-shop.adafruit.com/datasheets/UG-2864HSWEG01.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4849/MFG_1528_326.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-1220-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 17.5,
+      "TotalPrice": 17.5
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 1171,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 1171,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "37947",
+    "ValueText": "0.96\" (24.38mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "150210",
+    "ValueText": "23.74mm W x 12.86mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "421756",
+    "ValueText": "Without Backlight"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86323",
+    "ValueText": "128 x 64"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "752314",
+    "ValueText": "I2C, SPI"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "319929",
+    "ValueText": "Black"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 127005,
+   "Name": "-"
+  },
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1528-1220"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY MONOCHROME WHITE",
+   "DetailedDescription": "Graphic LCD Display Module Passive White OLED, Monochrome I2C 0.96\" (24.38mm) 128 x 64"
+  },
+  "Manufacturer": {
+   "Id": 1597,
+   "Name": "Seeed Technology Co., Ltd"
+  },
+  "ManufacturerProductNumber": "104020208",
+  "UnitPrice": 6.0,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/104020208/10667534",
+  "DatasheetUrl": "https://raw.githubusercontent.com/SeeedDocument/Grove-OLED-Display-0.96-SSD1315-/master/res/OEL%20Display%20Module.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1002/MFG_104020208.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1597-104020208-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 6.0,
+      "TotalPrice": 6.0
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1597,
+     "Name": "Seeed Technology Co., Ltd"
+    },
+    "QuantityAvailableforPackageType": 812,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 812,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381768",
+    "ValueText": "OLED, Monochrome"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "384691",
+    "ValueText": "Passive"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "37947",
+    "ValueText": "0.96\" (24.38mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "144766",
+    "ValueText": "21.74mm W x 10.86mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86323",
+    "ValueText": "128 x 64"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "356918",
+    "ValueText": "I2C"
+   },
+   {
+    "ParameterId": 455,
+    "ParameterText": "Controller Type",
+    "ParameterType": "String",
+    "ValueId": "445516",
+    "ValueText": "SSD1315"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "421080",
+    "ValueText": "White"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {},
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "7",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unknown",
+   "RohsStatus": "Unknown",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.91.1000"
+  },
+  "OtherNames": [
+   "1597-104020208"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "FEATHERWING OLED 1.3\" 128X64",
+   "DetailedDescription": "SH1107 OLED 1.3\" Display Feather Platform Evaluation Expansion Board"
+  },
+  "Manufacturer": {
+   "Id": 1528,
+   "Name": "Adafruit Industries LLC"
+  },
+  "ManufacturerProductNumber": "4650",
+  "UnitPrice": 14.95,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4650/13170952",
+  "DatasheetUrl": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-oled-featherwing.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4466/MFG_4650.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1528-4650-ND",
+    "PackageType": {
+     "Id": 3,
+     "Name": "Bulk"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 14.95,
+      "TotalPrice": 14.95
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": false,
+    "Supplier": {
+     "Id": 1528,
+     "Name": "Adafruit Industries LLC"
+    },
+    "QuantityAvailableforPackageType": 765,
+    "MinimumOrderQuantity": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 765,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "",
+  "Parameters": [
+   {
+    "ParameterId": 1742,
+    "ParameterText": "Platform",
+    "ParameterType": "String",
+    "ValueId": "346423",
+    "ValueText": "Feather"
+   },
+   {
+    "ParameterId": 183,
+    "ParameterText": "Type",
+    "ParameterType": "String",
+    "ValueId": "339472",
+    "ValueText": "Display"
+   },
+   {
+    "ParameterId": 110,
+    "ParameterText": "Function",
+    "ParameterType": "String",
+    "ValueId": "381755",
+    "ValueText": "OLED 1.3\""
+   },
+   {
+    "ParameterId": 984,
+    "ParameterText": "Utilized IC / Part",
+    "ParameterType": "String",
+    "ValueId": "492530",
+    "ValueText": "SH1107"
+   },
+   {
+    "ParameterId": 224,
+    "ParameterText": "Contents",
+    "ParameterType": "String",
+    "ValueId": "321774",
+    "ValueText": "Board(s), Header(s)"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 698777,
+   "Name": "SH1107"
+  },
+  "Category": {
+   "CategoryId": 33,
+   "ParentId": 0,
+   "Name": "Development Boards, Kits, Programmers",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+   "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+   "ChildCategories": [
+    {
+     "CategoryId": 2041,
+     "ParentId": 33,
+     "Name": "Evaluation Boards",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/282/325/MFG_EVAL-ADE9000EBZ_tmb.jpg",
+     "SeoDescription": "Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation. Types of evaluation boards include analog to digital converters (ADCs), audio amplifiers, digital to analog converters (DACs), complex logic (FPGA, CPLD), MCU, DSP, expansion boards, daughter cards, LED drivers, linear voltage regulators, op amps, sensors, RF, RFID, DC/DC & AC/DC (Off-Line) SMPS, and more.",
+     "ChildCategories": [
+      {
+       "CategoryId": 797,
+       "ParentId": 2041,
+       "Name": "Expansion Boards, Daughter Cards",
+       "ProductCount": 0,
+       "NewProductCount": 0,
+       "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg",
+       "SeoDescription": "Evaluation and expansion boards and daughter cards are used to add functionality to microcontroller platforms and are designed to stack onto existing pin headers or preconfigured attachment ports. Common function types include, amplifiers, atomizers, audio, clock timing, interface connectivity, data acquisition/logging, display, human interface, memory, motor drivers, optoelectronics, power management, prototyping, relay and transistors, RF and sensor arrays.",
+       "ChildCategories": []
+      }
+     ]
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "4",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH not applicable",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "1  (Unlimited)",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1528-4650"
+  ]
+ },
+ {
+  "Description": {
+   "ProductDescription": "GRAPHIC DISPLAY OLED YELLOW 2.42",
+   "DetailedDescription": "Graphic LCD Display Module Yellow OLED - Passive Matrix I2C, Parallel 8-Bit, SPI 2.42\" (61.47mm) 128 x 64"
+  },
+  "Manufacturer": {
+   "Id": 1481,
+   "Name": "Display Visions"
+  },
+  "ManufacturerProductNumber": "EA W128064-XALG",
+  "UnitPrice": 54.15,
+  "ProductUrl": "https://www.digikey.com/en/products/detail/display-visions/EA-W128064-XALG/8021567",
+  "DatasheetUrl": "https://www.lcd-module.de/fileadmin/html-seiten/eng/pdf/grafik/W128064-XALG.pdf",
+  "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/42/EA-W128064-XALG.jpg",
+  "ProductVariations": [
+   {
+    "DigiKeyProductNumber": "1481-1280-ND",
+    "PackageType": {
+     "Id": 62,
+     "Name": "Bag"
+    },
+    "StandardPricing": [
+     {
+      "BreakQuantity": 1,
+      "UnitPrice": 54.15,
+      "TotalPrice": 54.15
+     },
+     {
+      "BreakQuantity": 10,
+      "UnitPrice": 44.688,
+      "TotalPrice": 446.88
+     },
+     {
+      "BreakQuantity": 100,
+      "UnitPrice": 39.237,
+      "TotalPrice": 3923.7
+     }
+    ],
+    "MyPricing": [],
+    "MarketPlace": false,
+    "TariffActive": true,
+    "Supplier": {
+     "Id": 1481,
+     "Name": "Display Visions"
+    },
+    "QuantityAvailableforPackageType": 288,
+    "MaxQuantityForDistribution": 999999999,
+    "MinimumOrderQuantity": 1,
+    "StandardPackage": 1,
+    "DigiReelFee": 0.0
+   }
+  ],
+  "QuantityAvailable": 288,
+  "ProductStatus": {
+   "Id": 0,
+   "Status": "Active"
+  },
+  "BackOrderNotAllowed": false,
+  "NormallyStocking": true,
+  "Discontinued": false,
+  "EndOfLife": false,
+  "Ncnr": false,
+  "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6122894033001",
+  "Parameters": [
+   {
+    "ParameterId": 38,
+    "ParameterText": "Display Type",
+    "ParameterType": "String",
+    "ValueId": "381744",
+    "ValueText": "OLED - Passive Matrix"
+   },
+   {
+    "ParameterId": 108,
+    "ParameterText": "Display Mode",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 1857,
+    "ParameterText": "Touchscreen",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 652,
+    "ParameterText": "Diagonal Screen Size",
+    "ParameterType": "String",
+    "ValueId": "129165",
+    "ValueText": "2.42\" (61.47mm)"
+   },
+   {
+    "ParameterId": 339,
+    "ParameterText": "Viewing Area",
+    "ParameterType": "String",
+    "ValueId": "245228",
+    "ValueText": "57.01mm W x 28.90mm H"
+   },
+   {
+    "ParameterId": 111,
+    "ParameterText": "Backlight",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   },
+   {
+    "ParameterId": 418,
+    "ParameterText": "Dot Pixels",
+    "ParameterType": "String",
+    "ValueId": "86323",
+    "ValueText": "128 x 64"
+   },
+   {
+    "ParameterId": 154,
+    "ParameterText": "Interface",
+    "ParameterType": "String",
+    "ValueId": "797906",
+    "ValueText": "I2C, Parallel 8-Bit, SPI"
+   },
+   {
+    "ParameterId": 1856,
+    "ParameterText": "Graphics Color",
+    "ParameterType": "String",
+    "ValueId": "423204",
+    "ValueText": "Yellow"
+   },
+   {
+    "ParameterId": 1739,
+    "ParameterText": "Background Color",
+    "ParameterType": "String",
+    "ValueId": "1",
+    "ValueText": "-"
+   }
+  ],
+  "BaseProductNumber": {
+   "Id": 612703,
+   "Name": "EAW128064"
+  },
+  "Category": {
+   "CategoryId": 7,
+   "ParentId": 0,
+   "Name": "Optoelectronics",
+   "ProductCount": 0,
+   "NewProductCount": 0,
+   "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+   "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+   "ChildCategories": [
+    {
+     "CategoryId": 107,
+     "ParentId": 7,
+     "Name": "LCD, OLED, Graphic",
+     "ProductCount": 0,
+     "NewProductCount": 0,
+     "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+     "SeoDescription": "LCD, OLED, Graphic Display Modules are displays that use liquid crystal or organic light emitting diode technology to provide visual graphics. The display types are CSTN, FFSTN, FSTN, LCD, monochrome, OLED, plasma, STN, and TFT, with display modes of passive, reflective, transflective, and transmissive. The touchscreen\u00a0styles are available in capacitive and resistive versions.",
+     "ChildCategories": []
+    }
+   ]
+  },
+  "ManufacturerLeadWeeks": "2",
+  "ManufacturerPublicQuantity": 0,
+  "Series": {
+   "Id": 818,
+   "Name": "-"
+  },
+  "Classifications": {
+   "ReachStatus": "REACH Unaffected",
+   "RohsStatus": "ROHS3 Compliant",
+   "MoistureSensitivityLevel": "Not Applicable",
+   "ExportControlClassNumber": "EAR99",
+   "HtsusCode": "8524.92.0000"
+  },
+  "OtherNames": [
+   "1481-1280"
+  ]
+ }
+]
